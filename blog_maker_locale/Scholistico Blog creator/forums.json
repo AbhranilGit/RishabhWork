@@ -1,0 +1,758 @@
+[
+	{
+		"id": 11747,
+		"date": "2022-12-18T13:23:10",
+		"date_gmt": "2022-12-18T13:23:10",
+		"guid": {
+			"rendered": "http://scholistico.com/forums/forum/animal-communication/",
+			"raw": "http://scholistico.com/forums/forum/animal-communication/"
+		},
+		"modified": "2023-09-23T17:42:33",
+		"modified_gmt": "2023-09-23T21:42:33",
+		"slug": "animal-communication",
+		"status": "private",
+		"link": "https://scholistico.com/groups/animal-communication/forum/animal-communication/",
+		"author": 3,
+		"parent": 0,
+		"menu_order": 0,
+		"sticky": false,
+		"featured_media": {
+			"full": "https://scholistico.com/wp-content/uploads/buddypress/groups/11/cover-image/635850f9394b4-bp-cover-image.jpeg",
+			"thumb": "https://scholistico.com/wp-content/uploads/buddypress/groups/11/cover-image/635850f9394b4-bp-cover-image.jpeg"
+		},
+		"total_topic_count": 9,
+		"last_topic_id": 192684,
+		"total_reply_count": 4,
+		"last_reply_id": 196254,
+		"last_active_author": 0,
+		"last_active_time": "2025-03-06 13:49:40",
+		"is_closed": false,
+		"is_forum_category": false,
+		"title": {
+			"raw": "Animal Communication",
+			"rendered": "Private: Animal Communication"
+		},
+		"short_content": "",
+		"content": {
+			"raw": "",
+			"rendered": ""
+		},
+		"group": {
+			"id": 11,
+			"creator_id": 3,
+			"name": "Animal Communication",
+			"slug": "animal-communication",
+			"description": "",
+			"status": "private",
+			"parent_id": 0,
+			"enable_forum": 1,
+			"date_created": "2022-10-21 19:32:02",
+			"args": null,
+			"avatar_urls": {
+				"thumb": "https://scholistico.com/wp-content/uploads/group-avatars/11/635850c9e29c3-bpthumb.jpg",
+				"full": "https://scholistico.com/wp-content/uploads/group-avatars/11/635850c9d65f5-bpfull.jpg"
+			}
+		},
+		"action_states": {
+			"subscribed": false
+		},
+		"user_permission": {
+			"show_topics": true,
+			"show_subforum": true,
+			"create_topic": true
+		},
+		"sub_forums": null,
+		"can_report": false,
+		"reported": false,
+		"report_button_text": "Report",
+		"report_type": "Post",
+		"content_native": [
+
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "https://scholistico.com/wp-json/buddyboss/v1/forums/11747",
+					"targetHints": {
+						"allow": [
+							"GET"
+						]
+					}
+				}
+			],
+			"collection": [
+				{
+					"href": "https://scholistico.com/wp-json/buddyboss/v1/forums/"
+				}
+			],
+			"user": [
+				{
+					"embeddable": true,
+					"href": "https://scholistico.com/wp-json/buddyboss/v1/members/3"
+				}
+			],
+			"group": [
+				{
+					"embeddable": true,
+					"href": "https://scholistico.com/wp-json/buddyboss/v1/groups/11"
+				}
+			]
+		}
+	},
+	{
+		"id": 5358,
+		"date": "2022-08-25T16:00:20",
+		"date_gmt": "2022-08-25T16:00:20",
+		"guid": {
+			"rendered": "http://scholistico.com/?post_type=forum&#038;p=5358",
+			"raw": "http://scholistico.com/?post_type=forum&#038;p=5358"
+		},
+		"modified": "2024-01-13T14:32:43",
+		"modified_gmt": "2024-01-13T19:32:43",
+		"slug": "kunstzinnige-therapie-practitioner",
+		"status": "private",
+		"link": "https://scholistico.com/groups/art-therapy/forum/kunstzinnige-therapie-practitioner/",
+		"author": 3,
+		"parent": 0,
+		"menu_order": 0,
+		"sticky": false,
+		"featured_media": {
+			"full": "https://scholistico.com/wp-content/uploads/buddypress/groups/9/cover-image/674720111cc62-bp-cover-image.png",
+			"thumb": "https://scholistico.com/wp-content/uploads/buddypress/groups/9/cover-image/674720111cc62-bp-cover-image.png"
+		},
+		"total_topic_count": 110,
+		"last_topic_id": 191614,
+		"total_reply_count": 846,
+		"last_reply_id": 197179,
+		"last_active_author": 0,
+		"last_active_time": "2025-03-09 04:53:38",
+		"is_closed": false,
+		"is_forum_category": false,
+		"title": {
+			"raw": "Art Therapy Practitioner",
+			"rendered": "Private: Art Therapy Practitioner"
+		},
+		"short_content": "",
+		"content": {
+			"raw": "",
+			"rendered": ""
+		},
+		"group": {
+			"id": 9,
+			"creator_id": 3,
+			"name": "Art Therapy",
+			"slug": "art-therapy",
+			"description": "",
+			"status": "private",
+			"parent_id": 0,
+			"enable_forum": 1,
+			"date_created": "2022-10-14 22:50:57",
+			"args": null,
+			"avatar_urls": {
+				"thumb": "https://scholistico.com/wp-content/uploads/group-avatars/9/63584fab04665-bpthumb.png",
+				"full": "https://scholistico.com/wp-content/uploads/group-avatars/9/63584faadb51e-bpfull.png"
+			}
+		},
+		"action_states": {
+			"subscribed": false
+		},
+		"user_permission": {
+			"show_topics": true,
+			"show_subforum": true,
+			"create_topic": true
+		},
+		"sub_forums": null,
+		"can_report": false,
+		"reported": false,
+		"report_button_text": "Report",
+		"report_type": "Post",
+		"content_native": [
+
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "https://scholistico.com/wp-json/buddyboss/v1/forums/5358",
+					"targetHints": {
+						"allow": [
+							"GET"
+						]
+					}
+				}
+			],
+			"collection": [
+				{
+					"href": "https://scholistico.com/wp-json/buddyboss/v1/forums/"
+				}
+			],
+			"user": [
+				{
+					"embeddable": true,
+					"href": "https://scholistico.com/wp-json/buddyboss/v1/members/3"
+				}
+			],
+			"group": [
+				{
+					"embeddable": true,
+					"href": "https://scholistico.com/wp-json/buddyboss/v1/groups/9"
+				}
+			]
+		}
+	},
+	{
+		"id": 115249,
+		"date": "2024-09-10T13:37:42",
+		"date_gmt": "2024-09-10T17:37:42",
+		"guid": {
+			"rendered": "https://scholistico.com/?post_type=forum&#038;p=115249",
+			"raw": "https://scholistico.com/?post_type=forum&#038;p=115249"
+		},
+		"modified": "2024-09-10T13:38:25",
+		"modified_gmt": "2024-09-10T17:38:25",
+		"slug": "holistic-health",
+		"status": "private",
+		"link": "https://scholistico.com/groups/holistic-health-practitioner/forum/holistic-health/",
+		"author": 215,
+		"parent": 0,
+		"menu_order": 0,
+		"sticky": false,
+		"featured_media": {
+			"full": "https://scholistico.com/wp-content/uploads/2023/06/HHP.png",
+			"thumb": "https://scholistico.com/wp-content/uploads/2023/06/HHP-150x150.png"
+		},
+		"total_topic_count": 24,
+		"last_topic_id": 196425,
+		"total_reply_count": 110,
+		"last_reply_id": 196444,
+		"last_active_author": 0,
+		"last_active_time": "2025-03-07 05:41:03",
+		"is_closed": false,
+		"is_forum_category": false,
+		"title": {
+			"raw": "Holistic Health",
+			"rendered": "Private: Holistic Health"
+		},
+		"short_content": "",
+		"content": {
+			"raw": "",
+			"rendered": ""
+		},
+		"group": {
+			"id": 16,
+			"creator_id": 3,
+			"name": "Holistic Health",
+			"slug": "holistic-health-practitioner",
+			"description": "",
+			"status": "private",
+			"parent_id": 0,
+			"enable_forum": 1,
+			"date_created": "2023-06-13 18:53:02",
+			"args": null,
+			"avatar_urls": {
+				"thumb": "https://scholistico.com/wp-content/uploads/group-avatars/16/64c2997fc60ba-bpthumb.png",
+				"full": "https://scholistico.com/wp-content/uploads/group-avatars/16/64c2997f9fac1-bpfull.png"
+			}
+		},
+		"action_states": {
+			"subscribed": false
+		},
+		"user_permission": {
+			"show_topics": true,
+			"show_subforum": true,
+			"create_topic": true
+		},
+		"sub_forums": null,
+		"can_report": false,
+		"reported": false,
+		"report_button_text": "Report",
+		"report_type": "Post",
+		"content_native": [
+
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "https://scholistico.com/wp-json/buddyboss/v1/forums/115249",
+					"targetHints": {
+						"allow": [
+							"GET"
+						]
+					}
+				}
+			],
+			"collection": [
+				{
+					"href": "https://scholistico.com/wp-json/buddyboss/v1/forums/"
+				}
+			],
+			"user": [
+				{
+					"embeddable": true,
+					"href": "https://scholistico.com/wp-json/buddyboss/v1/members/215"
+				}
+			],
+			"group": [
+				{
+					"embeddable": true,
+					"href": "https://scholistico.com/wp-json/buddyboss/v1/groups/16"
+				}
+			]
+		}
+	},
+	{
+		"id": 115243,
+		"date": "2024-09-10T13:27:26",
+		"date_gmt": "2024-09-10T17:27:26",
+		"guid": {
+			"rendered": "https://scholistico.com/?post_type=forum&#038;p=115243",
+			"raw": "https://scholistico.com/?post_type=forum&#038;p=115243"
+		},
+		"modified": "2024-09-10T13:31:54",
+		"modified_gmt": "2024-09-10T17:31:54",
+		"slug": "holistic-nutrition",
+		"status": "private",
+		"link": "https://scholistico.com/groups/holistic-nutrition/forum/holistic-nutrition/",
+		"author": 215,
+		"parent": 0,
+		"menu_order": 0,
+		"sticky": false,
+		"featured_media": {
+			"full": "https://scholistico.com/wp-content/uploads/2024/01/Nutritions-Role-in-Modulating-Immunity.png",
+			"thumb": "https://scholistico.com/wp-content/uploads/2024/01/Nutritions-Role-in-Modulating-Immunity-150x150.png"
+		},
+		"total_topic_count": 0,
+		"last_topic_id": 196738,
+		"total_reply_count": 0,
+		"last_reply_id": 196738,
+		"last_active_author": 0,
+		"last_active_time": "2025-03-07 21:38:04",
+		"is_closed": false,
+		"is_forum_category": false,
+		"title": {
+			"raw": "Holistic Nutrition",
+			"rendered": "Private: Holistic Nutrition"
+		},
+		"short_content": "",
+		"content": {
+			"raw": "",
+			"rendered": ""
+		},
+		"group": {
+			"id": 17,
+			"creator_id": 3,
+			"name": "Holistic Nutrition",
+			"slug": "holistic-nutrition",
+			"description": "",
+			"status": "private",
+			"parent_id": 0,
+			"enable_forum": 1,
+			"date_created": "2023-07-27 16:32:28",
+			"args": null,
+			"avatar_urls": {
+				"thumb": "https://scholistico.com/wp-content/uploads/group-avatars/17/64c29ce3a5548-bpthumb.jpg",
+				"full": "https://scholistico.com/wp-content/uploads/group-avatars/17/64c29ce39f436-bpfull.jpg"
+			}
+		},
+		"action_states": {
+			"subscribed": false
+		},
+		"user_permission": {
+			"show_topics": true,
+			"show_subforum": true,
+			"create_topic": true
+		},
+		"sub_forums": null,
+		"can_report": false,
+		"reported": false,
+		"report_button_text": "Report",
+		"report_type": "Post",
+		"content_native": [
+
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "https://scholistico.com/wp-json/buddyboss/v1/forums/115243",
+					"targetHints": {
+						"allow": [
+							"GET"
+						]
+					}
+				}
+			],
+			"collection": [
+				{
+					"href": "https://scholistico.com/wp-json/buddyboss/v1/forums/"
+				}
+			],
+			"user": [
+				{
+					"embeddable": true,
+					"href": "https://scholistico.com/wp-json/buddyboss/v1/members/215"
+				}
+			],
+			"group": [
+				{
+					"embeddable": true,
+					"href": "https://scholistico.com/wp-json/buddyboss/v1/groups/17"
+				}
+			]
+		}
+	},
+	{
+		"id": 66345,
+		"date": "2024-04-03T09:51:52",
+		"date_gmt": "2024-04-03T13:51:52",
+		"guid": {
+			"rendered": "https://scholistico.com/?post_type=forum&#038;p=66345",
+			"raw": "https://scholistico.com/?post_type=forum&#038;p=66345"
+		},
+		"modified": "2024-04-03T10:54:02",
+		"modified_gmt": "2024-04-03T14:54:02",
+		"slug": "naturopathy-practitioner",
+		"status": "private",
+		"link": "https://scholistico.com/groups/naturopathy/forum/naturopathy-practitioner/",
+		"author": 215,
+		"parent": 0,
+		"menu_order": 0,
+		"sticky": false,
+		"featured_media": {
+			"full": "https://scholistico.com/wp-content/uploads/buddypress/groups/15/cover-image/64c29b3010710-bp-cover-image.jpg",
+			"thumb": "https://scholistico.com/wp-content/uploads/buddypress/groups/15/cover-image/64c29b3010710-bp-cover-image.jpg"
+		},
+		"total_topic_count": 84,
+		"last_topic_id": 191602,
+		"total_reply_count": 803,
+		"last_reply_id": 196734,
+		"last_active_author": 0,
+		"last_active_time": "2025-03-07 21:26:52",
+		"is_closed": false,
+		"is_forum_category": false,
+		"title": {
+			"raw": "Naturopathy Practitioner",
+			"rendered": "Private: Naturopathy Practitioner"
+		},
+		"short_content": "",
+		"content": {
+			"raw": "",
+			"rendered": ""
+		},
+		"group": {
+			"id": 15,
+			"creator_id": 3,
+			"name": "Naturopathy",
+			"slug": "naturopathy",
+			"description": "",
+			"status": "private",
+			"parent_id": 0,
+			"enable_forum": 1,
+			"date_created": "2023-05-22 23:20:29",
+			"args": null,
+			"avatar_urls": {
+				"thumb": "https://scholistico.com/wp-content/uploads/group-avatars/15/64c29b18f3d95-bpthumb.jpg",
+				"full": "https://scholistico.com/wp-content/uploads/group-avatars/15/64c29b18efcf2-bpfull.jpg"
+			}
+		},
+		"action_states": {
+			"subscribed": false
+		},
+		"user_permission": {
+			"show_topics": true,
+			"show_subforum": true,
+			"create_topic": true
+		},
+		"sub_forums": null,
+		"can_report": false,
+		"reported": false,
+		"report_button_text": "Report",
+		"report_type": "Post",
+		"content_native": [
+
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "https://scholistico.com/wp-json/buddyboss/v1/forums/66345",
+					"targetHints": {
+						"allow": [
+							"GET"
+						]
+					}
+				}
+			],
+			"collection": [
+				{
+					"href": "https://scholistico.com/wp-json/buddyboss/v1/forums/"
+				}
+			],
+			"user": [
+				{
+					"embeddable": true,
+					"href": "https://scholistico.com/wp-json/buddyboss/v1/members/215"
+				}
+			],
+			"group": [
+				{
+					"embeddable": true,
+					"href": "https://scholistico.com/wp-json/buddyboss/v1/groups/15"
+				}
+			]
+		}
+	},
+	{
+		"id": 13478,
+		"date": "2023-01-26T16:05:47",
+		"date_gmt": "2023-01-26T16:05:47",
+		"guid": {
+			"rendered": "http://scholistico.com/?post_type=forum&#038;p=13478",
+			"raw": "http://scholistico.com/?post_type=forum&#038;p=13478"
+		},
+		"modified": "2023-09-23T17:34:25",
+		"modified_gmt": "2023-09-23T21:34:25",
+		"slug": "scholistico",
+		"status": "publish",
+		"link": "https://scholistico.com/groups/scholistico/forum/scholistico/",
+		"author": 3,
+		"parent": 0,
+		"menu_order": 0,
+		"sticky": false,
+		"featured_media": {
+			"full": "https://scholistico.com/wp-content/uploads/buddypress/groups/10/cover-image/67401d12eaed1-bp-cover-image.jpg",
+			"thumb": "https://scholistico.com/wp-content/uploads/buddypress/groups/10/cover-image/67401d12eaed1-bp-cover-image.jpg"
+		},
+		"total_topic_count": 50,
+		"last_topic_id": 196569,
+		"total_reply_count": 427,
+		"last_reply_id": 196569,
+		"last_active_author": 0,
+		"last_active_time": "2025-03-07 15:01:52",
+		"is_closed": false,
+		"is_forum_category": false,
+		"title": {
+			"raw": "Scholistico",
+			"rendered": "Scholistico"
+		},
+		"short_content": "",
+		"content": {
+			"raw": "",
+			"rendered": ""
+		},
+		"group": {
+			"id": 10,
+			"creator_id": 3,
+			"name": "Scholistico",
+			"slug": "scholistico",
+			"description": "",
+			"status": "public",
+			"parent_id": 0,
+			"enable_forum": 1,
+			"date_created": "2022-10-14 22:56:04",
+			"args": null,
+			"avatar_urls": {
+				"thumb": "https://scholistico.com/wp-content/uploads/group-avatars/10/66bbe787240b4-bpthumb.jpg",
+				"full": "https://scholistico.com/wp-content/uploads/group-avatars/10/66bbe787157a0-bpfull.jpg"
+			}
+		},
+		"action_states": {
+			"subscribed": false
+		},
+		"user_permission": {
+			"show_topics": true,
+			"show_subforum": true,
+			"create_topic": true
+		},
+		"sub_forums": [
+			{
+				"id": 13481,
+				"slug": "announcements",
+				"title": "Announcements",
+				"count": {
+					"topic": "1",
+					"reply": "2"
+				},
+				"link": "https://scholistico.com/groups/scholistico/forum/scholistico/announcements/",
+				"group": ""
+			},
+			{
+				"id": 13483,
+				"slug": "feature-requests",
+				"title": "Feature Requests",
+				"count": {
+					"topic": "4",
+					"reply": "29"
+				},
+				"link": "https://scholistico.com/groups/scholistico/forum/scholistico/feature-requests/",
+				"group": ""
+			},
+			{
+				"id": 13488,
+				"slug": "report-a-problem",
+				"title": "Report a problem",
+				"count": {
+					"topic": "2",
+					"reply": "13"
+				},
+				"link": "https://scholistico.com/groups/scholistico/forum/scholistico/report-a-problem/",
+				"group": ""
+			},
+			{
+				"id": 13490,
+				"slug": "sales-and-offers",
+				"title": "Sales and offers",
+				"count": {
+					"topic": "0",
+					"reply": "0"
+				},
+				"link": "https://scholistico.com/groups/scholistico/forum/scholistico/sales-and-offers/",
+				"group": ""
+			},
+			{
+				"id": 13486,
+				"slug": "tips-and-tricks",
+				"title": "Tips and Tricks",
+				"count": {
+					"topic": "1",
+					"reply": "1"
+				},
+				"link": "https://scholistico.com/groups/scholistico/forum/scholistico/tips-and-tricks/",
+				"group": ""
+			}
+		],
+		"can_report": false,
+		"reported": false,
+		"report_button_text": "Report",
+		"report_type": "Post",
+		"content_native": [
+
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "https://scholistico.com/wp-json/buddyboss/v1/forums/13478",
+					"targetHints": {
+						"allow": [
+							"GET"
+						]
+					}
+				}
+			],
+			"collection": [
+				{
+					"href": "https://scholistico.com/wp-json/buddyboss/v1/forums/"
+				}
+			],
+			"user": [
+				{
+					"embeddable": true,
+					"href": "https://scholistico.com/wp-json/buddyboss/v1/members/3"
+				}
+			],
+			"group": [
+				{
+					"embeddable": true,
+					"href": "https://scholistico.com/wp-json/buddyboss/v1/groups/10"
+				}
+			]
+		}
+	},
+	{
+		"id": 157025,
+		"date": "2024-12-19T13:24:25",
+		"date_gmt": "2024-12-19T18:24:25",
+		"guid": {
+			"rendered": "https://scholistico.com/?post_type=forum&#038;p=157025",
+			"raw": "https://scholistico.com/?post_type=forum&#038;p=157025"
+		},
+		"modified": "2024-12-19T13:25:00",
+		"modified_gmt": "2024-12-19T18:25:00",
+		"slug": "scholistico-alumnis",
+		"status": "private",
+		"link": "https://scholistico.com/groups/scholistico-alumni/forum/scholistico-alumnis/",
+		"author": 16325,
+		"parent": 0,
+		"menu_order": 0,
+		"sticky": false,
+		"featured_media": {
+			"full": "https://scholistico.com/wp-content/uploads/buddypress/groups/20/cover-image/6732edcb03e51-bp-cover-image.jpg",
+			"thumb": "https://scholistico.com/wp-content/uploads/buddypress/groups/20/cover-image/6732edcb03e51-bp-cover-image.jpg"
+		},
+		"total_topic_count": 5,
+		"last_topic_id": 161109,
+		"total_reply_count": 5,
+		"last_reply_id": 162041,
+		"last_active_author": 0,
+		"last_active_time": "2025-01-02 19:41:20",
+		"is_closed": false,
+		"is_forum_category": false,
+		"title": {
+			"raw": "Scholistico Alumnis",
+			"rendered": "Private: Scholistico Alumnis"
+		},
+		"short_content": "",
+		"content": {
+			"raw": "",
+			"rendered": ""
+		},
+		"group": {
+			"id": 20,
+			"creator_id": 3,
+			"name": "Scholistico Alumnis",
+			"slug": "scholistico-alumni",
+			"description": "",
+			"status": "private",
+			"parent_id": 0,
+			"enable_forum": 1,
+			"date_created": "2024-11-11 07:40:08",
+			"args": null,
+			"avatar_urls": {
+				"thumb": "https://scholistico.com/wp-content/uploads/group-avatars/20/6732f126bd3bd-bpthumb.jpg",
+				"full": "https://scholistico.com/wp-content/uploads/group-avatars/20/6732f126b67d4-bpfull.jpg"
+			}
+		},
+		"action_states": {
+			"subscribed": false
+		},
+		"user_permission": {
+			"show_topics": true,
+			"show_subforum": true,
+			"create_topic": true
+		},
+		"sub_forums": null,
+		"can_report": false,
+		"reported": false,
+		"report_button_text": "Report",
+		"report_type": "Post",
+		"content_native": [
+
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "https://scholistico.com/wp-json/buddyboss/v1/forums/157025",
+					"targetHints": {
+						"allow": [
+							"GET"
+						]
+					}
+				}
+			],
+			"collection": [
+				{
+					"href": "https://scholistico.com/wp-json/buddyboss/v1/forums/"
+				}
+			],
+			"user": [
+				{
+					"embeddable": true,
+					"href": "https://scholistico.com/wp-json/buddyboss/v1/members/16325"
+				}
+			],
+			"group": [
+				{
+					"embeddable": true,
+					"href": "https://scholistico.com/wp-json/buddyboss/v1/groups/20"
+				}
+			]
+		}
+	}
+]

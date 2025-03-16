@@ -1,0 +1,61 @@
+
+#Art Therapy
+{
+  "5-benefici-dellarteterapia-per-gli-adulti": "https://it.scholistico.com/5-benefici-dellarteterapia-per-gli-adulti/",
+  "10-attivita-di-arteterapia-per-le-coppie-per-consolidare-il-loro-rapporto": "https://it.scholistico.com/10-attivita-di-arteterapia-per-le-coppie-per-consolidare-il-loro-rapporto/",
+  "8-attivita-di-arteterapia-per-lansia": "https://it.scholistico.com/8-attivita-di-arteterapia-per-lansia/",
+  "7-migliori-esercizi-di-arteterapia-per-la-demenza": "https://it.scholistico.com/7-migliori-esercizi-di-arteterapia-per-la-demenza/",
+  "5-migliori-esercizi-di-arteterapia-per-il-supporto-allautismo": "https://it.scholistico.com/5-migliori-esercizi-di-arteterapia-per-il-supporto-allautismo/",
+  "10-attivita-di-arteterapia-per-riduzione-di-stress": "https://it.scholistico.com/10-attivita-di-arteterapia-per-riduzione-di-stress/",
+  "esercizi-di-arteterapia-per-recupero-del-lutto": "https://it.scholistico.com/esercizi-di-arteterapia-per-recupero-del-lutto/",
+  "5-piu-efficaci-tecniche-di-arteterapia-per-i-veterani": "https://it.scholistico.com/5-piu-efficaci-tecniche-di-arteterapia-per-i-veterani/",
+  "5-efficaci-esercizi-di-arteterapia-per-il-recupero-da-ptsd": "https://it.scholistico.com/5-efficaci-esercizi-di-arteterapia-per-il-recupero-da-ptsd/",
+  "arteterapia-clinica-e-non-clinica-una-guida-completa-per-capire-le-differenze": "https://it.scholistico.com/arteterapia-clinica-e-non-clinica-una-guida-completa-per-capire-le-differenze/",
+  "10-eccellenti-attivita-di-arteterapia-per-gli-adolescenti": "https://it.scholistico.com/10-eccellenti-attivita-di-arteterapia-per-gli-adolescenti/",
+  "10-esercizi-di-arteterapia-piu-efficaci-per-il-recupero-dalle-dipendenze": "https://it.scholistico.com/10-esercizi-di-arteterapia-piu-efficaci-per-il-recupero-dalle-dipendenze/",
+  "abbracciare-il-suo-ruolo-di-operatore-non-clinico-di-arteterapia": "https://it.scholistico.com/abbracciare-il-suo-ruolo-di-operatore-non-clinico-di-arteterapia/",
+  "la-guida-completa-delle-attivita-di-arteterapia-per-il-sonno-e-le-notti-riposanti": "https://it.scholistico.com/la-guida-completa-delle-attivita-di-arteterapia-per-il-sonno-e-le-notti-riposanti/",
+  "i-benefici-della-colorazione-per-adulti-nei-casi-di-stress": "https://it.scholistico.com/i-benefici-della-colorazione-per-adulti-nei-casi-di-stress/",
+  "il-potere-dellarteterapia-per-gli-adolescenti-benefici-e-tecniche": "https://it.scholistico.com/il-potere-dellarteterapia-per-gli-adolescenti-benefici-e-tecniche/",
+  "arteterapia-ottenere-il-meglio-dai-bambini": "https://it.scholistico.com/arteterapia-ottenere-il-meglio-dai-bambini/",
+  "10-modi-creativi-per-utilizzare-larteterapia-con-i-bambini": "https://it.scholistico.com/10-modi-creativi-per-utilizzare-larteterapia-con-i-bambini/",
+  "divertimento-e-responsabilizzazione-attraverso-larteterapia": "https://it.scholistico.com/divertimento-e-responsabilizzazione-attraverso-larteterapia/",
+  "cose-larteterapia-e-come-funziona": "https://it.scholistico.com/cose-larteterapia-e-come-funziona/",
+}
+
+#Naturopathy
+{
+  "naturopatia-principi-pratiche-e-benefici-della-guarigione-naturale": "https://it.scholistico.com/naturopatia-principi-pratiche-e-benefici-della-guarigione-naturale/",
+  "10-trattamenti-naturopatici-per-condizioni-di-salute-specifiche": "https://it.scholistico.com/10-trattamenti-naturopatici-per-condizioni-di-salute-specifiche/",
+  "5-migliori-rimedi-naturali-casalinghi-per-la-salute-dellapparato-digerente": "https://it.scholistico.com/5-migliori-rimedi-naturali-casalinghi-per-la-salute-dellapparato-digerente/",
+  "4-rimedi-casalinghi-naturali-per-la-tosse-e-il-mal-di-gola": "https://it.scholistico.com/4-rimedi-casalinghi-naturali-per-la-tosse-e-il-mal-di-gola/",
+  "7-motivi-convincenti-per-intraprendere-la-carriera-di-operatore-di-naturopatia-ora-stesso": "https://it.scholistico.com/7-motivi-convincenti-per-intraprendere-la-carriera-di-operatore-di-naturopatia-ora-stesso/",
+  "guida-per-principianti-alla-naturopatia-quello-che-deve-sapere": "https://it.scholistico.com/guida-per-principianti-alla-naturopatia-quello-che-deve-sapere/",
+  "cosa-puo-fare-con-una-certificazione-di-naturopatia": "https://it.scholistico.com/cosa-puo-fare-con-una-certificazione-di-naturopatia/",
+  "ottenere-un-sollievo-naturale-dal-dolore-attraverso-la-naturopatia": "https://it.scholistico.com/ottenere-un-sollievo-naturale-dal-dolore-attraverso-la-naturopatia/",
+}
+
+#Nutrition
+{
+  "8-migliori-super-cibi-per-il-sistema-immunitario": "https://it.scholistico.com/8-migliori-super-cibi-per-il-sistema-immunitario/",
+  "cosa-puo-fare-con-una-certificazione-di-nutrizione-olistica": "https://it.scholistico.com/cosa-puo-fare-con-una-certificazione-di-nutrizione-olistica/",
+  "10-migliori-integratori-naturali-per-una-salute-migliore": "https://it.scholistico.com/10-migliori-integratori-naturali-per-una-salute-migliore/",
+}
+
+#Holistic Health
+{
+  "i-7-motivi-principali-per-conseguire-una-certificazione-di-guarigione-olistica-online": "https://it.scholistico.com/i-7-motivi-principali-per-conseguire-una-certificazione-di-guarigione-olistica-online/",
+  "5-consigli-per-uno-stile-di-vita-sano": "https://it.scholistico.com/5-consigli-per-uno-stile-di-vita-sano/",
+  "i-10-modi-migliori-per-ridurre-lo-stress": "https://it.scholistico.com/i-10-modi-migliori-per-ridurre-lo-stress/",
+}
+
+#Animal Wellness
+{
+  "corso-di-comunicazione-animale-imparare-a-comunicare": "https://it.scholistico.com/corso-di-comunicazione-animale-imparare-a-comunicare/",
+  "che-cose-un-comunicatore-animale-e-come-diventarlo": "https://it.scholistico.com/che-cose-un-comunicatore-animale-e-come-diventarlo/",
+}
+
+#Learning
+{
+  "la-gerarchia-dellapprendimento-trasformare-i-dati-in-vera-saggezza": "https://it.scholistico.com/la-gerarchia-dellapprendimento-trasformare-i-dati-in-vera-saggezza/",
+}

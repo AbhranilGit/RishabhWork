@@ -1,0 +1,216 @@
+
+#Art Therapy
+{
+  "7-kunsttherapieuebungen-fuer-menschen-mit-behinderungen": {
+    "url": "https://de.scholistico.com/7-kunsttherapieuebungen-fuer-menschen-mit-behinderungen/",
+    "english_title": "7 Art Therapy Exercises for People with Disabilities"
+  },
+  "7-kunsttherapieuebungen-fuer-anfaenger": {
+    "url": "https://de.scholistico.com/7-kunsttherapieuebungen-fuer-anfaenger/",
+    "english_title": "7 Art Therapy Exercises for Beginners"
+  },
+  "die-10-besten-kunsttherapie-aktivitaeten-fuer-paare-zur-staerkung-ihrer-bindung": {
+    "url": "https://de.scholistico.com/die-10-besten-kunsttherapie-aktivitaeten-fuer-paare-zur-staerkung-ihrer-bindung/",
+    "english_title": "The 10 Best Art Therapy Activities for Couples to Strengthen Their Bond"
+  },
+  "10-kunsttherapie-uebungen-fuer-die-traumaheilung": {
+    "url": "https://de.scholistico.com/10-kunsttherapie-uebungen-fuer-die-traumaheilung/",
+    "english_title": "10 Art Therapy Exercises for Trauma Healing"
+  },
+  "10-beste-kunsttherapie-aktivitaeten-zum-stressabbau": {
+    "url": "https://de.scholistico.com/10-beste-kunsttherapie-aktivitaeten-zum-stressabbau/",
+    "english_title": "10 Best Art Therapy Activities for Stress Relief"
+  },
+  "der-ultimative-guide-zu-kunsttherapeutischen-aktivitaeten-fuer-schlaf-und-erholsame-naechte": {
+    "url": "https://de.scholistico.com/der-ultimative-guide-zu-kunsttherapeutischen-aktivitaeten-fuer-schlaf-und-erholsame-naechte/",
+    "english_title": "The Ultimate Guide to Art Therapy Activities for Sleep and Restful Nights"
+  },
+  "die-schnittstelle-zwischen-kunsttherapie-persoenlicher-entwicklung-und-selbstentfaltung": {
+    "url": "https://de.scholistico.com/die-schnittstelle-zwischen-kunsttherapie-persoenlicher-entwicklung-und-selbstentfaltung/",
+    "english_title": "The Interface Between Art Therapy, Personal Development, and Self-Realization"
+  },
+  "die-10-besten-kunsttherapeutischen-aktivitaeten-fuer-teenager": {
+    "url": "https://de.scholistico.com/die-10-besten-kunsttherapeutischen-aktivitaeten-fuer-teenager/",
+    "english_title": "The 10 Best Art Therapy Activities for Teenagers"
+  },
+  "die-10-besten-kunsttherapie-uebungen-zur-suchtbehandlung": {
+    "url": "https://de.scholistico.com/die-10-besten-kunsttherapie-uebungen-zur-suchtbehandlung/",
+    "english_title": "The 10 Best Art Therapy Exercises for Addiction Treatment"
+  },
+  "6-wissenschaftlich-belegte-gruende-kunsttherapie-zum-stressabbau-zu-nutzen": {
+    "url": "https://de.scholistico.com/6-wissenschaftlich-belegte-gruende-kunsttherapie-zum-stressabbau-zu-nutzen/",
+    "english_title": "6 Scientifically Proven Reasons to Use Art Therapy for Stress Relief"
+  },
+  "die-7-besten-kunsttherapie-uebungen-fuer-demenz": {
+    "url": "https://de.scholistico.com/die-7-besten-kunsttherapie-uebungen-fuer-demenz/",
+    "english_title": "The 7 Best Art Therapy Exercises for Dementia"
+  },
+  "5-gruende-warum-kunsttherapie-auch-fuer-senioren-wichtig-ist": {
+    "url": "https://de.scholistico.com/5-gruende-warum-kunsttherapie-auch-fuer-senioren-wichtig-ist/",
+    "english_title": "5 reasons why art therapy is important for seniors too"
+  },
+  "die-8-besten-kunsttherapie-uebungen-zur-trauerbewaeltigung": {
+    "url": "https://de.scholistico.com/die-8-besten-kunsttherapie-uebungen-zur-trauerbewaeltigung/",
+    "english_title": "The 8 Best Art Therapy Exercises for Coping with Grief"
+  },
+  "klinische-vs-nicht-klinische-kunsttherapie-ein-umfassender-leitfaden-zum-besseren-verstaendnis-der-unterschiede": {
+    "url": "https://de.scholistico.com/klinische-vs-nicht-klinische-kunsttherapie-ein-umfassender-leitfaden-zum-besseren-verstaendnis-der-unterschiede/",
+    "english_title": "Clinical vs Non-Clinical Art Therapy: A Comprehensive Guide to Better Understanding the Differences"
+  },
+  "zertifizierung-und-lizenzierung-fuer-kunsttherapie-was-sie-wissen-sollten": {
+    "url": "https://de.scholistico.com/zertifizierung-und-lizenzierung-fuer-kunsttherapie-was-sie-wissen-sollten/",
+    "english_title": "Certification and Licensing for Art Therapy: What You Should Know"
+  },
+  "die-rolle-als-nicht-klinischer-kunsttherapie-praktiker-verstehen": {
+    "url": "https://de.scholistico.com/die-rolle-als-nicht-klinischer-kunsttherapie-praktiker-verstehen/",
+    "english_title": "Understanding the Role of a Non-Clinical Art Therapy Practitioner"
+  },
+  "kunstbasierte-therapie-die-kraft-der-kunst-nutzen": {
+    "url": "https://de.scholistico.com/kunstbasierte-therapie-die-kraft-der-kunst-nutzen/",
+    "english_title": "Art-Based Therapy: Harnessing the Power of Art"
+  },
+  "5-vorteile-der-kunsttherapie-fuer-erwachsene": {
+    "url": "https://de.scholistico.com/5-vorteile-der-kunsttherapie-fuer-erwachsene/",
+    "english_title": "5 Benefits of Art Therapy for Adults"
+  },
+  "die-5-besten-kunsttherapeutischen-uebungen-zur-unterstuetzung-bei-autismus": {
+    "url": "https://de.scholistico.com/die-5-besten-kunsttherapeutischen-uebungen-zur-unterstuetzung-bei-autismus/",
+    "english_title": "The 5 Best Art Therapy Exercises to Support Autism"
+  },
+  "farbtherapie-umfassender-leitfaden-zum-heilen-durch-farbe": {
+    "url": "https://de.scholistico.com/farbtherapie-umfassender-leitfaden-zum-heilen-durch-farbe/",
+    "english_title": "Color Therapy: Comprehensive Guide to Healing Through Color"
+  },
+  "spass-und-empowerment-durch-kunsttherapie": {
+    "url": "https://de.scholistico.com/spass-und-empowerment-durch-kunsttherapie/",
+    "english_title": "Fun and Empowerment Through Art Therapy"
+  },
+  "10-kreative-moeglichkeiten-kunsttherapie-mit-kindern-anzuwenden": {
+    "url": "https://de.scholistico.com/10-kreative-moeglichkeiten-kunsttherapie-mit-kindern-anzuwenden/",
+    "english_title": "10 creative ways to apply art therapy with children"
+  },
+  "10-kreative-methoden-fuer-die-kunsttherapie-mit-erwachsenen": {
+    "url": "https://de.scholistico.com/10-kreative-methoden-fuer-die-kunsttherapie-mit-erwachsenen/",
+    "english_title": "10 Creative Methods for Art Therapy with Adults"
+  },
+  "was-ist-kunsttherapie-und-wie-funktioniert-sie": {
+    "url": "https://de.scholistico.com/was-ist-kunsttherapie-und-wie-funktioniert-sie/",
+    "english_title": "What is art therapy and how does it work"
+  },
+  "kunsttherapie-fuer-kinder-so-kann-sie-helfen": {
+    "url": "https://de.scholistico.com/kunsttherapie-fuer-kinder-so-kann-sie-helfen/",
+    "english_title": "Art therapy for children: how it can help"
+  }
+}
+
+#Naturopathy
+{
+  "naturheilpraktiker-7-gruende-warum-jetzt-der-perfekte-zeitpunkt-ist-um-einer-zu-werden": {
+    "url": "https://de.scholistico.com/naturheilpraktiker-7-gruende-warum-jetzt-der-perfekte-zeitpunkt-ist-um-einer-zu-werden/",
+    "english_title": "Natural health practitioner: 7 reasons why now is the perfect time to become one"
+  },
+  "wie-wird-man-naturheilpraktiker-ein-leitfaden-zur-heilpraktikerpruefung-und-vorbereitungsmoeglichkeiten": {
+    "url": "https://de.scholistico.com/wie-wird-man-naturheilpraktiker-ein-leitfaden-zur-heilpraktikerpruefung-und-vorbereitungsmoeglichkeiten/",
+    "english_title": "How to become a naturopathic practitioner: A guide to the alternative medicine exam and preparation options"
+  },
+  "naturheilkunde-prinzipien-praktiken-und-vorteile-der-natuerlichen-heilung": {
+    "url": "https://de.scholistico.com/naturheilkunde-prinzipien-praktiken-und-vorteile-der-natuerlichen-heilung/",
+    "english_title": "Natural healing principles, practices, and benefits of natural healing"
+  },
+  "mythos-ausgeraeumt-naturheilkunde-ist-keine-pseudowissenschaft-sondern-wissenschaftlich-fundiertes-heilen": {
+    "url": "https://de.scholistico.com/mythos-ausgeraeumt-naturheilkunde-ist-keine-pseudowissenschaft-sondern-wissenschaftlich-fundiertes-heilen/",
+    "english_title": "Myth debunked: Natural medicine is not pseudoscience but scientifically-based healing"
+  },
+  "die-5-besten-natuerlichen-hausmittel-fuer-die-gesundheit-des-verdauungstraktes": {
+    "url": "https://de.scholistico.com/die-5-besten-natuerlichen-hausmittel-fuer-die-gesundheit-des-verdauungstraktes/",
+    "english_title": "The 5 Best Natural Home Remedies for Digestive Tract Health"
+  },
+  "4-natuerliche-hausmittel-gegen-husten-und-halsschmerzen": {
+    "url": "https://de.scholistico.com/4-natuerliche-hausmittel-gegen-husten-und-halsschmerzen/",
+    "english_title": "4 Natural Home Remedies for Cough and Sore Throat"
+  },
+  "was-sie-mit-einer-zertifizierung-in-naturheilkunde-machen-koennen": {
+    "url": "https://de.scholistico.com/was-sie-mit-einer-zertifizierung-in-naturheilkunde-machen-koennen/",
+    "english_title": "What you can do with a certification in naturopathy"
+  },
+  "naturheilkunde-und-schulmedizin-wie-man-sie-erfolgreich-miteinander-verbindet": {
+    "url": "https://de.scholistico.com/naturheilkunde-und-schulmedizin-wie-man-sie-erfolgreich-miteinander-verbindet/",
+    "english_title": "Natural medicine and conventional medicine: how to successfully combine them"
+  },
+  "10-naturheilkundliche-behandlungen-fuer-bestimmte-gesundheitszustaende": {
+    "url": "https://de.scholistico.com/10-naturheilkundliche-behandlungen-fuer-bestimmte-gesundheitszustaende/",
+    "english_title": "10 naturopathic treatments for specific health conditions"
+  },
+  "11-alternative-arzneimittel-zur-verbesserung-ihrer-gesundheit": {
+    "url": "https://de.scholistico.com/11-alternative-arzneimittel-zur-verbesserung-ihrer-gesundheit/",
+    "english_title": "11 Alternative Medicines to Improve Your Health"
+  }
+}
+
+#Nutrition
+{
+  "ganzheitlicher-ernaehrungsberater-5-dinge-die-sie-noch-nicht-wussten": {
+    "url": "https://de.scholistico.com/ganzheitlicher-ernaehrungsberater-5-dinge-die-sie-noch-nicht-wussten/",
+    "english_title": "holistic nutrition consultant: 5 things you didn't know yet"
+  },
+  "10-besten-natuerlichen-nahrungsergaenzungsmittel": {
+    "url": "https://de.scholistico.com/10-besten-natuerlichen-nahrungsergaenzungsmittel/",
+    "english_title": "10 best natural dietary supplements"
+  },
+  "die-8-besten-superfoods-fuer-ihr-immunsystem": {
+    "url": "https://de.scholistico.com/die-8-besten-superfoods-fuer-ihr-immunsystem/",
+    "english_title": "The 8 best superfoods for your immune system"
+  }
+}
+
+#Holistic Health
+{
+  "so-nutzen-sie-ihren-online-kurs-fuer-ganzheitliche-gesundheit-optimal": {
+    "url": "https://de.scholistico.com/so-nutzen-sie-ihren-online-kurs-fuer-ganzheitliche-gesundheit-optimal/",
+    "english_title": "How to optimally use your online course for holistic health"
+  },
+  "5-tipps-fuer-eine-gesunde-lebensweise": {
+    "url": "https://de.scholistico.com/5-tipps-fuer-eine-gesunde-lebensweise/",
+    "english_title": "5 tips for a healthy lifestyle"
+  },
+  "ayurveda-for-beginners-everything-you-need-to-know": {
+    "url": "https://de.scholistico.com/ayurveda-for-beginners-everything-you-need-to-know/",
+    "english_title": "ayurveda-for-beginners-everything-you-need-to-know"
+  },
+  "die-vorteile-einer-entgiftung-mit-ayurveda": {
+    "url": "https://de.scholistico.com/die-vorteile-einer-entgiftung-mit-ayurveda/",
+    "english_title": "The benefits of detoxification with Ayurveda"
+  },
+  "10-vorteile-der-alternativmedizin": {
+    "url": "https://de.scholistico.com/10-vorteile-der-alternativmedizin/",
+    "english_title": "10 advantages of alternative medicine"
+  },
+  "10-besten-moeglichkeiten-zum-stressabbau": {
+    "url": "https://de.scholistico.com/10-besten-moeglichkeiten-zum-stressabbau/",
+    "english_title": "10 best ways to reduce stress"
+  }
+}
+
+#Animal Wellness
+{
+  "was-ist-ein-tierkommunikator-und-wie-wird-man-einer": {
+    "url": "https://de.scholistico.com/was-ist-ein-tierkommunikator-und-wie-wird-man-einer/",
+    "english_title": "What is an animal communicator and how to become one"
+  }
+}
+
+#Marketing
+{
+  "5-bewaehrte-strategien-fuer-das-wachstum-ihrer-privatpraxis": {
+    "url": "https://de.scholistico.com/5-bewaehrte-strategien-fuer-das-wachstum-ihrer-privatpraxis/",
+    "english_title": "5 Proven Strategies for Growing Your Private Practice"
+  },
+  "die-psychologie-der-preisgestaltung": {
+    "url": "https://de.scholistico.com/die-psychologie-der-preisgestaltung/",
+    "english_title": "The Psychology of Pricing"
+  },
+  "4-marketing-strategien-von-top-therapeuten-um-kunden-zu-finden": {
+    "url": "https://de.scholistico.com/4-marketing-strategien-von-top-therapeuten-um-kunden-zu-finden/",
+    "english_title": "4 Marketing Strategies of Top Therapists to Find Clients"
+  }
+}

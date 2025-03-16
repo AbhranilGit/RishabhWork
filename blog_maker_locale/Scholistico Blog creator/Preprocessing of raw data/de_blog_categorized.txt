@@ -1,0 +1,72 @@
+
+#Art Therapy:
+{
+  "7-kunsttherapieuebungen-fuer-menschen-mit-behinderungen": "https://de.scholistico.com/7-kunsttherapieuebungen-fuer-menschen-mit-behinderungen/",
+  "7-kunsttherapieuebungen-fuer-anfaenger": "https://de.scholistico.com/7-kunsttherapieuebungen-fuer-anfaenger/",
+  "die-10-besten-kunsttherapie-aktivitaeten-fuer-paare-zur-staerkung-ihrer-bindung": "https://de.scholistico.com/die-10-besten-kunsttherapie-aktivitaeten-fuer-paare-zur-staerkung-ihrer-bindung/",
+  "10-kunsttherapie-uebungen-fuer-die-traumaheilung": "https://de.scholistico.com/10-kunsttherapie-uebungen-fuer-die-traumaheilung/",
+  "10-beste-kunsttherapie-aktivitaeten-zum-stressabbau": "https://de.scholistico.com/10-beste-kunsttherapie-aktivitaeten-zum-stressabbau/",
+  "der-ultimative-guide-zu-kunsttherapeutischen-aktivitaeten-fuer-schlaf-und-erholsame-naechte": "https://de.scholistico.com/der-ultimative-guide-zu-kunsttherapeutischen-aktivitaeten-fuer-schlaf-und-erholsame-naechte/",
+  "die-schnittstelle-zwischen-kunsttherapie-persoenlicher-entwicklung-und-selbstentfaltung": "https://de.scholistico.com/die-schnittstelle-zwischen-kunsttherapie-persoenlicher-entwicklung-und-selbstentfaltung/",
+  "die-10-besten-kunsttherapeutischen-aktivitaeten-fuer-teenager": "https://de.scholistico.com/die-10-besten-kunsttherapeutischen-aktivitaeten-fuer-teenager/",
+  "die-10-besten-kunsttherapie-uebungen-zur-suchtbehandlung": "https://de.scholistico.com/die-10-besten-kunsttherapie-uebungen-zur-suchtbehandlung/",
+  "6-wissenschaftlich-belegte-gruende-kunsttherapie-zum-stressabbau-zu-nutzen": "https://de.scholistico.com/6-wissenschaftlich-belegte-gruende-kunsttherapie-zum-stressabbau-zu-nutzen/",
+  "die-7-besten-kunsttherapie-uebungen-fuer-demenz": "https://de.scholistico.com/die-7-besten-kunsttherapie-uebungen-fuer-demenz/",
+  "5-gruende-warum-kunsttherapie-auch-fuer-senioren-wichtig-ist": "https://de.scholistico.com/5-gruende-warum-kunsttherapie-auch-fuer-senioren-wichtig-ist/",
+  "die-8-besten-kunsttherapie-uebungen-zur-trauerbewaeltigung": "https://de.scholistico.com/die-8-besten-kunsttherapie-uebungen-zur-trauerbewaeltigung/",
+  "klinische-vs-nicht-klinische-kunsttherapie-ein-umfassender-leitfaden-zum-besseren-verstaendnis-der-unterschiede": "https://de.scholistico.com/klinische-vs-nicht-klinische-kunsttherapie-ein-umfassender-leitfaden-zum-besseren-verstaendnis-der-unterschiede/",
+  "zertifizierung-und-lizenzierung-fuer-kunsttherapie-was-sie-wissen-sollten": "https://de.scholistico.com/zertifizierung-und-lizenzierung-fuer-kunsttherapie-was-sie-wissen-sollten/",
+  "die-rolle-als-nicht-klinischer-kunsttherapie-praktiker-verstehen": "https://de.scholistico.com/die-rolle-als-nicht-klinischer-kunsttherapie-praktiker-verstehen/",
+  "kunstbasierte-therapie-die-kraft-der-kunst-nutzen": "https://de.scholistico.com/kunstbasierte-therapie-die-kraft-der-kunst-nutzen/",
+  "5-vorteile-der-kunsttherapie-fuer-erwachsene": "https://de.scholistico.com/5-vorteile-der-kunsttherapie-fuer-erwachsene/",
+  "die-5-besten-kunsttherapeutischen-uebungen-zur-unterstuetzung-bei-autismus": "https://de.scholistico.com/die-5-besten-kunsttherapeutischen-uebungen-zur-unterstuetzung-bei-autismus/",
+  "farbtherapie-umfassender-leitfaden-zum-heilen-durch-farbe": "https://de.scholistico.com/farbtherapie-umfassender-leitfaden-zum-heilen-durch-farbe/",
+  "spass-und-empowerment-durch-kunsttherapie": "https://de.scholistico.com/spass-und-empowerment-durch-kunsttherapie/",
+  "10-kreative-moeglichkeiten-kunsttherapie-mit-kindern-anzuwenden": "https://de.scholistico.com/10-kreative-moeglichkeiten-kunsttherapie-mit-kindern-anzuwenden/",
+  "10-kreative-methoden-fuer-die-kunsttherapie-mit-erwachsenen": "https://de.scholistico.com/10-kreative-methoden-fuer-die-kunsttherapie-mit-erwachsenen/",
+  "was-ist-kunsttherapie-und-wie-funktioniert-sie": "https://de.scholistico.com/was-ist-kunsttherapie-und-wie-funktioniert-sie/",
+  "kunsttherapie-fuer-kinder-so-kann-sie-helfen": "https://de.scholistico.com/kunsttherapie-fuer-kinder-so-kann-sie-helfen/",
+}
+
+#Naturopathy
+{
+  "naturheilpraktiker-7-gruende-warum-jetzt-der-perfekte-zeitpunkt-ist-um-einer-zu-werden": "https://de.scholistico.com/naturheilpraktiker-7-gruende-warum-jetzt-der-perfekte-zeitpunkt-ist-um-einer-zu-werden/",
+  "wie-wird-man-naturheilpraktiker-ein-leitfaden-zur-heilpraktikerpruefung-und-vorbereitungsmoeglichkeiten": "https://de.scholistico.com/wie-wird-man-naturheilpraktiker-ein-leitfaden-zur-heilpraktikerpruefung-und-vorbereitungsmoeglichkeiten/",
+  "naturheilkunde-prinzipien-praktiken-und-vorteile-der-natuerlichen-heilung": "https://de.scholistico.com/naturheilkunde-prinzipien-praktiken-und-vorteile-der-natuerlichen-heilung/",
+  "mythos-ausgeraeumt-naturheilkunde-ist-keine-pseudowissenschaft-sondern-wissenschaftlich-fundiertes-heilen": "https://de.scholistico.com/mythos-ausgeraeumt-naturheilkunde-ist-keine-pseudowissenschaft-sondern-wissenschaftlich-fundiertes-heilen/",
+  "die-5-besten-natuerlichen-hausmittel-fuer-die-gesundheit-des-verdauungstraktes": "https://de.scholistico.com/die-5-besten-natuerlichen-hausmittel-fuer-die-gesundheit-des-verdauungstraktes/",
+  "4-natuerliche-hausmittel-gegen-husten-und-halsschmerzen": "https://de.scholistico.com/4-natuerliche-hausmittel-gegen-husten-und-halsschmerzen/",
+  "was-sie-mit-einer-zertifizierung-in-naturheilkunde-machen-koennen": "https://de.scholistico.com/was-sie-mit-einer-zertifizierung-in-naturheilkunde-machen-koennen/",
+  "naturheilkunde-und-schulmedizin-wie-man-sie-erfolgreich-miteinander-verbindet": "https://de.scholistico.com/naturheilkunde-und-schulmedizin-wie-man-sie-erfolgreich-miteinander-verbindet/",
+  "10-naturheilkundliche-behandlungen-fuer-bestimmte-gesundheitszustaende": "https://de.scholistico.com/10-naturheilkundliche-behandlungen-fuer-bestimmte-gesundheitszustaende/",
+  "11-alternative-arzneimittel-zur-verbesserung-ihrer-gesundheit": "https://de.scholistico.com/11-alternative-arzneimittel-zur-verbesserung-ihrer-gesundheit/",
+}
+
+#Nutrition
+{
+  "ganzheitlicher-ernaehrungsberater-5-dinge-die-sie-noch-nicht-wussten": "https://de.scholistico.com/ganzheitlicher-ernaehrungsberater-5-dinge-die-sie-noch-nicht-wussten/",
+  "10-besten-natuerlichen-nahrungsergaenzungsmittel": "https://de.scholistico.com/10-besten-natuerlichen-nahrungsergaenzungsmittel/",
+  "die-8-besten-superfoods-fuer-ihr-immunsystem": "https://de.scholistico.com/die-8-besten-superfoods-fuer-ihr-immunsystem/",
+}
+
+#Holistic Health
+{
+  "so-nutzen-sie-ihren-online-kurs-fuer-ganzheitliche-gesundheit-optimal": "https://de.scholistico.com/so-nutzen-sie-ihren-online-kurs-fuer-ganzheitliche-gesundheit-optimal/",
+  "5-tipps-fuer-eine-gesunde-lebensweise": "https://de.scholistico.com/5-tipps-fuer-eine-gesunde-lebensweise/",
+  "ayurveda-for-beginners-everything-you-need-to-know": "https://de.scholistico.com/ayurveda-for-beginners-everything-you-need-to-know/",
+  "die-vorteile-einer-entgiftung-mit-ayurveda": "https://de.scholistico.com/die-vorteile-einer-entgiftung-mit-ayurveda/",
+  "10-vorteile-der-alternativmedizin": "https://de.scholistico.com/10-vorteile-der-alternativmedizin/",
+  "10-besten-moeglichkeiten-zum-stressabbau": "https://de.scholistico.com/10-besten-moeglichkeiten-zum-stressabbau/",
+}
+
+#Animal Wellness
+{
+  "was-ist-ein-tierkommunikator-und-wie-wird-man-einer": "https://de.scholistico.com/was-ist-ein-tierkommunikator-und-wie-wird-man-einer/",
+}
+
+#Marketing
+{
+  "5-bewaehrte-strategien-fuer-das-wachstum-ihrer-privatpraxis": "https://de.scholistico.com/5-bewaehrte-strategien-fuer-das-wachstum-ihrer-privatpraxis/",
+  "die-psychologie-der-preisgestaltung": "https://de.scholistico.com/die-psychologie-der-preisgestaltung/",
+  "4-marketing-strategien-von-top-therapeuten-um-kunden-zu-finden": "https://de.scholistico.com/4-marketing-strategien-von-top-therapeuten-um-kunden-zu-finden/",
+}

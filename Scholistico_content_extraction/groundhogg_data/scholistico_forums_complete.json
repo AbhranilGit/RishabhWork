@@ -1,0 +1,156 @@
+[
+    {
+        "id": 13478,
+        "date": "2023-01-26T16:05:47",
+        "date_gmt": "2023-01-26T16:05:47",
+        "guid": {
+            "rendered": "http://scholistico.com/?post_type=forum&#038;p=13478",
+            "raw": "http://scholistico.com/?post_type=forum&#038;p=13478"
+        },
+        "modified": "2023-09-23T17:34:25",
+        "modified_gmt": "2023-09-23T21:34:25",
+        "slug": "scholistico",
+        "status": "publish",
+        "link": "https://scholistico.com/groups/scholistico/forum/scholistico/",
+        "author": 3,
+        "parent": 0,
+        "menu_order": 0,
+        "sticky": false,
+        "featured_media": {
+            "full": "https://scholistico.com/wp-content/uploads/buddypress/groups/10/cover-image/67401d12eaed1-bp-cover-image.jpg",
+            "thumb": "https://scholistico.com/wp-content/uploads/buddypress/groups/10/cover-image/67401d12eaed1-bp-cover-image.jpg"
+        },
+        "total_topic_count": 50,
+        "last_topic_id": 196569,
+        "total_reply_count": 427,
+        "last_reply_id": 196569,
+        "last_active_author": 0,
+        "last_active_time": "2025-03-07 15:01:52",
+        "is_closed": false,
+        "is_forum_category": false,
+        "title": {
+            "raw": "Scholistico",
+            "rendered": "Scholistico"
+        },
+        "short_content": "",
+        "content": {
+            "raw": "",
+            "rendered": ""
+        },
+        "group": {
+            "id": 10,
+            "creator_id": 3,
+            "name": "Scholistico",
+            "slug": "scholistico",
+            "description": "",
+            "status": "public",
+            "parent_id": 0,
+            "enable_forum": 1,
+            "date_created": "2022-10-14 22:56:04",
+            "args": null,
+            "avatar_urls": {
+                "thumb": "https://scholistico.com/wp-content/uploads/group-avatars/10/66bbe787240b4-bpthumb.jpg",
+                "full": "https://scholistico.com/wp-content/uploads/group-avatars/10/66bbe787157a0-bpfull.jpg"
+            }
+        },
+        "action_states": {
+            "subscribed": false
+        },
+        "user_permission": {
+            "show_topics": true,
+            "show_subforum": true,
+            "create_topic": false
+        },
+        "sub_forums": [
+            {
+                "id": 13481,
+                "slug": "announcements",
+                "title": "Announcements",
+                "count": {
+                    "topic": "1",
+                    "reply": "2"
+                },
+                "link": "https://scholistico.com/groups/scholistico/forum/scholistico/announcements/",
+                "group": ""
+            },
+            {
+                "id": 13483,
+                "slug": "feature-requests",
+                "title": "Feature Requests",
+                "count": {
+                    "topic": "4",
+                    "reply": "29"
+                },
+                "link": "https://scholistico.com/groups/scholistico/forum/scholistico/feature-requests/",
+                "group": ""
+            },
+            {
+                "id": 13488,
+                "slug": "report-a-problem",
+                "title": "Report a problem",
+                "count": {
+                    "topic": "2",
+                    "reply": "13"
+                },
+                "link": "https://scholistico.com/groups/scholistico/forum/scholistico/report-a-problem/",
+                "group": ""
+            },
+            {
+                "id": 13490,
+                "slug": "sales-and-offers",
+                "title": "Sales and offers",
+                "count": {
+                    "topic": "0",
+                    "reply": "0"
+                },
+                "link": "https://scholistico.com/groups/scholistico/forum/scholistico/sales-and-offers/",
+                "group": ""
+            },
+            {
+                "id": 13486,
+                "slug": "tips-and-tricks",
+                "title": "Tips and Tricks",
+                "count": {
+                    "topic": "1",
+                    "reply": "1"
+                },
+                "link": "https://scholistico.com/groups/scholistico/forum/scholistico/tips-and-tricks/",
+                "group": ""
+            }
+        ],
+        "can_report": false,
+        "reported": false,
+        "report_button_text": "Report",
+        "report_type": "Post",
+        "content_native": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://scholistico.com/wp-json/buddyboss/v1/forums/13478",
+                    "targetHints": {
+                        "allow": [
+                            "GET"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://scholistico.com/wp-json/buddyboss/v1/forums/"
+                }
+            ],
+            "user": [
+                {
+                    "embeddable": true,
+                    "href": "https://scholistico.com/wp-json/buddyboss/v1/members/3"
+                }
+            ],
+            "group": [
+                {
+                    "embeddable": true,
+                    "href": "https://scholistico.com/wp-json/buddyboss/v1/groups/10"
+                }
+            ]
+        }
+    }
+]

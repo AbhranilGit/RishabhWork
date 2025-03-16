@@ -1,0 +1,67 @@
+
+#Art Therapy
+{
+  "art-therapy-practitioner-training-course": "https://scholistico.com/product/art-therapy-practitioner-training-course/",
+  "art-special-offer-product": "https://scholistico.com/product/art-special-offer-product/",
+  "art-therapy-practitioner-certification-course": "https://scholistico.com/product/art-therapy-practitioner-certification-course/",
+  "introduction-to-art-therapy": "https://scholistico.com/product/introduction-to-art-therapy/",
+  "50-art-therapy-exercises-for-children-adults-and-seniors": "https://scholistico.com/product/50-art-therapy-exercises-for-children-adults-and-seniors/",
+  "making-a-living-in-art": "https://scholistico.com/product/making-a-living-in-art/",
+}
+
+#Naturopathy
+{
+  "naturopathy-practitioner-training-course": "https://scholistico.com/product/naturopathy-practitioner-training-course/",
+  "introduction-to-naturopathy": "https://scholistico.com/product/introduction-to-naturopathy/",
+  "50-natural-home-remedies-a-curated-collection-of-simple-remedies-for-all": "https://scholistico.com/product/50-natural-home-remedies-a-curated-collection-of-simple-remedies-for-all/",
+}
+
+#Nutrition
+{
+  "holistic-nutrition-consultant-training-course": "https://scholistico.com/product/holistic-nutrition-consultant-training-course/",
+  "introduction-to-holistic-nutrition": "https://scholistico.com/product/introduction-to-holistic-nutrition/",
+  "official-certificate-for-holistic-nutrition-consultant-training-course": "https://scholistico.com/product/official-certificate-for-holistic-nutrition-consultant-training-course/",
+  "50-holistic-nutrition-recipes-book": "https://scholistico.com/product/50-holistic-nutrition-recipes-book/",
+}
+
+#Holistic Health
+{
+  "holistic-health-practitioner-online-training-course": "https://scholistico.com/product/holistic-health-practitioner-online-training-course/",
+  "making-a-living-in-natural-health": "https://scholistico.com/product/making-a-living-in-natural-health/",
+  "introduction-to-holistic-health": "https://scholistico.com/product/introduction-to-holistic-health/",
+}
+
+#Sound Therapy
+{
+  "sound-therapy-practitioner-certification-course": "https://scholistico.com/product/sound-therapy-practitioner-certification-course/",
+}
+
+#Movement Therapy
+{
+  "introduction-to-movement-therapy": "https://scholistico.com/product/introduction-to-movement-therapy/",
+  "movement-therapy-practitioner-certification-course": "https://scholistico.com/product/movement-therapy-practitioner-certification-course/",
+}
+
+#Animal Wellness
+{
+  "animal-communication-specialist-training-course": "https://scholistico.com/product/animal-communication-specialist-training-course/",
+  "official-certificate-specialist-in-animal-communication-training": "https://scholistico.com/product/official-certificate-specialist-in-animal-communication-training/",
+  "introduction-to-animal-communication": "https://scholistico.com/product/introduction-to-animal-communication/"
+}
+
+#Learning
+{
+  "introduction-to-learn-how-to-learn": "https://scholistico.com/product/introduction-to-learn-how-to-learn/"
+}
+
+#Marketing
+{
+  "course-marketing-kit": "https://scholistico.com/product/course-marketing-kit/",
+  "grow-your-practice": "https://scholistico.com/product/grow-your-practice/"
+}
+
+
+#Financial Wellness
+{
+  "from-basics-to-success-accounting-essentials": "https://scholistico.com/product/from-basics-to-success-accounting-essentials/",
+}

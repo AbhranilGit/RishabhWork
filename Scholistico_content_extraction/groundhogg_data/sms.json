@@ -1,0 +1,166 @@
+{
+  "sms": [
+    {
+      "ID": "23",
+      "title": "STP Abandoned - SMS1",
+      "message": "Oops! Did You Forget Something? Start The Sound Therapy Practitioner Certification: https://scholistico.com/product/sound-therapy-practitioner-certification-course/",
+      "type": "marketing",
+      "author": "522"
+    },
+    {
+      "ID": "22",
+      "title": "MVT Abandoned - SMS1",
+      "message": "Oops! Did You Forget Something? Start The Movement Therapy Practitioner Certification: https://scholistico.com/product/movement-therapy-practitioner-certification-course/",
+      "type": "marketing",
+      "author": "522"
+    },
+    {
+      "ID": "21",
+      "title": "SMS 4 - BFCM24 - Dec 9",
+      "message": "Final hours, NO extensions Cyber Week ends TONIGHT at midnight Last chance for $97 courses & $240 bundles. Act now or miss out!: https://scholistico.com/",
+      "type": "marketing",
+      "author": "16325"
+    },
+    {
+      "ID": "20",
+      "title": "SMS 4 - BFCM24 - Dec 2",
+      "message": "Last chance! Cyber Monday Sale: Get Any Certification for $97 USD + FREE Accounting Course & \u2018Making A Living\u2019 Guide - Ends Tonight: https://scholistico.com/",
+      "type": "marketing",
+      "author": "16325"
+    },
+    {
+      "ID": "19",
+      "title": "SMS 3 - BFCM24",
+      "message": "Black Friday Ends Tonight: All Certifications at Scholistico for Just $97 USD. Claim your free certificate now https://scholistico.com/training-courses/",
+      "type": "marketing",
+      "author": "16325"
+    },
+    {
+      "ID": "18",
+      "title": "BFCM24-SMS 1",
+      "message": "Black Friday Ends Tonight! All Certifications at Scholistico for Just $97 USD. Claim your free certificate now: https://scholistico.com/",
+      "type": "marketing",
+      "author": "16325"
+    },
+    {
+      "ID": "17",
+      "title": "BTS SMS 1",
+      "message": "Back to School: 20% off all Holistic Wellness Certifications! Join 17,000+ students. Ends Sept 24. \r\nInvest now: https://scholistico.com/training-courses/",
+      "type": "marketing",
+      "author": "16325"
+    },
+    {
+      "ID": "16",
+      "title": "HHP Full Sale - SMS 2 - Next Monday",
+      "message": "[Final hours] Holistic Health Certification $195 ends at midnight. Don't miss out: https://scholistico.com/product/holistic-health-practitioner-online-training-course/",
+      "type": "marketing",
+      "author": "16325"
+    },
+    {
+      "ID": "15",
+      "title": "HHP Full Sale - SMS 1 - Teusday",
+      "message": "Holistic Health Certification now $195 until Sept 10th. Transform your wellness career: https://scholistico.com/product/holistic-health-practitioner-online-training-course/",
+      "type": "marketing",
+      "author": "16325"
+    },
+    {
+      "ID": "14",
+      "title": "ART ABANDONED SMS 2",
+      "message": "Hi {first}, Last chance! Join our Art Therapy Practitioner Certification. Enjoy an extra 20% discount with code ART20 at checkout:\r\nhttps://scholistico.com/step/art-therapy/",
+      "type": "marketing",
+      "author": "16325"
+    },
+    {
+      "ID": "13",
+      "title": "ART ABANDONED SMS 1",
+      "message": "Oops! Did You Forget Something? Start The Art Therapy Certification Now:\r\nhttps://scholistico.com/step/art-therapy/",
+      "type": "marketing",
+      "author": "16325"
+    },
+    {
+      "ID": "12",
+      "title": "HHP Abandoned - SMS1",
+      "message": "Oops! Did You Forget Something? Start The Holistic Health Certification: https://scholistico.com/product/holistic-health-practitioner-online-training-course/",
+      "type": "marketing",
+      "author": "3"
+    },
+    {
+      "ID": "11",
+      "title": "NAT ABANDONED - SMS 2",
+      "message": "Hi {first}, Last chance! Join our Naturopathic Practitioner Certification. Enjoy an extra 20% discount with code NAT20 at checkout:\r\nhttps://scholistico.com/step/naturopathy-course/",
+      "type": "marketing",
+      "author": "3"
+    },
+    {
+      "ID": "10",
+      "title": "NAT ABANDONED - SMS 1",
+      "message": "Oops! Did You Forget Something? Start The Naturopathy Certification Now:\r\nhttps://scholistico.com/step/naturopathy-course/",
+      "type": "marketing",
+      "author": "3"
+    },
+    {
+      "ID": "9",
+      "title": "NAT ABANDONED - SMS 2",
+      "message": "Hi {first}, Last chance! Join our Naturopathic Practitioner Certification. Enjoy an extra 20% discount with code NAT20 at checkout:\r\nhttps://scholistico.com/step/naturopathy-course/",
+      "type": "marketing",
+      "author": "16325"
+    },
+    {
+      "ID": "8",
+      "title": "NAT ABANDONED - SMS 1",
+      "message": "Oops! Did You Forget Something? Start The Naturopathy Certification Now:\r\nhttps://scholistico.com/step/naturopathy-course/",
+      "type": "marketing",
+      "author": "16325"
+    },
+    {
+      "ID": "7",
+      "title": "Test",
+      "message": "Hey {first}, we noticed you left at the last step of enrollment. Complete your process now and get certified!\r\nhttps://scholistico.com/step/naturopathy-course/",
+      "type": "marketing",
+      "author": "16325"
+    },
+    {
+      "ID": "6",
+      "title": "Spring Sale - SMS 2",
+      "message": "Time's almost up, {first}! \r\nToday is the last opportunity to harness the power of our Spring Sale and get 20% off all Scholistico courses. \r\nSale ends at midnight. Don't delay - your journey to holistic education is a click away! https://scholistico.com/training-courses/",
+      "type": "marketing",
+      "author": "459"
+    },
+    {
+      "ID": "5",
+      "title": "Spring Sale - SMS 1",
+      "message": "Spring Sale is now in full swing! \r\n\r\nAll courses are a breeze at an EXTRA 20% OFF.\r\n\r\nPropel your growth with the best deal this season! \r\n\r\nExplore courses now: https://scholistico.com/training-courses/",
+      "type": "marketing",
+      "author": "459"
+    },
+    {
+      "ID": "4",
+      "title": "Test Message",
+      "message": "Hello {first}, This is a Test Message.",
+      "type": "marketing",
+      "author": "459"
+    },
+    {
+      "ID": "3",
+      "title": "Scholistico Black Friday Sale 2023",
+      "message": "Scholistico Black Friday Sale is NOW LIVE! Unleash knowledge with any course for only $97! Plus a FREE certificate shipped to you. Act Fast! \r\nCode BFCM97 at checkout.\r\nhttps://scholistico.com/",
+      "type": "marketing",
+      "author": "459"
+    },
+    {
+      "ID": "2",
+      "title": "Test 2 Message",
+      "message": "Hello {first}, how are you",
+      "type": "marketing",
+      "author": "459"
+    },
+    {
+      "ID": "1",
+      "title": "Test Message",
+      "message": "This is a test message from Scholistico!",
+      "type": "marketing",
+      "author": "459"
+    }
+  ],
+  "status": "success"
+}

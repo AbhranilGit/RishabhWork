@@ -1,0 +1,1437 @@
+{
+  "tags": [
+    {
+      "tag_id": "181",
+      "tag_slug": "developer",
+      "tag_name": "Developer",
+      "tag_description": "",
+      "contact_count": "0",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "180",
+      "tag_slug": "cliente",
+      "tag_name": "Cliente",
+      "tag_description": "",
+      "contact_count": "0",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "179",
+      "tag_slug": "stp-abandoned",
+      "tag_name": "stp-abandoned",
+      "tag_description": "",
+      "contact_count": "0",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "178",
+      "tag_slug": "schol-movement-therapy-buyers",
+      "tag_name": "SCHOL-movement-therapy-buyers",
+      "tag_description": "",
+      "contact_count": "0",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "177",
+      "tag_slug": "mvt-abandoned",
+      "tag_name": "mvt-abandoned",
+      "tag_description": "",
+      "contact_count": "0",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "176",
+      "tag_slug": "schol-sound-therapy-buyers",
+      "tag_name": "SCHOL-sound-therapy-buyers",
+      "tag_description": "",
+      "contact_count": "0",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "175",
+      "tag_slug": "scho-sound-therapy-lead-gen",
+      "tag_name": "scho-sound-therapy-lead-gen",
+      "tag_description": "",
+      "contact_count": "0",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "174",
+      "tag_slug": "sound",
+      "tag_name": "sound",
+      "tag_description": "",
+      "contact_count": "0",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "173",
+      "tag_slug": "deadline-test",
+      "tag_name": "deadline-test",
+      "tag_description": "",
+      "contact_count": "0",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "172",
+      "tag_slug": "super-user",
+      "tag_name": "Super User",
+      "tag_description": "",
+      "contact_count": "0",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "171",
+      "tag_slug": "schol-mvt-buyers",
+      "tag_name": "SCHOL-mvt-buyers",
+      "tag_description": "",
+      "contact_count": "0",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "170",
+      "tag_slug": "scho-mtp-lead-gen",
+      "tag_name": "scho-mtp-lead-gen",
+      "tag_description": "",
+      "contact_count": "0",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "169",
+      "tag_slug": "hhp-abandoned",
+      "tag_name": "hhp-abandoned",
+      "tag_description": "",
+      "contact_count": "0",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "168",
+      "tag_slug": "scho-hhp-lead-gen",
+      "tag_name": "scho-hhp-lead-gen",
+      "tag_description": "",
+      "contact_count": "0",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "167",
+      "tag_slug": "en-stick-hnc",
+      "tag_name": "EN-Stick-HNC",
+      "tag_description": "",
+      "contact_count": "0",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "166",
+      "tag_slug": "schol-nutrition-buyers",
+      "tag_name": "schol-nutrition-buyers",
+      "tag_description": "",
+      "contact_count": "0",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "165",
+      "tag_slug": "feedback-form-filled",
+      "tag_name": "feedback form filled",
+      "tag_description": "",
+      "contact_count": "0",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "164",
+      "tag_slug": "hnc-abandoned",
+      "tag_name": "hnc-abandoned",
+      "tag_description": "",
+      "contact_count": "0",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "163",
+      "tag_slug": "nat-abandoned",
+      "tag_name": "nat-abandoned",
+      "tag_description": "",
+      "contact_count": "0",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "162",
+      "tag_slug": "ancom-abandoned",
+      "tag_name": "ancom-abandoned",
+      "tag_description": "",
+      "contact_count": "0",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "161",
+      "tag_slug": "art-abandoned",
+      "tag_name": "art-abandoned",
+      "tag_description": "",
+      "contact_count": "0",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "160",
+      "tag_slug": "sajawaltest",
+      "tag_name": "sajawaltest",
+      "tag_description": "",
+      "contact_count": "2",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "159",
+      "tag_slug": "nat_buyers_export_11_10_2023",
+      "tag_name": "NAT_buyers_export_11_10_2023",
+      "tag_description": "",
+      "contact_count": "562",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "158",
+      "tag_slug": "import-2023-10-10-170739",
+      "tag_name": "Import - 2023-10-10 17:07:39",
+      "tag_description": "",
+      "contact_count": "562",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "157",
+      "tag_slug": "ac_new_import_11_10_2023",
+      "tag_name": "AC_new_import_11_10_2023",
+      "tag_description": "",
+      "contact_count": "15502",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "156",
+      "tag_slug": "import-2023-10-10-163310",
+      "tag_name": "Import - 2023-10-10 16:33:10",
+      "tag_description": "",
+      "contact_count": "15502",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "155",
+      "tag_slug": "schol-cmk-abandon",
+      "tag_name": "SCHOL-CMK-abandon",
+      "tag_description": "",
+      "contact_count": "23",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "154",
+      "tag_slug": "schol-cmk-buyers",
+      "tag_name": "SCHOL-CMK-buyers",
+      "tag_description": "",
+      "contact_count": "8",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "153",
+      "tag_slug": "schol-holistic-health-abandon",
+      "tag_name": "SCHOL-holistic-health-Abandon",
+      "tag_description": "",
+      "contact_count": "0",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "152",
+      "tag_slug": "schol-holistic-nutrition-abandon",
+      "tag_name": "SCHOL-holistic-nutrition-Abandon",
+      "tag_description": "",
+      "contact_count": "0",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "151",
+      "tag_slug": "schol-holistic-health-buyers",
+      "tag_name": "SCHOL-holistic-health-buyers",
+      "tag_description": "",
+      "contact_count": "0",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "150",
+      "tag_slug": "schol-holistic-nutrition-buyers",
+      "tag_name": "SCHOL-holistic-nutrition-buyers",
+      "tag_description": "",
+      "contact_count": "0",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "149",
+      "tag_slug": "scho-holistic-nutrition-lead-gen",
+      "tag_name": "scho-holistic-nutrition-lead-gen",
+      "tag_description": "",
+      "contact_count": "4800",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "148",
+      "tag_slug": "welcome-en",
+      "tag_name": "Welcome-EN",
+      "tag_description": "",
+      "contact_count": "10352",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "147",
+      "tag_slug": "schol-naturopathy-abandon",
+      "tag_name": "SCHOL-naturopathy-abandon",
+      "tag_description": "",
+      "contact_count": "0",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "146",
+      "tag_slug": "schol-animal-communication-abandon",
+      "tag_name": "SCHOL-animal-communication-abandon",
+      "tag_description": "",
+      "contact_count": "0",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "145",
+      "tag_slug": "schol-art-therapy-abandon",
+      "tag_name": "SCHOL-art-therapy-abandon",
+      "tag_description": "",
+      "contact_count": "0",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "144",
+      "tag_slug": "scho-animal-communication-lead-gen",
+      "tag_name": "scho-animal-communication-lead-gen",
+      "tag_description": "",
+      "contact_count": "5",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "143",
+      "tag_slug": "en-stick-artth",
+      "tag_name": "EN-Stick-ARTTH",
+      "tag_description": "",
+      "contact_count": "703",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "142",
+      "tag_slug": "en-stick-nat",
+      "tag_name": "EN-Stick-NAT",
+      "tag_description": "",
+      "contact_count": "0",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "141",
+      "tag_slug": "en-stick-ancom",
+      "tag_name": "EN-Stick-ANCOM",
+      "tag_description": "",
+      "contact_count": "22",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "140",
+      "tag_slug": "schol-animal-communication-buyers",
+      "tag_name": "SCHOL-animal-communication-buyers",
+      "tag_description": "",
+      "contact_count": "22",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "137",
+      "tag_slug": "hnc-alumni",
+      "tag_name": "hnc-alumni",
+      "tag_description": "",
+      "contact_count": "8",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "136",
+      "tag_slug": "hnc-student",
+      "tag_name": "hnc-student",
+      "tag_description": "",
+      "contact_count": "307",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "135",
+      "tag_slug": "hhp-alumni",
+      "tag_name": "hhp-alumni",
+      "tag_description": "",
+      "contact_count": "5",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "134",
+      "tag_slug": "hhp-student",
+      "tag_name": "hhp-student",
+      "tag_description": "",
+      "contact_count": "98",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "133",
+      "tag_slug": "anico-alumni",
+      "tag_name": "anico-alumni",
+      "tag_description": "",
+      "contact_count": "3",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "132",
+      "tag_slug": "anico-student",
+      "tag_name": "anico-student",
+      "tag_description": "",
+      "contact_count": "25",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "131",
+      "tag_slug": "nat-alumni",
+      "tag_name": "nat-alumni",
+      "tag_description": "",
+      "contact_count": "38",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "130",
+      "tag_slug": "nat-student",
+      "tag_name": "nat-student",
+      "tag_description": "",
+      "contact_count": "796",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "129",
+      "tag_slug": "art-alumni",
+      "tag_name": "art-alumni",
+      "tag_description": "",
+      "contact_count": "39",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "128",
+      "tag_slug": "art-student",
+      "tag_name": "art-student",
+      "tag_description": "",
+      "contact_count": "817",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "127",
+      "tag_slug": "long-term-nurture",
+      "tag_name": "Long term nurture",
+      "tag_description": "",
+      "contact_count": "10075",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "126",
+      "tag_slug": "new-lead-onboarding",
+      "tag_name": "New Lead Onboarding",
+      "tag_description": "",
+      "contact_count": "0",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "125",
+      "tag_slug": "schol-naturopathy-buyers",
+      "tag_name": "SCHOL-naturopathy-buyers",
+      "tag_description": "",
+      "contact_count": "950",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "124",
+      "tag_slug": "import-2023-06-26-134351",
+      "tag_name": "Import - 2023-06-26 13:43:51",
+      "tag_description": "",
+      "contact_count": "4617",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "123",
+      "tag_slug": "holistic-naturopathy-practitioner-training-course",
+      "tag_name": "Holistic Naturopathy Practitioner Training Course",
+      "tag_description": "",
+      "contact_count": "1",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "122",
+      "tag_slug": "official-printed-certificate-art-therapy-practitioner-training-course",
+      "tag_name": "Official Printed Certificate & Art Therapy Practitioner Training Course",
+      "tag_description": "",
+      "contact_count": "1",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "121",
+      "tag_slug": "holistic-nutrition-consultant-training-course",
+      "tag_name": "Holistic Nutrition Consultant Training Course",
+      "tag_description": "",
+      "contact_count": "1",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "120",
+      "tag_slug": "art-therapy-practitioner-training-2-month-subscription",
+      "tag_name": "Art Therapy Practitioner Training 2-Month Subscription",
+      "tag_description": "",
+      "contact_count": "1",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "119",
+      "tag_slug": "formation-specialiste-en-communication-animale-certificat-officiel-de-praticien-de-la-formation-en-communication-animale",
+      "tag_name": "Formation sp\u00e9cialiste en communication animale & Certificat officiel de praticien de la formation en communication animale",
+      "tag_description": "",
+      "contact_count": "0",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "118",
+      "tag_slug": "typeform-integration-home_page_quiz_it",
+      "tag_name": "typeform-integration-Home_Page_Quiz_IT",
+      "tag_description": "",
+      "contact_count": "1",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "117",
+      "tag_slug": "bonus-ensemble-de-ressources-pour-les-praticiens-holistiques-certificat-officiel-pour-la-formation-en-art-therapie",
+      "tag_name": "BONUS: Ensemble de Ressources pour les Praticiens Holistiques & Certificat officiel pour la formation en art-th\u00e9rapie",
+      "tag_description": "",
+      "contact_count": "1",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "116",
+      "tag_slug": "non-clinical-art-therapy-practitioner-training-course",
+      "tag_name": "Non-Clinical Art Therapy Practitioner Training Course",
+      "tag_description": "",
+      "contact_count": "3",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "115",
+      "tag_slug": "bonus-holistic-practitioner-resource-toolkit-art-therapy-practitioner-training-in-two-installments",
+      "tag_name": "BONUS: Holistic Practitioner Resource & Toolkit & Art Therapy Practitioner Training In Two Installments",
+      "tag_description": "",
+      "contact_count": "2",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "114",
+      "tag_slug": "course",
+      "tag_name": "course",
+      "tag_description": "",
+      "contact_count": "2",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "113",
+      "tag_slug": "apply",
+      "tag_name": "apply",
+      "tag_description": "",
+      "contact_count": "1",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "112",
+      "tag_slug": "grow-your-practice",
+      "tag_name": "Grow Your Practice",
+      "tag_description": "",
+      "contact_count": "2",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "111",
+      "tag_slug": "formation-specialiste-en-communication-animale-certificat-officiel-de-specialiste-de-la-formation-en-communication-animale",
+      "tag_name": "Formation sp\u00e9cialiste en communication animale & Certificat officiel de specialiste de la formation en communication animale",
+      "tag_description": "",
+      "contact_count": "1",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "110",
+      "tag_slug": "typeform-integration-solution_labs_application",
+      "tag_name": "typeform-integration-Solution_Labs_Application",
+      "tag_description": "",
+      "contact_count": "2",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "109",
+      "tag_slug": "traffic",
+      "tag_name": "traffic",
+      "tag_description": "",
+      "contact_count": "0",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "108",
+      "tag_slug": "scho-fr-art-therapie",
+      "tag_name": "scho-fr-art-therapie",
+      "tag_description": "",
+      "contact_count": "0",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "107",
+      "tag_slug": "email-course-edustart",
+      "tag_name": "email-course-edustart",
+      "tag_description": "",
+      "contact_count": "2",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "106",
+      "tag_slug": "email-course",
+      "tag_name": "email-course",
+      "tag_description": "",
+      "contact_count": "1",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "105",
+      "tag_slug": "dfy-interest-health",
+      "tag_name": "dfy-interest-health",
+      "tag_description": "",
+      "contact_count": "0",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "104",
+      "tag_slug": "health",
+      "tag_name": "Health",
+      "tag_description": "",
+      "contact_count": "1",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "103",
+      "tag_slug": "coupon-instruire-ayurveda-review",
+      "tag_name": "Coupon-Instruire-Ayurveda-Review",
+      "tag_description": "",
+      "contact_count": "0",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "102",
+      "tag_slug": "coupon-instruire-ayurveda",
+      "tag_name": "Coupon-Instruire-Ayurveda",
+      "tag_description": "",
+      "contact_count": "0",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "101",
+      "tag_slug": "conversations-chat-form",
+      "tag_name": "Conversations chat form",
+      "tag_description": "",
+      "contact_count": "1",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "100",
+      "tag_slug": "ausbildung-in-kunsttherapie",
+      "tag_name": "Ausbildung in Kunsttherapie",
+      "tag_description": "",
+      "contact_count": "0",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "99",
+      "tag_slug": "official-certificate-for-specialist-in-animal-communication-training",
+      "tag_name": "Official Certificate for Specialist in Animal Communication Training",
+      "tag_description": "",
+      "contact_count": "5",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "98",
+      "tag_slug": "animal-communication-specialist-training-course-official-certificate-for-specialist-in-animal-communication-training",
+      "tag_name": "Animal Communication Specialist Training Course & Official Certificate for Specialist in Animal Communication Training",
+      "tag_description": "",
+      "contact_count": "1",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "97",
+      "tag_slug": "bonus-holistic-practitioner-resource-toolkit-art-therapy-practitioner-training-in-three-installments",
+      "tag_name": "BONUS: Holistic Practitioner Resource & Toolkit & Art Therapy Practitioner Training In Three Installments",
+      "tag_description": "",
+      "contact_count": "2",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "96",
+      "tag_slug": "weo-art-therapy-lead-gen",
+      "tag_name": "WEO-art-therapy-lead-gen",
+      "tag_description": "",
+      "contact_count": "2",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "95",
+      "tag_slug": "scho-art-therapy-lead-gen-de",
+      "tag_name": "scho-art-therapy-lead-gen-de",
+      "tag_description": "",
+      "contact_count": "1",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "94",
+      "tag_slug": "purchase-297-en",
+      "tag_name": "purchase-297-en",
+      "tag_description": "",
+      "contact_count": "1",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "93",
+      "tag_slug": "calendly-integration-start__grow_your_online_course_business_with_edustart",
+      "tag_name": "calendly-integration-Start_&_Grow_Your_Online_Course_Business_With_EduStart",
+      "tag_description": "",
+      "contact_count": "1",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "92",
+      "tag_slug": "calendly-integration",
+      "tag_name": "calendly-integration",
+      "tag_description": "",
+      "contact_count": "1",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "91",
+      "tag_slug": "watched-video",
+      "tag_name": "Watched-Video",
+      "tag_description": "",
+      "contact_count": "1",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "90",
+      "tag_slug": "schol-art-therapy-lead-gen-fr",
+      "tag_name": "SCHOL-art-therapy-lead-gen-fr",
+      "tag_description": "",
+      "contact_count": "3",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "89",
+      "tag_slug": "offizielles-zertifikat-fur-specialist-in-der-tierkommunikationsausbildung",
+      "tag_name": "Offizielles Zertifikat f\u00fcr Specialist in der Tierkommunikationsausbildung",
+      "tag_description": "",
+      "contact_count": "1",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "88",
+      "tag_slug": "officieel-gedrukt-certificaat-kunstzinnige-therapie-practitioner-opleiding",
+      "tag_name": "Officieel gedrukt certificaat & Kunstzinnige Therapie Practitioner Opleiding",
+      "tag_description": "",
+      "contact_count": "1",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "87",
+      "tag_slug": "officieel-gedrukt-certificaat-dierencommunicatie-specialist-opleiding",
+      "tag_name": "Officieel gedrukt certificaat & Dierencommunicatie Specialist Opleiding",
+      "tag_description": "",
+      "contact_count": "1",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "86",
+      "tag_slug": "official-printed-certificate-animal-communication-specialist-training-course",
+      "tag_name": "Official Printed Certificate & Animal Communication Specialist Training Course",
+      "tag_description": "",
+      "contact_count": "1",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "85",
+      "tag_slug": "kunstzinnige-therapie-practitioner-opleiding-officieel-certificaat-voor-kunstzinnige-therapie-opleiding",
+      "tag_name": "Kunstzinnige Therapie Practitioner Opleiding & Officieel certificaat voor Kunstzinnige Therapie Opleiding",
+      "tag_description": "",
+      "contact_count": "2",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "84",
+      "tag_slug": "formation-praticien-en-communication-animale-certificat-officiel-de-praticien-de-la-formation-en-communication-animale",
+      "tag_name": "Formation praticien en communication animale & Certificat officiel de praticien de la formation en communication animale",
+      "tag_description": "",
+      "contact_count": "2",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "83",
+      "tag_slug": "formation-developper-votre-pratique",
+      "tag_name": "Formation d\u00e9velopper votre pratique",
+      "tag_description": "",
+      "contact_count": "1",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "82",
+      "tag_slug": "formation-specialiste-en-communication-animale-formation-de-praticien-en-art-therapie",
+      "tag_name": "Formation Specialiste en communication animale & Formation de praticien en art-th\u00e9rapie",
+      "tag_description": "",
+      "contact_count": "2",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "81",
+      "tag_slug": "dierencommunicatie-specialist-opleiding-kunstzinnige-therapie-practitioner-opleiding",
+      "tag_name": "Dierencommunicatie Specialist Opleiding & Kunstzinnige Therapie Practitioner Opleiding",
+      "tag_description": "",
+      "contact_count": "1",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "80",
+      "tag_slug": "art-therapy-practitioner-training-course-official-certificate-for-training-in-art-therapy",
+      "tag_name": "Art Therapy Practitioner Training Course & Official certificate for training in art therapy",
+      "tag_description": "",
+      "contact_count": "1",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "79",
+      "tag_slug": "animal-communication-practitioner-training-course-official-certificate-for-practitioner-in-animal-communication-training",
+      "tag_name": "Animal Communication Practitioner Training Course & Official Certificate for Practitioner in Animal Communication Training",
+      "tag_description": "",
+      "contact_count": "1",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "78",
+      "tag_slug": "10-discount",
+      "tag_name": "10% discount",
+      "tag_description": "",
+      "contact_count": "4",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "77",
+      "tag_slug": "formation-de-praticien-en-naturopathie",
+      "tag_name": "Formation de praticien en naturopathie",
+      "tag_description": "",
+      "contact_count": "1",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "76",
+      "tag_slug": "formation-de-praticien-en-art-therapie-bonus-ensemble-de-ressources-pour-les-praticiens-holistiques",
+      "tag_name": "Formation de praticien en art-th\u00e9rapie & BONUS: Ensemble de Ressources pour les Praticiens Holistiques",
+      "tag_description": "",
+      "contact_count": "3",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "75",
+      "tag_slug": "weo-animal-communication",
+      "tag_name": "WEO-animal-communication",
+      "tag_description": "",
+      "contact_count": "12",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "74",
+      "tag_slug": "formation-de-praticien-en-art-therapie",
+      "tag_name": "Formation de praticien en art-th\u00e9rapie",
+      "tag_description": "",
+      "contact_count": "6",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "73",
+      "tag_slug": "certificat-officiel-pour-la-formation-en-art-therapie",
+      "tag_name": "Certificat officiel pour la formation en art-th\u00e9rapie",
+      "tag_description": "",
+      "contact_count": "2",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "72",
+      "tag_slug": "formation-de-praticien-en-art-therapie-formation-specialiste-en-communication-animale",
+      "tag_name": "Formation de praticien en art-th\u00e9rapie & Formation sp\u00e9cialiste en communication animale",
+      "tag_description": "",
+      "contact_count": "1",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "71",
+      "tag_slug": "animal-communication-practitioner-training-course",
+      "tag_name": "Animal Communication Practitioner Training Course",
+      "tag_description": "",
+      "contact_count": "14",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "70",
+      "tag_slug": "scho-cmk-en",
+      "tag_name": "SCHO-CMK-EN",
+      "tag_description": "",
+      "contact_count": "5",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "69",
+      "tag_slug": "certificat-officiel-formation-de-praticien-en-art-therapie",
+      "tag_name": "Certificat officiel & Formation de praticien en art-th\u00e9rapie",
+      "tag_description": "",
+      "contact_count": "1",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "68",
+      "tag_slug": "scho-animal-communication-fr",
+      "tag_name": "SCHO-animal-communication-fr",
+      "tag_description": "",
+      "contact_count": "8",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "67",
+      "tag_slug": "typeform-integration-solutionlabs_edustart_application",
+      "tag_name": "typeform-integration-SolutionLabs_EduStart_Application",
+      "tag_description": "",
+      "contact_count": "2",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "66",
+      "tag_slug": "apply-edustart",
+      "tag_name": "apply-edustart",
+      "tag_description": "",
+      "contact_count": "2",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "65",
+      "tag_slug": "weo-art-therapy-buyers",
+      "tag_name": "WEO-art-therapy-buyers",
+      "tag_description": "",
+      "contact_count": "5",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "64",
+      "tag_slug": "received-coupon-sequence",
+      "tag_name": "Received Coupon Sequence",
+      "tag_description": "",
+      "contact_count": "2",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "63",
+      "tag_slug": "product2-product3",
+      "tag_name": "Product2 & Product3",
+      "tag_description": "",
+      "contact_count": "2",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "62",
+      "tag_slug": "product1",
+      "tag_name": "Product1",
+      "tag_description": "",
+      "contact_count": "2",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "61",
+      "tag_slug": "officieel-gedrukt-certificaat",
+      "tag_name": "Officieel gedrukt certificaat",
+      "tag_description": "",
+      "contact_count": "4",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "60",
+      "tag_slug": "kunstzinnige-therapie-practitioner-opleiding",
+      "tag_name": "Kunstzinnige Therapie Practitioner Opleiding",
+      "tag_description": "",
+      "contact_count": "5",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "59",
+      "tag_slug": "dierencommunicatie-specialist-opleiding",
+      "tag_name": "Dierencommunicatie Specialist Opleiding",
+      "tag_description": "",
+      "contact_count": "5",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "58",
+      "tag_slug": "coupon-instruire-meditation-review",
+      "tag_name": "Coupon-Instruire-Meditation-Review",
+      "tag_description": "",
+      "contact_count": "1",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "57",
+      "tag_slug": "coupon-instruire-meditation",
+      "tag_name": "Coupon-Instruire-Meditation",
+      "tag_description": "",
+      "contact_count": "1",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "56",
+      "tag_slug": "coupon-instruire-art-therapy-review",
+      "tag_name": "Coupon-Instruire-Art-Therapy-Review",
+      "tag_description": "",
+      "contact_count": "1",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "55",
+      "tag_slug": "coupon-instruire-art-therapy",
+      "tag_name": "Coupon-Instruire-Art-Therapy",
+      "tag_description": "",
+      "contact_count": "1",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "54",
+      "tag_slug": "coupon-instruire-aromatherapie",
+      "tag_name": "Coupon-Instruire-Aromatherapie",
+      "tag_description": "",
+      "contact_count": "1",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "53",
+      "tag_slug": "formation-de-praticien-en-art-therapie-formation-de-praticien-en-art-therapie",
+      "tag_name": "Formation de praticien en art-th\u00e9rapie & Formation de praticien en art-th\u00e9rapie",
+      "tag_description": "",
+      "contact_count": "1",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "52",
+      "tag_slug": "certificat-officiel",
+      "tag_name": "Certificat officiel",
+      "tag_description": "",
+      "contact_count": "3",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "51",
+      "tag_slug": "formation-specialisee-en-communication-animale-en-deux-paiements",
+      "tag_name": "Formation sp\u00e9cialis\u00e9e en communication animale en deux paiements",
+      "tag_description": "",
+      "contact_count": "1",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "50",
+      "tag_slug": "naturopathy-practitioner-training-course",
+      "tag_name": "Naturopathy Practitioner Training Course",
+      "tag_description": "",
+      "contact_count": "27",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "49",
+      "tag_slug": "welcome-series-complete",
+      "tag_name": "welcome-series-complete",
+      "tag_description": "",
+      "contact_count": "3",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "48",
+      "tag_slug": "dfy-interest",
+      "tag_name": "dfy-interest",
+      "tag_description": "",
+      "contact_count": "1",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "47",
+      "tag_slug": "abandon-cmk",
+      "tag_name": "abandon-cmk",
+      "tag_description": "",
+      "contact_count": "3",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "46",
+      "tag_slug": "affiliate",
+      "tag_name": "Affiliate",
+      "tag_description": "",
+      "contact_count": "1",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "45",
+      "tag_slug": "bonus-holistic-practitioner-resource-toolkit-official-certificate-for-art-therapy-practitioner-training-course",
+      "tag_name": "BONUS: Holistic Practitioner Resource & Toolkit & Official certificate for art therapy practitioner training course",
+      "tag_description": "",
+      "contact_count": "8",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "44",
+      "tag_slug": "welcome10_nl",
+      "tag_name": "Welcome10_NL",
+      "tag_description": "",
+      "contact_count": "2",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "43",
+      "tag_slug": "typeform-integration-lead_gen_quiz_artth_en",
+      "tag_name": "typeform-integration-Lead_Gen_Quiz_ARTTH_EN",
+      "tag_description": "",
+      "contact_count": "1",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "42",
+      "tag_slug": "art-therapy-practitioner-training-course-official-certificate-for-art-therapy-practitioner-training-course",
+      "tag_name": "Art Therapy Practitioner Training Course & Official certificate for art therapy practitioner training course",
+      "tag_description": "",
+      "contact_count": "6",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "41",
+      "tag_slug": "typeform-integration-lead_gen_quiz_ancom_en",
+      "tag_name": "typeform-integration-Lead_Gen_Quiz_ANCOM_EN",
+      "tag_description": "",
+      "contact_count": "1",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "40",
+      "tag_slug": "official-certificate-for-practitioner-in-animal-communication-training",
+      "tag_name": "Official Certificate for Practitioner in Animal Communication Training",
+      "tag_description": "",
+      "contact_count": "5",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "39",
+      "tag_slug": "animal-communication-specialist-training-course",
+      "tag_name": "Animal Communication Specialist Training Course",
+      "tag_description": "",
+      "contact_count": "39",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "38",
+      "tag_slug": "typeform-integration-home_page_quiz",
+      "tag_name": "typeform-integration-Home_Page_Quiz",
+      "tag_description": "",
+      "contact_count": "4",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "37",
+      "tag_slug": "typeform-integration",
+      "tag_name": "typeform-integration",
+      "tag_description": "",
+      "contact_count": "10",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "36",
+      "tag_slug": "course-marketing-kit",
+      "tag_name": "Course Marketing Kit",
+      "tag_description": "",
+      "contact_count": "8",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "35",
+      "tag_slug": "art-therapy-practitioner-training-in-two-installments",
+      "tag_name": "Art Therapy Practitioner Training In Two Installments",
+      "tag_description": "",
+      "contact_count": "8",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "34",
+      "tag_slug": "art-therapy-practitioner-training-course-bonus-holistic-practitioner-resource-toolkit",
+      "tag_name": "Art Therapy Practitioner Training Course & BONUS: Holistic Practitioner Resource & Toolkit",
+      "tag_description": "",
+      "contact_count": "54",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "33",
+      "tag_slug": "formation-praticien-en-communication-animale",
+      "tag_name": "Formation praticien en communication animale",
+      "tag_description": "",
+      "contact_count": "4",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "32",
+      "tag_slug": "formation-specialiste-en-communication-animale",
+      "tag_name": "Formation Specialiste en communication animale",
+      "tag_description": "",
+      "contact_count": "32",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "31",
+      "tag_slug": "scho-animal-com-buyer",
+      "tag_name": "SCHO-animal-com-buyer",
+      "tag_description": "",
+      "contact_count": "60",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "30",
+      "tag_slug": "wellness10",
+      "tag_name": "WELLNESS10",
+      "tag_description": "",
+      "contact_count": "340",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "29",
+      "tag_slug": "official-printed-certificate",
+      "tag_name": "Official Printed Certificate",
+      "tag_description": "",
+      "contact_count": "20",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "28",
+      "tag_slug": "recent-activity",
+      "tag_name": "Recent activity",
+      "tag_description": "",
+      "contact_count": "260",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "27",
+      "tag_slug": "wpfusion",
+      "tag_name": "WPFusion",
+      "tag_description": "",
+      "contact_count": "175",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "26",
+      "tag_slug": "disengaged",
+      "tag_name": "Disengaged",
+      "tag_description": "",
+      "contact_count": "646",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "25",
+      "tag_slug": "art-therapy-practitioner-training-course",
+      "tag_name": "Art Therapy Practitioner Training Course",
+      "tag_description": "",
+      "contact_count": "229",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "24",
+      "tag_slug": "woocommerce-customer",
+      "tag_name": "woocommerce-customer",
+      "tag_description": "",
+      "contact_count": "653",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "23",
+      "tag_slug": "schol-art-therapy-buyers",
+      "tag_name": "SCHOL-art-therapy-buyers",
+      "tag_description": "",
+      "contact_count": "896",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "22",
+      "tag_slug": "scho-naturopathy-lead-gen",
+      "tag_name": "scho-naturopathy-lead-gen",
+      "tag_description": "",
+      "contact_count": "5483",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "21",
+      "tag_slug": "engaged",
+      "tag_name": "Engaged",
+      "tag_description": "",
+      "contact_count": "625",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "20",
+      "tag_slug": "scho-art-therapy-lead-gen",
+      "tag_name": "scho-art-therapy-lead-gen",
+      "tag_description": "",
+      "contact_count": "10617",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "19",
+      "tag_slug": "inactive",
+      "tag_name": "Inactive",
+      "tag_description": "",
+      "contact_count": "1465",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "18",
+      "tag_slug": "scho-animal-communication",
+      "tag_name": "SCHO-animal-communication",
+      "tag_description": "",
+      "contact_count": "907",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "17",
+      "tag_slug": "import-2023-06-26-133300",
+      "tag_name": "Import - 2023-06-26 13:33:00",
+      "tag_description": "",
+      "contact_count": "0",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "16",
+      "tag_slug": "author",
+      "tag_name": "Author",
+      "tag_description": "",
+      "contact_count": "1",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "15",
+      "tag_slug": "subscriber",
+      "tag_name": "Subscriber",
+      "tag_description": "",
+      "contact_count": "11",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "14",
+      "tag_slug": "participant",
+      "tag_name": "Participant",
+      "tag_description": "",
+      "contact_count": "3365",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "13",
+      "tag_slug": "customer",
+      "tag_name": "Customer",
+      "tag_description": "",
+      "contact_count": "4523",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "12",
+      "tag_slug": "keymaster",
+      "tag_name": "Keymaster",
+      "tag_description": "",
+      "contact_count": "24",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "11",
+      "tag_slug": "administrator",
+      "tag_name": "Administrator",
+      "tag_description": "",
+      "contact_count": "37",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "10",
+      "tag_slug": "non-marketable",
+      "tag_name": "Non-marketable",
+      "tag_description": "This tag is applied to anyone whose optin status is non-marketable.",
+      "contact_count": "2821",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "9",
+      "tag_slug": "marketable",
+      "tag_name": "Marketable",
+      "tag_description": "This tag is applied to anyone whose optin status is marketable.",
+      "contact_count": "28268",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "8",
+      "tag_slug": "subscribed-weekly",
+      "tag_name": "Subscribed (Weekly)",
+      "tag_description": "This tag is applied to anyone who receives emails weekly.",
+      "contact_count": "0",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "7",
+      "tag_slug": "subscribed-monthly",
+      "tag_name": "Subscribed (Monthly)",
+      "tag_description": "This tag is applied to anyone whose receives emails monthly.",
+      "contact_count": "0",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "6",
+      "tag_slug": "complained",
+      "tag_name": "Complained",
+      "tag_description": "This tag is applied to anyone whose optin status is complained.",
+      "contact_count": "0",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "5",
+      "tag_slug": "bounced",
+      "tag_name": "Bounced",
+      "tag_description": "This tag is applied to anyone whose optin status is bounced.",
+      "contact_count": "0",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "4",
+      "tag_slug": "spam",
+      "tag_name": "Spam",
+      "tag_description": "This tag is applied to anyone whose optin status is spam.",
+      "contact_count": "0",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "3",
+      "tag_slug": "unsubscribed",
+      "tag_name": "Unsubscribed",
+      "tag_description": "This tag is applied to anyone whose optin status is unsubscribed.",
+      "contact_count": "2821",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "2",
+      "tag_slug": "unconfirmed",
+      "tag_name": "Unconfirmed",
+      "tag_description": "This tag is applied to anyone whose optin status is unconfirmed.",
+      "contact_count": "13031",
+      "show_as_preference": "0"
+    },
+    {
+      "tag_id": "1",
+      "tag_slug": "confirmed",
+      "tag_name": "Confirmed",
+      "tag_description": "This tags is applied to anyone whose optin status is confirmed.",
+      "contact_count": "15237",
+      "show_as_preference": "0"
+    }
+  ],
+  "status": "success"
+}

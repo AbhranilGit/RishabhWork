@@ -1,0 +1,21 @@
+
+#Art Therapy
+{
+  "actividades-arteterapia-para-ansiedad": "https://es.scholistico.com/actividades-arteterapia-para-ansiedad/",
+  "actividades-arteterapia-para-depresion": "https://es.scholistico.com/actividades-arteterapia-para-depresion/",
+  "beneficios-arteterapia-para-adultos": "https://es.scholistico.com/beneficios-arteterapia-para-adultos/",
+  "6-razones-cientificas-arteterapia-aliviar-estres": "https://es.scholistico.com/6-razones-cientificas-arteterapia-aliviar-estres/",
+  "arteterapia-para-mayores": "https://es.scholistico.com/arteterapia-para-mayores/",
+  "guia-arteterapia-clinica-contra-no-clinica": "https://es.scholistico.com/guia-arteterapia-clinica-contra-no-clinica/",
+}
+
+#Naturopathy
+{
+  "guia-naturopatia-principiantes": "https://es.scholistico.com/guia-naturopatia-principiantes/",
+  "que-se-puede-hacer-con-un-certificado-de-naturopatia": "https://es.scholistico.com/que-se-puede-hacer-con-un-certificado-de-naturopatia/",
+}
+
+#Holistic Health
+{
+  "5-consejos-estilo-vida-saludable": "https://es.scholistico.com/5-consejos-estilo-vida-saludable/",
+}

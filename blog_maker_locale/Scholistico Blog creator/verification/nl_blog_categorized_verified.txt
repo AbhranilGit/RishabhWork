@@ -1,0 +1,328 @@
+
+#Art Therapy
+{
+  "kunstzinnige-therapie-oefeningen-voor-autisme": {
+    "url": "https://nl.scholistico.com/kunstzinnige-therapie-oefeningen-voor-autisme/",
+    "english_title": "Artistic Therapy Exercises for Autism"
+  },
+  "kunstzinnige-therapie-voor-senioren": {
+    "url": "https://nl.scholistico.com/kunstzinnige-therapie-voor-senioren/",
+    "english_title": "Art Therapy for Seniors"
+  },
+  "kunstzinnige-therapie-activiteiten-voor-tieners": {
+    "url": "https://nl.scholistico.com/kunstzinnige-therapie-activiteiten-voor-tieners/",
+    "english_title": "Artistic Therapy Activities for Teenagers"
+  },
+  "kunstzinnige-therapie-bij-depressie": {
+    "url": "https://nl.scholistico.com/kunstzinnige-therapie-bij-depressie/",
+    "english_title": "Art therapy for depression"
+  },
+  "kunstzinnige-therapie-voor-volwassenen": {
+    "url": "https://nl.scholistico.com/kunstzinnige-therapie-voor-volwassenen/",
+    "english_title": "Art Therapy for Adults"
+  },
+  "kunstzinnige-therapie-oefeningen-voor-kinderen": {
+    "url": "https://nl.scholistico.com/kunstzinnige-therapie-oefeningen-voor-kinderen/",
+    "english_title": "artistic therapy exercises for children"
+  },
+  "leer-kunstzinnige-therapie-online": {
+    "url": "https://nl.scholistico.com/leer-kunstzinnige-therapie-online/",
+    "english_title": "Learn Art Therapy Online"
+  },
+  "kleur-therapie": {
+    "url": "https://nl.scholistico.com/kleur-therapie/",
+    "english_title": "Color therapy"
+  },
+  "tarieven-bepalen-voor-niet-klinische-kunstzinnige-therapiediensten": {
+    "url": "https://nl.scholistico.com/tarieven-bepalen-voor-niet-klinische-kunstzinnige-therapiediensten/",
+    "english_title": "Determining rates for non-clinical artistic therapy services"
+  },
+  "kunst-en-geestelijke-gezondheid": {
+    "url": "https://nl.scholistico.com/kunst-en-geestelijke-gezondheid/",
+    "english_title": "Art and Mental Health"
+  },
+  "therapeutische-kunst": {
+    "url": "https://nl.scholistico.com/therapeutische-kunst/",
+    "english_title": "Therapeutic Art"
+  },
+  "kunsztinnige-activiteiten-bij-depressie": {
+    "url": "https://nl.scholistico.com/kunsztinnige-activiteiten-bij-depressie/",
+    "english_title": "Art therapy activities for depression"
+  },
+  "certificering-en-licenties-voor-kunstzinnige-therapie": {
+    "url": "https://nl.scholistico.com/certificering-en-licenties-voor-kunstzinnige-therapie/",
+    "english_title": "Certification and Licenses for Art Therapy"
+  },
+  "creatieve-helingstechnieken": {
+    "url": "https://nl.scholistico.com/creatieve-helingstechnieken/",
+    "english_title": "Creative Healing Techniques"
+  },
+  "de-kracht-van-kunstzinnige-therapie": {
+    "url": "https://nl.scholistico.com/de-kracht-van-kunstzinnige-therapie/",
+    "english_title": "The Power of Art Therapy"
+  },
+  "niet-klinische-kunstzinnige-therapie": {
+    "url": "https://nl.scholistico.com/niet-klinische-kunstzinnige-therapie/",
+    "english_title": "non-clinical art therapy"
+  },
+  "8-kunstzinnige-therapie-activiteiten": {
+    "url": "https://nl.scholistico.com/8-kunstzinnige-therapie-activiteiten/",
+    "english_title": "8 artistic therapy activities"
+  },
+  "5-technieken-kunstzinnige-therapie": {
+    "url": "https://nl.scholistico.com/5-technieken-kunstzinnige-therapie/",
+    "english_title": "5 techniques of artistic therapy"
+  },
+  "kunstzinnige-therapie-voor-tieners": {
+    "url": "https://nl.scholistico.com/kunstzinnige-therapie-voor-tieners/",
+    "english_title": "Art Therapy for Teenagers"
+  },
+  "voordelen-kleuren-voor-volwassenen-stress": {
+    "url": "https://nl.scholistico.com/voordelen-kleuren-voor-volwassenen-stress/",
+    "english_title": "Benefits of Coloring for Adults - Stress"
+  },
+  "ontlaad-je-emoties-op-gezonde-wijze-gebruik-kunst": {
+    "url": "https://nl.scholistico.com/ontlaad-je-emoties-op-gezonde-wijze-gebruik-kunst/",
+    "english_title": "Release your emotions in a healthy way: use art"
+  },
+  "kunstzinnige-therapie-kinderen-2": {
+    "url": "https://nl.scholistico.com/kunstzinnige-therapie-kinderen-2/",
+    "english_title": "Artistic Therapy for Children 2"
+  },
+  "wat-is-kunstzinnige-therapie-en-hoe-werkt-het-2": {
+    "url": "https://nl.scholistico.com/wat-is-kunstzinnige-therapie-en-hoe-werkt-het-2/",
+    "english_title": "What is art therapy and how does it work? 2"
+  },
+  "manieren-kunstzinnige-therapie-gebruiken-2": {
+    "url": "https://nl.scholistico.com/manieren-kunstzinnige-therapie-gebruiken-2/",
+    "english_title": "ways to use artistic therapy 2"
+  },
+  "hoe-je-gevoelens-te-tekenen-emoties-schilderen-2": {
+    "url": "https://nl.scholistico.com/hoe-je-gevoelens-te-tekenen-emoties-schilderen-2/",
+    "english_title": "How to draw feelings: painting emotions 2"
+  },
+  "plezier-en-empowerment-door-kunstzinnige-therapie-2": {
+    "url": "https://nl.scholistico.com/plezier-en-empowerment-door-kunstzinnige-therapie-2/",
+    "english_title": "Fun and Empowerment through Artistic Therapy 2"
+  },
+  "kunstzinnige-therapie-beste-kinderen-halen-2": {
+    "url": "https://nl.scholistico.com/kunstzinnige-therapie-beste-kinderen-halen-2/",
+    "english_title": "Artistic Therapy Best Children Achieve 2"
+  },
+  "manieren-kunstzinnige-therapie-gebruiken": {
+    "url": "https://nl.scholistico.com/manieren-kunstzinnige-therapie-gebruiken/",
+    "english_title": "ways to use art therapy"
+  },
+  "wat-is-kunstzinnige-therapie-en-hoe-werkt-het": {
+    "url": "https://nl.scholistico.com/wat-is-kunstzinnige-therapie-en-hoe-werkt-het/",
+    "english_title": "What is art therapy and how does it work"
+  },
+  "hoe-je-gevoelens-te-tekenen-emoties-schilderen": {
+    "url": "https://nl.scholistico.com/hoe-je-gevoelens-te-tekenen-emoties-schilderen/",
+    "english_title": "How to draw feelings: painting emotions"
+  },
+  "plezier-en-empowerment-door-kunstzinnige-therapie": {
+    "url": "https://nl.scholistico.com/plezier-en-empowerment-door-kunstzinnige-therapie/",
+    "english_title": "Fun and Empowerment through Artistic Therapy"
+  },
+  "kunstzinnige-therapie-beste-kinderen-halen": {
+    "url": "https://nl.scholistico.com/kunstzinnige-therapie-beste-kinderen-halen/",
+    "english_title": "Artistic Therapy Best for Children to Achieve"
+  },
+  "kunstzinnige-therapie-kinderen": {
+    "url": "https://nl.scholistico.com/kunstzinnige-therapie-kinderen/",
+    "english_title": "artistic therapy for children"
+  }
+}
+
+#Naturopathy
+{
+  "4-natuurlijke-huismiddeltjes": {
+    "url": "https://nl.scholistico.com/4-natuurlijke-huismiddeltjes/",
+    "english_title": "4 Natural Home Remedies"
+  },
+  "natuurgeneeskundig-practitioner-7-redenen": {
+    "url": "https://nl.scholistico.com/natuurgeneeskundig-practitioner-7-redenen/",
+    "english_title": "naturopathic practitioner 7 reasons"
+  },
+  "natuurlijke-huismiddeltjes-voor-spijsvertering": {
+    "url": "https://nl.scholistico.com/natuurlijke-huismiddeltjes-voor-spijsvertering/",
+    "english_title": "Natural home remedies for digestion"
+  },
+  "ontdek-de-kernprincipes-van-natuurgeneeskunde": {
+    "url": "https://nl.scholistico.com/ontdek-de-kernprincipes-van-natuurgeneeskunde/",
+    "english_title": "Discover the Core Principles of Natural Medicine"
+  },
+  "natuurgeneeskundige-certificering": {
+    "url": "https://nl.scholistico.com/natuurgeneeskundige-certificering/",
+    "english_title": "naturopathic certification"
+  },
+  "verschillen-tussen-een-natuurgeneeskundig-practitioner-en-een-natuurgeneeskundig-arts": {
+    "url": "https://nl.scholistico.com/verschillen-tussen-een-natuurgeneeskundig-practitioner-en-een-natuurgeneeskundig-arts/",
+    "english_title": "Differences between a naturopathic practitioner and a naturopathic doctor"
+  },
+  "natuurlijke-supplementen-gezondheid-2": {
+    "url": "https://nl.scholistico.com/natuurlijke-supplementen-gezondheid-2/",
+    "english_title": "natural supplements health 2"
+  },
+  "natuurlijke-verlichting-van-pijn-krijgen-door-natuurgeneeskunde-2": {
+    "url": "https://nl.scholistico.com/natuurlijke-verlichting-van-pijn-krijgen-door-natuurgeneeskunde-2/",
+    "english_title": "Natural pain relief through naturopathy 2"
+  },
+  "10-natuurgeneeskundige-behandelingen-voor-specifieke-gezondheidstoestanden-2": {
+    "url": "https://nl.scholistico.com/10-natuurgeneeskundige-behandelingen-voor-specifieke-gezondheidstoestanden-2/",
+    "english_title": "10 Natural Healing Treatments for Specific Health Conditions 2"
+  },
+  "natuurlijke-supplementen-gezondheid": {
+    "url": "https://nl.scholistico.com/natuurlijke-supplementen-gezondheid/",
+    "english_title": "natural supplements health"
+  },
+  "natuurlijke-verlichting-van-pijn-krijgen-door-natuurgeneeskunde": {
+    "url": "https://nl.scholistico.com/natuurlijke-verlichting-van-pijn-krijgen-door-natuurgeneeskunde/",
+    "english_title": "Natural pain relief through naturopathy"
+  },
+  "overweeg-je-een-carriere-in-de-natuurlijke-gezondheidszorg": {
+    "url": "https://nl.scholistico.com/overweeg-je-een-carriere-in-de-natuurlijke-gezondheidszorg/",
+    "english_title": "Considering a career in natural healthcare"
+  },
+  "10-natuurgeneeskundige-behandelingen-voor-specifieke-gezondheidstoestanden": {
+    "url": "https://nl.scholistico.com/10-natuurgeneeskundige-behandelingen-voor-specifieke-gezondheidstoestanden/",
+    "english_title": "10 Natural Healing Treatments for Specific Health Conditions"
+  }
+}
+
+#Nutrition
+{
+  "holistische-voedingsconsulent-certificering": {
+    "url": "https://nl.scholistico.com/holistische-voedingsconsulent-certificering/",
+    "english_title": "holistic nutrition consultant certification"
+  }
+}
+
+#Holistic Health
+{
+  "huismiddeltjes-tegen-leververvetting": {
+    "url": "https://nl.scholistico.com/huismiddeltjes-tegen-leververvetting/",
+    "english_title": "home remedies for fatty liver"
+  },
+  "holistische-gezondheidscertificering": {
+    "url": "https://nl.scholistico.com/holistische-gezondheidscertificering/",
+    "english_title": "holistic health certification"
+  },
+  "tips-en-trucs-voor-betere-telepathie": {
+    "url": "https://nl.scholistico.com/tips-en-trucs-voor-betere-telepathie/",
+    "english_title": "Tips and tricks for better telepathy"
+  },
+  "8-wellness-beroepen-voor-carriereswitch": {
+    "url": "https://nl.scholistico.com/8-wellness-beroepen-voor-carriereswitch/",
+    "english_title": "8 wellness careers for a career switch"
+  },
+  "waarom-de-keuze-voor-een-geaccrediteerde-online-cursus-voor-holistische-practitioners": {
+    "url": "https://nl.scholistico.com/waarom-de-keuze-voor-een-geaccrediteerde-online-cursus-voor-holistische-practitioners/",
+    "english_title": "Why choose an accredited online course for holistic practitioners"
+  },
+  "wat-is-maantuinieren-en-hoe-kan-het-mijn-tuin-ten-goede-komen-2": {
+    "url": "https://nl.scholistico.com/wat-is-maantuinieren-en-hoe-kan-het-mijn-tuin-ten-goede-komen-2/",
+    "english_title": "What is moon gardening and how can it benefit my garden?"
+  },
+  "alternatieve-geneeskunde-gezondheid-verbeteren-2": {
+    "url": "https://nl.scholistico.com/alternatieve-geneeskunde-gezondheid-verbeteren-2/",
+    "english_title": "alternative medicine improving health 2"
+  },
+  "manieren-alternatieve-geneeskunde-tegen-katers-te-gebruiken-2": {
+    "url": "https://nl.scholistico.com/manieren-alternatieve-geneeskunde-tegen-katers-te-gebruiken-2/",
+    "english_title": "Ways to use alternative medicine against hangovers 2"
+  },
+  "top-10-manieren-om-stress-te-verminderen-2": {
+    "url": "https://nl.scholistico.com/top-10-manieren-om-stress-te-verminderen-2/",
+    "english_title": "Top 10 Ways to Reduce Stress 2"
+  },
+  "voordelen-alternatieve-geneeswijzen-2": {
+    "url": "https://nl.scholistico.com/voordelen-alternatieve-geneeswijzen-2/",
+    "english_title": "benefits of alternative medicine 2"
+  },
+  "overweeg-je-een-carriere-in-de-natuurlijke-gezondheidszorg-2": {
+    "url": "https://nl.scholistico.com/overweeg-je-een-carriere-in-de-natuurlijke-gezondheidszorg-2/",
+    "english_title": "Are you considering a career in natural healthcare?"
+  },
+  "wat-is-stadslandbouw-2": {
+    "url": "https://nl.scholistico.com/wat-is-stadslandbouw-2/",
+    "english_title": "What is urban agriculture 2"
+  },
+  "alles-wat-je-moet-weten-over-permacultuur-wat-het-is-hoe-het-te-doen-en-meer-2": {
+    "url": "https://nl.scholistico.com/alles-wat-je-moet-weten-over-permacultuur-wat-het-is-hoe-het-te-doen-en-meer-2/",
+    "english_title": "Everything you need to know about permaculture: what it is, how to do it, and more"
+  },
+  "ayurveda-voor-beginners-alles-wat-je-moet-weten-2": {
+    "url": "https://nl.scholistico.com/ayurveda-voor-beginners-alles-wat-je-moet-weten-2/",
+    "english_title": "Ayurveda for Beginners: Everything You Need to Know 2"
+  },
+  "de-voordelen-van-detoxen-met-ayurveda-2": {
+    "url": "https://nl.scholistico.com/de-voordelen-van-detoxen-met-ayurveda-2/",
+    "english_title": "The benefits of detoxing with Ayurveda 2"
+  },
+  "top-10-manieren-om-stress-te-verminderen": {
+    "url": "https://nl.scholistico.com/top-10-manieren-om-stress-te-verminderen/",
+    "english_title": "Top 10 Ways to Reduce Stress"
+  },
+  "voordelen-alternatieve-geneeswijzen": {
+    "url": "https://nl.scholistico.com/voordelen-alternatieve-geneeswijzen/",
+    "english_title": "benefits of alternative medicine"
+  },
+  "alternatieve-geneeskunde-gezondheid-verbeteren": {
+    "url": "https://nl.scholistico.com/alternatieve-geneeskunde-gezondheid-verbeteren/",
+    "english_title": "alternative medicine health improvement"
+  },
+  "manieren-alternatieve-geneeskunde-tegen-katers-te-gebruiken": {
+    "url": "https://nl.scholistico.com/manieren-alternatieve-geneeskunde-tegen-katers-te-gebruiken/",
+    "english_title": "ways to use alternative medicine against hangovers"
+  },
+  "wat-is-stadslandbouw": {
+    "url": "https://nl.scholistico.com/wat-is-stadslandbouw/",
+    "english_title": "What is urban agriculture"
+  },
+  "alles-wat-je-moet-weten-over-permacultuur-wat-het-is-hoe-het-te-doen-en-meer": {
+    "url": "https://nl.scholistico.com/alles-wat-je-moet-weten-over-permacultuur-wat-het-is-hoe-het-te-doen-en-meer/",
+    "english_title": "Everything you need to know about permaculture: what it is, how to do it, and more"
+  },
+  "ayurveda-voor-beginners-alles-wat-je-moet-weten": {
+    "url": "https://nl.scholistico.com/ayurveda-voor-beginners-alles-wat-je-moet-weten/",
+    "english_title": "Ayurveda for Beginners: Everything You Need to Know"
+  },
+  "de-voordelen-van-detoxen-met-ayurveda": {
+    "url": "https://nl.scholistico.com/de-voordelen-van-detoxen-met-ayurveda/",
+    "english_title": "The benefits of detoxing with Ayurveda"
+  },
+  "wat-is-maantuinieren-en-hoe-kan-het-mijn-tuin-ten-goede-komen": {
+    "url": "https://nl.scholistico.com/wat-is-maantuinieren-en-hoe-kan-het-mijn-tuin-ten-goede-komen/",
+    "english_title": "What is moon gardening and how can it benefit my garden"
+  }
+}
+
+#Animal Wellness
+{
+  "leer-te-communiceren-met-dieren": {
+    "url": "https://nl.scholistico.com/leer-te-communiceren-met-dieren/",
+    "english_title": "Learn to communicate with animals"
+  },
+  "dierencommunicatie-professioneel-voordeel": {
+    "url": "https://nl.scholistico.com/dierencommunicatie-professioneel-voordeel/",
+    "english_title": "animal communication professional advantage"
+  },
+  "wat-is-een-dierencommunicator-en-hoe-word-je-er-een-2": {
+    "url": "https://nl.scholistico.com/wat-is-een-dierencommunicator-en-hoe-word-je-er-een-2/",
+    "english_title": "What is an animal communicator and how do you become one?"
+  },
+  "wat-is-een-dierencommunicator-en-hoe-word-je-er-een": {
+    "url": "https://nl.scholistico.com/wat-is-een-dierencommunicator-en-hoe-word-je-er-een/",
+    "english_title": "What is an animal communicator and how do you become one"
+  }
+}
+
+#Marketing
+{
+  "instagram-aanwezigheid-als-kunstzinnige-therapeut": {
+    "url": "https://nl.scholistico.com/instagram-aanwezigheid-als-kunstzinnige-therapeut/",
+    "english_title": "Instagram presence as an art therapist"
+  }
+}

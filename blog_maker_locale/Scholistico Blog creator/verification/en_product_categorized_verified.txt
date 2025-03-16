@@ -1,0 +1,248 @@
+
+#Art Therapy
+{
+  "art-therapy-practitioner-training-course": {
+    "url": "https://scholistico.com/product/art-therapy-practitioner-training-course/",
+    "english_title": "Art Therapy Practitioner Training Course"
+  },
+  "art-special-offer-product": {
+    "url": "https://scholistico.com/product/art-special-offer-product/",
+    "english_title": "Art Special Offer Product"
+  },
+  "art-therapy-practitioner-certification-course": {
+    "url": "https://scholistico.com/product/art-therapy-practitioner-certification-course/",
+    "english_title": "Art Therapy Practitioner Certification Course"
+  },
+  "introduction-to-art-therapy": {
+    "url": "https://scholistico.com/product/introduction-to-art-therapy/",
+    "english_title": "Introduction to Art Therapy"
+  },
+  "certificat-officiel-pour-la-formation-en-art-therapie": {
+    "url": "https://scholistico.com/product/certificat-officiel-pour-la-formation-en-art-therapie/",
+    "english_title": "Official Certificate for Art Therapy Training"
+  },
+  "50-art-therapy-exercises-for-children-adults-and-seniors": {
+    "url": "https://scholistico.com/product/50-art-therapy-exercises-for-children-adults-and-seniors/",
+    "english_title": "50 Art Therapy Exercises for Children, Adults, and Seniors"
+  },
+  "making-a-living-in-art": {
+    "url": "https://scholistico.com/product/making-a-living-in-art/",
+    "english_title": "Making a Living in Art"
+  },
+  "official-printed-book-50-art-therapy-exercises-for-children-adults-and-seniors": {
+    "url": "https://scholistico.com/product/official-printed-book-50-art-therapy-exercises-for-children-adults-and-seniors/",
+    "english_title": "Official Printed Book: 50 Art Therapy Exercises for Children, Adults, and Seniors"
+  }
+}
+
+#Naturopathy
+{
+  "naturopathy-practitioner-training-course": {
+    "url": "https://scholistico.com/product/naturopathy-practitioner-training-course/",
+    "english_title": "Naturopathy Practitioner Training Course"
+  },
+  "naturopathy-practitioner-certification-course-in-three-installments": {
+    "url": "https://scholistico.com/product/naturopathy-practitioner-certification-course-in-three-installments/",
+    "english_title": "naturopathy practitioner certification course in three installments"
+  },
+  "introduction-to-naturopathy": {
+    "url": "https://scholistico.com/product/introduction-to-naturopathy/",
+    "english_title": "Introduction to Naturopathy"
+  },
+  "official-certificate-for-naturopathy-practitioner-training-course": {
+    "url": "https://scholistico.com/product/official-certificate-for-naturopathy-practitioner-training-course/",
+    "english_title": "Official Certificate for Naturopathy Practitioner Training Course"
+  },
+  "naturopathy-practitioner-certification-course-certificate-bundle": {
+    "url": "https://scholistico.com/product/naturopathy-practitioner-certification-course-certificate-bundle/",
+    "english_title": "Naturopathy Practitioner Certification Course Certificate Bundle"
+  },
+  "naturopathy-practitioner-training-course-in-two-installments": {
+    "url": "https://scholistico.com/product/naturopathy-practitioner-training-course-in-two-installments/",
+    "english_title": "Naturopathy Practitioner Training Course in Two Installments"
+  },
+  "50-natural-home-remedies-a-curated-collection-of-simple-remedies-for-all": {
+    "url": "https://scholistico.com/product/50-natural-home-remedies-a-curated-collection-of-simple-remedies-for-all/",
+    "english_title": "50 Natural Home Remedies: A Curated Collection of Simple Remedies for All"
+  },
+  "printed-copy-delivered-to-your-doorstep-natural-remedies": {
+    "url": "https://scholistico.com/product/printed-copy-delivered-to-your-doorstep-natural-remedies/",
+    "english_title": "Printed Copy Delivered to Your Doorstep: Natural Remedies"
+  }
+}
+
+#Nutrition
+{
+  "holistic-nutrition-consultant-training-course": {
+    "url": "https://scholistico.com/product/holistic-nutrition-consultant-training-course/",
+    "english_title": "Holistic Nutrition Consultant Training Course"
+  },
+  "introduction-to-holistic-nutrition": {
+    "url": "https://scholistico.com/product/introduction-to-holistic-nutrition/",
+    "english_title": "Introduction to Holistic Nutrition"
+  },
+  "official-certificate-for-holistic-nutrition-consultant-training-course": {
+    "url": "https://scholistico.com/product/official-certificate-for-holistic-nutrition-consultant-training-course/",
+    "english_title": "Official Certificate for Holistic Nutrition Consultant Training Course"
+  },
+  "50-holistic-nutrition-recipes-book": {
+    "url": "https://scholistico.com/product/50-holistic-nutrition-recipes-book/",
+    "english_title": "50 Holistic Nutrition Recipes Book"
+  },
+  "holistic-nutrition-consultant-certification-course-in-three-installments": {
+    "url": "https://scholistico.com/product/holistic-nutrition-consultant-certification-course-in-three-installments/",
+    "english_title": "holistic nutrition consultant certification course in three installments"
+  },
+  "holistic-nutrition-consultant-certification-course-in-two-installments": {
+    "url": "https://scholistico.com/product/holistic-nutrition-consultant-certification-course-in-two-installments/",
+    "english_title": "holistic nutrition consultant certification course in two installments"
+  }
+}
+
+#Holistic Health
+{
+  "holistic-health-practitioner-online-training-course": {
+    "url": "https://scholistico.com/product/holistic-health-practitioner-online-training-course/",
+    "english_title": "Holistic Health Practitioner Online Training Course"
+  },
+  "making-a-living-in-natural-health": {
+    "url": "https://scholistico.com/product/making-a-living-in-natural-health/",
+    "english_title": "making a living in natural health"
+  },
+  "introduction-to-holistic-health": {
+    "url": "https://scholistico.com/product/introduction-to-holistic-health/",
+    "english_title": "Introduction to Holistic Health"
+  },
+  "official-certificate-for-holistic-health-practitioner-training-course": {
+    "url": "https://scholistico.com/product/official-certificate-for-holistic-health-practitioner-training-course/",
+    "english_title": "Official Certificate for Holistic Health Practitioner Training Course"
+  },
+  "holistic-health-practitioner-certification-course-in-three-installments": {
+    "url": "https://scholistico.com/product/holistic-health-practitioner-certification-course-in-three-installments/",
+    "english_title": "Holistic Health Practitioner Certification Course in Three Installments"
+  },
+  "holistic-health-practitioner-certification-course-in-two-installments": {
+    "url": "https://scholistico.com/product/holistic-health-practitioner-certification-course-in-two-installments/",
+    "english_title": "holistic health practitioner certification course in two installments"
+  },
+  "bonus-holistic-practitioner-resource-toolkit": {
+    "url": "https://scholistico.com/product/bonus-holistic-practitioner-resource-toolkit/",
+    "english_title": "Bonus Holistic Practitioner Resource Toolkit"
+  }
+}
+
+#Sound Therapy
+{
+  "sound-therapy-practitioner-certification-course": {
+    "url": "https://scholistico.com/product/sound-therapy-practitioner-certification-course/",
+    "english_title": "Sound Therapy Practitioner Certification Course"
+  },
+  "official-certificate-for-sound-therapy-practitioner-certification-course": {
+    "url": "https://scholistico.com/product/official-certificate-for-sound-therapy-practitioner-certification-course/",
+    "english_title": "Official Certificate for Sound Therapy Practitioner Certification Course"
+  }
+}
+
+#Movement Therapy
+{
+  "introduction-to-movement-therapy": {
+    "url": "https://scholistico.com/product/introduction-to-movement-therapy/",
+    "english_title": "Introduction to Movement Therapy"
+  },
+  "movement-therapy-practitioner-certification-course": {
+    "url": "https://scholistico.com/product/movement-therapy-practitioner-certification-course/",
+    "english_title": "Movement Therapy Practitioner Certification Course"
+  },
+  "official-certificate-for-movement-therapy-practitioner-certification-course": {
+    "url": "https://scholistico.com/product/official-certificate-for-movement-therapy-practitioner-certification-course/",
+    "english_title": "Official Certificate for Movement Therapy Practitioner Certification Course"
+  }
+}
+
+#Animal Wellness
+{
+  "animal-communication-specialist-training-course": {
+    "url": "https://scholistico.com/product/animal-communication-specialist-training-course/",
+    "english_title": "Animal Communication Specialist Training Course"
+  },
+  "official-certificate-specialist-in-animal-communication-training": {
+    "url": "https://scholistico.com/product/official-certificate-specialist-in-animal-communication-training/",
+    "english_title": "Official Certificate: Specialist in Animal Communication Training"
+  },
+  "introduction-to-animal-communication": {
+    "url": "https://scholistico.com/product/introduction-to-animal-communication/",
+    "english_title": "Introduction to Animal Communication"
+  },
+  "animal-communication-specialist-training-course-2ins": {
+    "url": "https://scholistico.com/product/animal-communication-specialist-training-course-2ins/",
+    "english_title": "Animal Communication Specialist Training Course 2ins"
+  },
+  "animal-communication-specialist-certification-course-in-three-installments": {
+    "url": "https://scholistico.com/product/animal-communication-specialist-certification-course-in-three-installments/",
+    "english_title": "Animal Communication Specialist Certification Course in Three Installments"
+  }
+}
+
+#Learning
+{
+  "introduction-to-learn-how-to-learn": {
+    "url": "https://scholistico.com/product/introduction-to-learn-how-to-learn/",
+    "english_title": "Introduction to Learn How to Learn"
+  }
+}
+
+#Marketing
+{
+  "nat-special-offer-product": {
+    "url": "https://scholistico.com/product/nat-special-offer-product/",
+    "english_title": "Natural Special Offer Product"
+  },
+  "gift-card-test": {
+    "url": "https://scholistico.com/product/gift-card-test/",
+    "english_title": "gift card test"
+  },
+  "course-marketing-kit": {
+    "url": "https://scholistico.com/product/course-marketing-kit/",
+    "english_title": "Course Marketing Kit"
+  },
+  "official-printed-certificate": {
+    "url": "https://scholistico.com/product/official-printed-certificate/",
+    "english_title": "official printed certificate"
+  },
+  "hnc-deadline-funnel-product": {
+    "url": "https://scholistico.com/product/hnc-deadline-funnel-product/",
+    "english_title": "hnc-deadline-funnel-product"
+  },
+  "grow-your-practice": {
+    "url": "https://scholistico.com/product/grow-your-practice/",
+    "english_title": "Grow Your Practice"
+  }
+}
+
+#Business
+{
+  "shop": {
+    "url": "https://scholistico.com/shop/",
+    "english_title": "shop"
+  }
+}
+
+#Financial Wellness
+{
+  "from-basics-to-success-accounting-essentials": {
+    "url": "https://scholistico.com/product/from-basics-to-success-accounting-essentials/",
+    "english_title": "From Basics to Success: Accounting Essentials"
+  },
+  "92-dollar-scholistico-gift-card": {
+    "url": "https://scholistico.com/product/92-dollar-scholistico-gift-card/",
+    "english_title": "$92 Scholastic Gift Card"
+  },
+  "19-dollar-scholistico-gift-card": {
+    "url": "https://scholistico.com/product/19-dollar-scholistico-gift-card/",
+    "english_title": "19-dollar-scholastic-gift-card"
+  },
+  "48-dollar-scholistico-gift-card": {
+    "url": "https://scholistico.com/product/48-dollar-scholistico-gift-card/",
+    "english_title": "48-dollar Scholistico gift card"
+  }
+}

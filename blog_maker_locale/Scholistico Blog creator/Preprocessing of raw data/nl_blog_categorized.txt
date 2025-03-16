@@ -1,0 +1,85 @@
+
+#Art Therapy
+{
+  "kunstzinnige-therapie-oefeningen-voor-autisme": "https://nl.scholistico.com/kunstzinnige-therapie-oefeningen-voor-autisme/",
+  "kunstzinnige-therapie-voor-senioren": "https://nl.scholistico.com/kunstzinnige-therapie-voor-senioren/",
+  "kunstzinnige-therapie-activiteiten-voor-tieners": "https://nl.scholistico.com/kunstzinnige-therapie-activiteiten-voor-tieners/",
+  "kunstzinnige-therapie-bij-depressie": "https://nl.scholistico.com/kunstzinnige-therapie-bij-depressie/",
+  "kunstzinnige-therapie-voor-volwassenen": "https://nl.scholistico.com/kunstzinnige-therapie-voor-volwassenen/",
+  "kunstzinnige-therapie-oefeningen-voor-kinderen": "https://nl.scholistico.com/kunstzinnige-therapie-oefeningen-voor-kinderen/",
+  "leer-kunstzinnige-therapie-online": "https://nl.scholistico.com/leer-kunstzinnige-therapie-online/",
+  "kleur-therapie": "https://nl.scholistico.com/kleur-therapie/",
+  "tarieven-bepalen-voor-niet-klinische-kunstzinnige-therapiediensten": "https://nl.scholistico.com/tarieven-bepalen-voor-niet-klinische-kunstzinnige-therapiediensten/",
+  "kunst-en-geestelijke-gezondheid": "https://nl.scholistico.com/kunst-en-geestelijke-gezondheid/",
+  "therapeutische-kunst": "https://nl.scholistico.com/therapeutische-kunst/",
+  "kunsztinnige-activiteiten-bij-depressie": "https://nl.scholistico.com/kunsztinnige-activiteiten-bij-depressie/",
+  "certificering-en-licenties-voor-kunstzinnige-therapie": "https://nl.scholistico.com/certificering-en-licenties-voor-kunstzinnige-therapie/",
+  "creatieve-helingstechnieken": "https://nl.scholistico.com/creatieve-helingstechnieken/",
+  "de-kracht-van-kunstzinnige-therapie": "https://nl.scholistico.com/de-kracht-van-kunstzinnige-therapie/",
+  "niet-klinische-kunstzinnige-therapie": "https://nl.scholistico.com/niet-klinische-kunstzinnige-therapie/",
+  "8-kunstzinnige-therapie-activiteiten": "https://nl.scholistico.com/8-kunstzinnige-therapie-activiteiten/",
+  "5-technieken-kunstzinnige-therapie": "https://nl.scholistico.com/5-technieken-kunstzinnige-therapie/",
+  "kunstzinnige-therapie-voor-tieners": "https://nl.scholistico.com/kunstzinnige-therapie-voor-tieners/",
+  "voordelen-kleuren-voor-volwassenen-stress": "https://nl.scholistico.com/voordelen-kleuren-voor-volwassenen-stress/",
+  "ontlaad-je-emoties-op-gezonde-wijze-gebruik-kunst": "https://nl.scholistico.com/ontlaad-je-emoties-op-gezonde-wijze-gebruik-kunst/",
+  "kunstzinnige-therapie-kinderen-2": "https://nl.scholistico.com/kunstzinnige-therapie-kinderen-2/",
+  "wat-is-kunstzinnige-therapie-en-hoe-werkt-het-2": "https://nl.scholistico.com/wat-is-kunstzinnige-therapie-en-hoe-werkt-het-2/",
+  "manieren-kunstzinnige-therapie-gebruiken-2": "https://nl.scholistico.com/manieren-kunstzinnige-therapie-gebruiken-2/",
+  "hoe-je-gevoelens-te-tekenen-emoties-schilderen-2": "https://nl.scholistico.com/hoe-je-gevoelens-te-tekenen-emoties-schilderen-2/",
+  "plezier-en-empowerment-door-kunstzinnige-therapie-2": "https://nl.scholistico.com/plezier-en-empowerment-door-kunstzinnige-therapie-2/",
+  "kunstzinnige-therapie-beste-kinderen-halen-2": "https://nl.scholistico.com/kunstzinnige-therapie-beste-kinderen-halen-2/",
+  "manieren-kunstzinnige-therapie-gebruiken": "https://nl.scholistico.com/manieren-kunstzinnige-therapie-gebruiken/",
+  "wat-is-kunstzinnige-therapie-en-hoe-werkt-het": "https://nl.scholistico.com/wat-is-kunstzinnige-therapie-en-hoe-werkt-het/",
+  "hoe-je-gevoelens-te-tekenen-emoties-schilderen": "https://nl.scholistico.com/hoe-je-gevoelens-te-tekenen-emoties-schilderen/",
+  "plezier-en-empowerment-door-kunstzinnige-therapie": "https://nl.scholistico.com/plezier-en-empowerment-door-kunstzinnige-therapie/",
+  "kunstzinnige-therapie-beste-kinderen-halen": "https://nl.scholistico.com/kunstzinnige-therapie-beste-kinderen-halen/",
+  "kunstzinnige-therapie-kinderen": "https://nl.scholistico.com/kunstzinnige-therapie-kinderen/",
+}
+
+#Naturopathy
+{
+  "4-natuurlijke-huismiddeltjes": "https://nl.scholistico.com/4-natuurlijke-huismiddeltjes/",
+  "natuurgeneeskundig-practitioner-7-redenen": "https://nl.scholistico.com/natuurgeneeskundig-practitioner-7-redenen/",
+  "natuurlijke-huismiddeltjes-voor-spijsvertering": "https://nl.scholistico.com/natuurlijke-huismiddeltjes-voor-spijsvertering/",
+  "ontdek-de-kernprincipes-van-natuurgeneeskunde": "https://nl.scholistico.com/ontdek-de-kernprincipes-van-natuurgeneeskunde/",
+  "natuurgeneeskundige-certificering": "https://nl.scholistico.com/natuurgeneeskundige-certificering/",
+  "verschillen-tussen-een-natuurgeneeskundig-practitioner-en-een-natuurgeneeskundig-arts": "https://nl.scholistico.com/verschillen-tussen-een-natuurgeneeskundig-practitioner-en-een-natuurgeneeskundig-arts/",
+  "natuurlijke-supplementen-gezondheid-2": "https://nl.scholistico.com/natuurlijke-supplementen-gezondheid-2/",
+  "natuurlijke-verlichting-van-pijn-krijgen-door-natuurgeneeskunde-2": "https://nl.scholistico.com/natuurlijke-verlichting-van-pijn-krijgen-door-natuurgeneeskunde-2/",
+  "10-natuurgeneeskundige-behandelingen-voor-specifieke-gezondheidstoestanden-2": "https://nl.scholistico.com/10-natuurgeneeskundige-behandelingen-voor-specifieke-gezondheidstoestanden-2/",
+  "natuurlijke-supplementen-gezondheid": "https://nl.scholistico.com/natuurlijke-supplementen-gezondheid/",
+  "huismiddeltjes-tegen-leververvetting": "https://nl.scholistico.com/huismiddeltjes-tegen-leververvetting/",
+  "manieren-alternatieve-geneeskunde-tegen-katers-te-gebruiken": "https://nl.scholistico.com/manieren-alternatieve-geneeskunde-tegen-katers-te-gebruiken/",
+  "natuurlijke-verlichting-van-pijn-krijgen-door-natuurgeneeskunde": "https://nl.scholistico.com/natuurlijke-verlichting-van-pijn-krijgen-door-natuurgeneeskunde/",
+  "overweeg-je-een-carriere-in-de-natuurlijke-gezondheidszorg": "https://nl.scholistico.com/overweeg-je-een-carriere-in-de-natuurlijke-gezondheidszorg/",
+  "10-natuurgeneeskundige-behandelingen-voor-specifieke-gezondheidstoestanden": "https://nl.scholistico.com/10-natuurgeneeskundige-behandelingen-voor-specifieke-gezondheidstoestanden/",
+}
+
+#Nutrition
+{
+  "holistische-voedingsconsulent-certificering": "https://nl.scholistico.com/holistische-voedingsconsulent-certificering/",
+}
+
+#Holistic Health
+{
+  
+  "holistische-gezondheidscertificering": "https://nl.scholistico.com/holistische-gezondheidscertificering/",
+  "tips-en-trucs-voor-betere-telepathie": "https://nl.scholistico.com/tips-en-trucs-voor-betere-telepathie/",
+  "8-wellness-beroepen-voor-carriereswitch": "https://nl.scholistico.com/8-wellness-beroepen-voor-carriereswitch/",
+  "waarom-de-keuze-voor-een-geaccrediteerde-online-cursus-voor-holistische-practitioners": "https://nl.scholistico.com/waarom-de-keuze-voor-een-geaccrediteerde-online-cursus-voor-holistische-practitioners/",
+  "top-10-manieren-om-stress-te-verminderen-2": "https://nl.scholistico.com/top-10-manieren-om-stress-te-verminderen-2/",
+  "overweeg-je-een-carriere-in-de-natuurlijke-gezondheidszorg-2": "https://nl.scholistico.com/overweeg-je-een-carriere-in-de-natuurlijke-gezondheidszorg-2/",
+}
+
+#Animal Wellness
+{
+  "leer-te-communiceren-met-dieren": "https://nl.scholistico.com/leer-te-communiceren-met-dieren/",
+  "dierencommunicatie-professioneel-voordeel": "https://nl.scholistico.com/dierencommunicatie-professioneel-voordeel/",
+  "wat-is-een-dierencommunicator-en-hoe-word-je-er-een-2": "https://nl.scholistico.com/wat-is-een-dierencommunicator-en-hoe-word-je-er-een-2/",
+  "wat-is-een-dierencommunicator-en-hoe-word-je-er-een": "https://nl.scholistico.com/wat-is-een-dierencommunicator-en-hoe-word-je-er-een/",
+}
+
+#Marketing
+{
+  "instagram-aanwezigheid-als-kunstzinnige-therapeut": "https://nl.scholistico.com/instagram-aanwezigheid-als-kunstzinnige-therapeut/",
+}

@@ -1,0 +1,132 @@
+
+#Art Therapy
+{
+  "curso-certificacion-practicante-arteterapia": {
+    "url": "https://es.scholistico.com/producto/curso-certificacion-practicante-arteterapia/",
+    "english_title": "art therapy practitioner certification course"
+  },
+  "certificado-oficial-curso-certificacion-practicante-arteterapia": {
+    "url": "https://es.scholistico.com/producto/certificado-oficial-curso-certificacion-practicante-arteterapia/",
+    "english_title": "Official Certificate for Art Therapy Practitioner Certification Course"
+  },
+  "ganarse-la-vida-a-traves-del-arte": {
+    "url": "https://es.scholistico.com/producto/ganarse-la-vida-a-traves-del-arte/",
+    "english_title": "earning a living through art"
+  },
+  "curso-de-certificacion-practicante-en-arteterapia-en-tres-plazos": {
+    "url": "https://es.scholistico.com/producto/curso-de-certificacion-practicante-en-arteterapia-en-tres-plazos/",
+    "english_title": "Art Therapy Practitioner Certification Course in Three Installments"
+  },
+  "curso-de-certificacion-practicante-en-arteterapia-2ins": {
+    "url": "https://es.scholistico.com/producto/curso-de-certificacion-practicante-en-arteterapia-2ins/",
+    "english_title": "Art Therapy Practitioner Certification Course 2ins"
+  },
+  "50-ejercicios-arteterapia-para-ninos-adultos-adultos-mayores": {
+    "url": "https://es.scholistico.com/producto/50-ejercicios-arteterapia-para-ninos-adultos-adultos-mayores/",
+    "english_title": "50 Art Therapy Exercises for Children, Adults, and Seniors"
+  },
+  "libro-impreso-oficial-50-ejercicios-de-artaterapia-para-ninos-adultos-y-seniors": {
+    "url": "https://es.scholistico.com/producto/libro-impreso-oficial-50-ejercicios-de-artaterapia-para-ninos-adultos-y-seniors/",
+    "english_title": "Official printed book: 50 art therapy exercises for children, adults and seniors"
+  }
+}
+
+#Naturopathy
+{
+  "curso-certificacion-practicante-naturopatia": {
+    "url": "https://es.scholistico.com/producto/curso-certificacion-practicante-naturopatia/",
+    "english_title": "naturopathy practitioner certification course"
+  },
+  "certificado-oficial-curso-formacion-practicantes-naturopatia": {
+    "url": "https://es.scholistico.com/producto/certificado-oficial-curso-formacion-practicantes-naturopatia/",
+    "english_title": "Official Certificate of Training Course for Naturopathy Practitioners"
+  },
+  "50-remedios-caseros-naturales-remedios-sencillos": {
+    "url": "https://es.scholistico.com/producto/50-remedios-caseros-naturales-remedios-sencillos/",
+    "english_title": "50 Natural Home Remedies: Simple Remedies"
+  },
+  "curso-de-certificacion-practicante-en-naturopatia-en-dos-plazos": {
+    "url": "https://es.scholistico.com/producto/curso-de-certificacion-practicante-en-naturopatia-en-dos-plazos/",
+    "english_title": "Naturopathy Practitioner Certification Course in Two Installments"
+  }
+}
+
+#Nutrition
+{
+  "curso-de-certificacion-consultor-en-nutricion-holistica": {
+    "url": "https://es.scholistico.com/producto/curso-de-certificacion-consultor-en-nutricion-holistica/",
+    "english_title": "holistic nutrition consultant certification course"
+  },
+  "official-certificate-for-holistic-nutrition-consultant-training-course": {
+    "url": "https://es.scholistico.com/producto/official-certificate-for-holistic-nutrition-consultant-training-course/",
+    "english_title": "Official Certificate for Holistic Nutrition Consultant Training Course"
+  },
+  "mas-de-50-recetas-de-nutricion-holistica-recetas-holisticas": {
+    "url": "https://es.scholistico.com/producto/mas-de-50-recetas-de-nutricion-holistica-recetas-holisticas/",
+    "english_title": "More than 50 holistic nutrition recipes - holistic recipes"
+  }
+}
+
+#Holistic Health
+{
+  "curso-de-certificacion-practicante-de-salud-holistica": {
+    "url": "https://es.scholistico.com/producto/curso-de-certificacion-practicante-de-salud-holistica/",
+    "english_title": "holistic health practitioner certification course"
+  },
+  "certificado-oficial-del-curso-de-formacion-para-practicante-de-la-salud-holistica": {
+    "url": "https://es.scholistico.com/producto/certificado-oficial-del-curso-de-formacion-para-practicante-de-la-salud-holistica/",
+    "english_title": "Official Certificate of Training Course for Holistic Health Practitioner"
+  },
+  "ganarse-la-vida-a-traves-de-la-salud-natural": {
+    "url": "https://es.scholistico.com/producto/ganarse-la-vida-a-traves-de-la-salud-natural/",
+    "english_title": "earning-a-living-through-natural-health"
+  },
+  "bonus-recursos-y-herramientas-para-profesional-holistico": {
+    "url": "https://es.scholistico.com/producto/bonus-recursos-y-herramientas-para-profesional-holistico/",
+    "english_title": "bonus resources and tools for holistic professional"
+  }
+}
+
+#Animal Wellness
+{
+  "curso-de-certificacion-de-especialista-en-comunicacion-animal": {
+    "url": "https://es.scholistico.com/producto/curso-de-certificacion-de-especialista-en-comunicacion-animal/",
+    "english_title": "animal communication specialist certification course"
+  },
+  "certificado-oficial-especialista-comunicacion-animale": {
+    "url": "https://es.scholistico.com/producto/certificado-oficial-especialista-comunicacion-animale/",
+    "english_title": "Official Certificate in Animal Communication Specialist"
+  }
+}
+
+#Marketing
+{
+  "kit-marketing-del-curso": {
+    "url": "https://es.scholistico.com/producto/kit-marketing-del-curso/",
+    "english_title": "course marketing kit"
+  },
+  "entrega-de-copias-impresas-a-domicilio": {
+    "url": "https://es.scholistico.com/producto/entrega-de-copias-impresas-a-domicilio/",
+    "english_title": "home delivery of printed copies"
+  }
+}
+
+#Business
+{
+  "tienda": {
+    "url": "https://es.scholistico.com/tienda/",
+    "english_title": "store"
+  },
+  "certificado-oficial-impreso": {
+    "url": "https://es.scholistico.com/producto/certificado-oficial-impreso/",
+    "english_title": "official printed certificate"
+  }
+}
+
+#Financial Wellness
+{
+  "de-lo-basico-al-exito-fundamentos-de-contabilidad": {
+    "url": "https://es.scholistico.com/producto/de-lo-basico-al-exito-fundamentos-de-contabilidad/",
+    "english_title": "From Basics to Success: Accounting Fundamentals"
+  }
+}

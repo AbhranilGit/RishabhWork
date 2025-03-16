@@ -1,0 +1,144 @@
+
+#Art Therapy
+{
+  "corso-di-formazione-in-arteterapia": {
+    "url": "https://it.scholistico.com/prodotto/corso-di-formazione-in-arteterapia/",
+    "english_title": "Art Therapy Training Course"
+  },
+  "oltre-50-esercizi-di-arteterapia-per-bambini-adulti-e-anziani": {
+    "url": "https://it.scholistico.com/prodotto/oltre-50-esercizi-di-arteterapia-per-bambini-adulti-e-anziani/",
+    "english_title": "Over 50 Art Therapy Exercises for Children, Adults, and Seniors"
+  },
+  "certificato-ufficiale-per-il-corso-di-formazione-peroperatorediarteterapia": {
+    "url": "https://it.scholistico.com/prodotto/certificato-ufficiale-per-il-corso-di-formazione-peroperatorediarteterapia/",
+    "english_title": "Official Certificate for the Art Therapy Operator Training Course"
+  },
+  "guadagnare-attraverso-larte": {
+    "url": "https://it.scholistico.com/prodotto/guadagnare-attraverso-larte/",
+    "english_title": "earning through art"
+  },
+  "certificazione-in-arteterapia-in-due-rate": {
+    "url": "https://it.scholistico.com/prodotto/certificazione-in-arteterapia-in-due-rate/",
+    "english_title": "Art Therapy Certification in Two Installments"
+  },
+  "certificazione-in-arteterapia-in-tre-rate": {
+    "url": "https://it.scholistico.com/prodotto/certificazione-in-arteterapia-in-tre-rate/",
+    "english_title": "Art Therapy Certification in Three Installments"
+  }
+}
+
+#Naturopathy
+{
+  "corso-di-formazione-per-operatori-di-naturopatia": {
+    "url": "https://it.scholistico.com/prodotto/corso-di-formazione-per-operatori-di-naturopatia/",
+    "english_title": "Training course for naturopathy practitioners"
+  },
+  "oltre-50-rimedi-naturali-casalinghi-una-raccolta-curata-di-rimedi-semplici-per-tutti": {
+    "url": "https://it.scholistico.com/prodotto/oltre-50-rimedi-naturali-casalinghi-una-raccolta-curata-di-rimedi-semplici-per-tutti/",
+    "english_title": "Over 50 Natural Home Remedies: A Curated Collection of Simple Remedies for Everyone"
+  },
+  "certificato-ufficiale-per-il-corso-di-formazione-per-operatore-di-naturopatia": {
+    "url": "https://it.scholistico.com/prodotto/certificato-ufficiale-per-il-corso-di-formazione-per-operatore-di-naturopatia/",
+    "english_title": "Official certificate for the naturopathy operator training course"
+  },
+  "guadagnare-attraverso-la-salute-naturale": {
+    "url": "https://it.scholistico.com/prodotto/guadagnare-attraverso-la-salute-naturale/",
+    "english_title": "earning through natural health"
+  },
+  "certificazione-in-naturopatia-in-due-rate": {
+    "url": "https://it.scholistico.com/prodotto/certificazione-in-naturopatia-in-due-rate/",
+    "english_title": "Naturopathy certification in two installments"
+  },
+  "certificazione-in-naturopatia-in-tre-rate": {
+    "url": "https://it.scholistico.com/prodotto/certificazione-in-naturopatia-in-tre-rate/",
+    "english_title": "Naturopathy certification in three installments"
+  }
+}
+
+#Nutrition
+{
+  "certificazione-in-nutrizione-olistica": {
+    "url": "https://it.scholistico.com/prodotto/certificazione-in-nutrizione-olistica/",
+    "english_title": "Holistic Nutrition Certification"
+  },
+  "oltre-50-ricette-di-nutrizione-olistica-ricette-olistiche-facili-da-preparare-per-colazione-pranzo-e-cena": {
+    "url": "https://it.scholistico.com/prodotto/oltre-50-ricette-di-nutrizione-olistica-ricette-olistiche-facili-da-preparare-per-colazione-pranzo-e-cena/",
+    "english_title": "Over 50 Holistic Nutrition Recipes: Easy-to-Prepare Holistic Recipes for Breakfast, Lunch, and Dinner"
+  },
+  "certificato-ufficiale-per-la-certificazione-di-consulente-in-nutrizione-olistica": {
+    "url": "https://it.scholistico.com/prodotto/certificato-ufficiale-per-la-certificazione-di-consulente-in-nutrizione-olistica/",
+    "english_title": "Official Certificate for Holistic Nutrition Consultant Certification"
+  },
+  "certificazione-in-nutrizione-olistica-in-tre-rate": {
+    "url": "https://it.scholistico.com/prodotto/certificazione-in-nutrizione-olistica-in-tre-rate/",
+    "english_title": "Holistic Nutrition Certification in Three Installments"
+  },
+  "certificazione-in-nutrizione-olistica-in-due-rate": {
+    "url": "https://it.scholistico.com/prodotto/certificazione-in-nutrizione-olistica-in-due-rate/",
+    "english_title": "Holistic Nutrition Certification in Two Installments"
+  }
+}
+
+#Holistic Health
+{
+  "certificazione-in-operatore-sanitario-olistico": {
+    "url": "https://it.scholistico.com/prodotto/certificazione-in-operatore-sanitario-olistico/",
+    "english_title": "Holistic Healthcare Practitioner Certification"
+  },
+  "certificato-ufficiale-per-la-certificazione-di-operatore-sanitario-olistico": {
+    "url": "https://it.scholistico.com/prodotto/certificato-ufficiale-per-la-certificazione-di-operatore-sanitario-olistico/",
+    "english_title": "Official Certificate for Holistic Healthcare Practitioner Certification"
+  }
+}
+
+#Animal Wellness
+{
+  "corso-di-formazione-in-comunicazione-animale": {
+    "url": "https://it.scholistico.com/prodotto/corso-di-formazione-in-comunicazione-animale/",
+    "english_title": "Animal Communication Training Course"
+  },
+  "official-certificate-specialist-in-animal-communication-training": {
+    "url": "https://it.scholistico.com/prodotto/official-certificate-specialist-in-animal-communication-training/",
+    "english_title": "official certificate specialist in animal communication training"
+  },
+  "certificazione-in-comunicazione-animale-in-due-rate": {
+    "url": "https://it.scholistico.com/prodotto/certificazione-in-comunicazione-animale-in-due-rate/",
+    "english_title": "Animal Communication Certification in Two Installments"
+  },
+  "certificazione-in-comunicazione-animale-in-tre-rate": {
+    "url": "https://it.scholistico.com/prodotto/certificazione-in-comunicazione-animale-in-tre-rate/",
+    "english_title": "Animal Communication Certification in Three Installments"
+  }
+}
+
+#Learning
+{
+  "official-printed-certificate": {
+    "url": "https://it.scholistico.com/prodotto/official-printed-certificate/",
+    "english_title": "official printed certificate"
+  }
+}
+
+#Marketing
+{
+  "shop": {
+    "url": "https://it.scholistico.com/shop/",
+    "english_title": "shop"
+  }
+}
+
+#Business
+{
+  "dalle-basi-al-successo-elementi-essenziali-di-contabilita": {
+    "url": "https://it.scholistico.com/prodotto/dalle-basi-al-successo-elementi-essenziali-di-contabilita/",
+    "english_title": "From Basics to Success: Essential Elements of Accounting"
+  }
+}
+
+#Financial Wellness
+{
+  "48-euro-gift-card": {
+    "url": "https://it.scholistico.com/prodotto/48-euro-gift-card/",
+    "english_title": "48 euro gift card"
+  }
+}

@@ -1,0 +1,48 @@
+
+#Art Therapy
+{
+  "actividades-arteterapia-para-ansiedad": {
+    "url": "https://es.scholistico.com/actividades-arteterapia-para-ansiedad/",
+    "english_title": "Art therapy activities for anxiety"
+  },
+  "actividades-arteterapia-para-depresion": {
+    "url": "https://es.scholistico.com/actividades-arteterapia-para-depresion/",
+    "english_title": "Art therapy activities for depression"
+  },
+  "beneficios-arteterapia-para-adultos": {
+    "url": "https://es.scholistico.com/beneficios-arteterapia-para-adultos/",
+    "english_title": "Benefits of Art Therapy for Adults"
+  },
+  "6-razones-cientificas-arteterapia-aliviar-estres": {
+    "url": "https://es.scholistico.com/6-razones-cientificas-arteterapia-aliviar-estres/",
+    "english_title": "6 scientific reasons art therapy relieves stress"
+  },
+  "arteterapia-para-mayores": {
+    "url": "https://es.scholistico.com/arteterapia-para-mayores/",
+    "english_title": "art therapy for seniors"
+  },
+  "guia-arteterapia-clinica-contra-no-clinica": {
+    "url": "https://es.scholistico.com/guia-arteterapia-clinica-contra-no-clinica/",
+    "english_title": "guide to clinical art therapy versus non-clinical art therapy"
+  }
+}
+
+#Naturopathy
+{
+  "guia-naturopatia-principiantes": {
+    "url": "https://es.scholistico.com/guia-naturopatia-principiantes/",
+    "english_title": "Naturopathy Guide for Beginners"
+  },
+  "que-se-puede-hacer-con-un-certificado-de-naturopatia": {
+    "url": "https://es.scholistico.com/que-se-puede-hacer-con-un-certificado-de-naturopatia/",
+    "english_title": "what-can-be-done-with-a-naturopathy-certificate"
+  }
+}
+
+#Holistic Health
+{
+  "5-consejos-estilo-vida-saludable": {
+    "url": "https://es.scholistico.com/5-consejos-estilo-vida-saludable/",
+    "english_title": "5 tips for a healthy lifestyle"
+  }
+}

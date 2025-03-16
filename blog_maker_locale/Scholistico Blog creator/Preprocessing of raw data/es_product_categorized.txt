@@ -1,0 +1,44 @@
+
+#Art Therapy
+{
+  "curso-certificacion-practicante-arteterapia": "https://es.scholistico.com/producto/curso-certificacion-practicante-arteterapia/",
+  "ganarse-la-vida-a-traves-del-arte": "https://es.scholistico.com/producto/ganarse-la-vida-a-traves-del-arte/",
+  "50-ejercicios-arteterapia-para-ninos-adultos-adultos-mayores": "https://es.scholistico.com/producto/50-ejercicios-arteterapia-para-ninos-adultos-adultos-mayores/",
+}
+
+#Naturopathy
+{
+  "curso-certificacion-practicante-naturopatia": "https://es.scholistico.com/producto/curso-certificacion-practicante-naturopatia/",
+  "50-remedios-caseros-naturales-remedios-sencillos": "https://es.scholistico.com/producto/50-remedios-caseros-naturales-remedios-sencillos/",
+  "curso-de-certificacion-practicante-en-naturopatia-en-dos-plazos": "https://es.scholistico.com/producto/curso-de-certificacion-practicante-en-naturopatia-en-dos-plazos/",
+}
+
+#Nutrition
+{
+  "curso-de-certificacion-consultor-en-nutricion-holistica": "https://es.scholistico.com/producto/curso-de-certificacion-consultor-en-nutricion-holistica/",
+  "official-certificate-for-holistic-nutrition-consultant-training-course": "https://es.scholistico.com/producto/official-certificate-for-holistic-nutrition-consultant-training-course/",
+  "mas-de-50-recetas-de-nutricion-holistica-recetas-holisticas": "https://es.scholistico.com/producto/mas-de-50-recetas-de-nutricion-holistica-recetas-holisticas/",
+}
+
+#Holistic Health
+{
+  "curso-de-certificacion-practicante-de-salud-holistica": "https://es.scholistico.com/producto/curso-de-certificacion-practicante-de-salud-holistica/",
+  "certificado-oficial-del-curso-de-formacion-para-practicante-de-la-salud-holistica": "https://es.scholistico.com/producto/certificado-oficial-del-curso-de-formacion-para-practicante-de-la-salud-holistica/",
+  "ganarse-la-vida-a-traves-de-la-salud-natural": "https://es.scholistico.com/producto/ganarse-la-vida-a-traves-de-la-salud-natural/",
+}
+
+#Animal Wellness
+{
+  "curso-de-certificacion-de-especialista-en-comunicacion-animal": "https://es.scholistico.com/producto/curso-de-certificacion-de-especialista-en-comunicacion-animal/",
+}
+
+#Marketing
+{
+  "kit-marketing-del-curso": "https://es.scholistico.com/producto/kit-marketing-del-curso/",
+}
+
+
+#Financial Wellness
+{
+  "de-lo-basico-al-exito-fundamentos-de-contabilidad": "https://es.scholistico.com/producto/de-lo-basico-al-exito-fundamentos-de-contabilidad/",
+}

@@ -1,0 +1,41 @@
+
+#Art Therapy
+{
+  "ausbildung-in-kunsttherapie": "https://de.scholistico.com/produkt/ausbildung-in-kunsttherapie/",
+  "offizielles-zertifikat-fuer-die-ausbildung-zur-kunsttherapiepraktikerin": "https://de.scholistico.com/produkt/offizielles-zertifikat-fuer-die-ausbildung-zur-kunsttherapiepraktikerin/",
+  "ueber-50-kunsttherapieuebungen-fuer-kinder-erwachsene-und-senioren": "https://de.scholistico.com/produkt/ueber-50-kunsttherapieuebungen-fuer-kinder-erwachsene-und-senioren/",
+  "von-der-kunst-leben": "https://de.scholistico.com/produkt/von-der-kunst-leben/",
+}
+
+#Naturopathy
+{
+  "ausbildung-zum-naturheilpraktiker": "https://de.scholistico.com/produkt/ausbildung-zum-naturheilpraktiker/",
+  "offizielles-zertifikat-fuer-die-ausbildung-zum-naturheilpraktiker": "https://de.scholistico.com/produkt/offizielles-zertifikat-fuer-die-ausbildung-zum-naturheilpraktiker/",
+  "ueber-50-natuerliche-hausmittel-eine-ausgewaehlte-sammlung-von-einfachen-heilmitteln-fuer-alle": "https://de.scholistico.com/produkt/ueber-50-natuerliche-hausmittel-eine-ausgewaehlte-sammlung-von-einfachen-heilmitteln-fuer-alle/",
+}
+
+#Nutrition
+{
+  "ausbildung-zum-ganzheitlichen-ernaehrungsberater": "https://de.scholistico.com/produkt/ausbildung-zum-ganzheitlichen-ernaehrungsberater/",
+  "offizielles-zertifikat-zum-ganzheitlichen-ernaehrungsberater": "https://de.scholistico.com/produkt/offizielles-zertifikat-zum-ganzheitlichen-ernaehrungsberater/",
+  "ueber-50-ganzheitliche-ernaehrungsrezepte-einfach-zuzubereitende-ganzheitliche-rezepte-zum-fruehstueck-mittag-und-abendessen": "https://de.scholistico.com/produkt/ueber-50-ganzheitliche-ernaehrungsrezepte-einfach-zuzubereitende-ganzheitliche-rezepte-zum-fruehstueck-mittag-und-abendessen/",
+}
+
+#Holistic Health
+{
+  "ausbildung-zum-ganzheitlichen-gesundheitspraktiker": "https://de.scholistico.com/produkt/ausbildung-zum-ganzheitlichen-gesundheitspraktiker/",
+  "offizielles-zertifikat-fuer-ganzheitliche-gesundheitspraktiker": "https://de.scholistico.com/produkt/offizielles-zertifikat-fuer-ganzheitliche-gesundheitspraktiker/",
+  "von-natuerlicher-gesundheit-leben": "https://de.scholistico.com/produkt/von-natuerlicher-gesundheit-leben/",
+}
+
+#Animal Wellness
+{
+  "ausbildung-zum-tierkommunikationsspezialisten": "https://de.scholistico.com/produkt/ausbildung-zum-tierkommunikationsspezialisten/",
+  "official-certificate-specialist-in-animal-communication-training": "https://de.scholistico.com/produkt/official-certificate-specialist-in-animal-communication-training/",
+
+}
+
+#Financial Wellness
+{
+  "von-den-grundlagen-zum-erfolg-essenzielle-buchhaltungskenntnisse": "https://de.scholistico.com/produkt/von-den-grundlagen-zum-erfolg-essenzielle-buchhaltungskenntnisse/",
+}

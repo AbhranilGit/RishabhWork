@@ -1,0 +1,124 @@
+
+#Art Therapy
+{
+  "kunstzinnige-therapie-opleiding": {
+    "url": "https://nl.scholistico.com/product/kunstzinnige-therapie-opleiding/",
+    "english_title": "artistic therapy training"
+  },
+  "50-kunstzinnige-therapie-oefeningen-voor-kinderen-volwassenen-en-senioren": {
+    "url": "https://nl.scholistico.com/product/50-kunstzinnige-therapie-oefeningen-voor-kinderen-volwassenen-en-senioren/",
+    "english_title": "50 Creative Therapy Exercises for Children, Adults, and Seniors"
+  },
+  "officieel-certificaat-voor-kunstzinnige-therapie-opleiding": {
+    "url": "https://nl.scholistico.com/product/officieel-certificaat-voor-kunstzinnige-therapie-opleiding/",
+    "english_title": "official certificate for artistic therapy training"
+  }
+}
+
+#Naturopathy
+{
+  "natuurgeneeskunde-opleiding-online": {
+    "url": "https://nl.scholistico.com/product/natuurgeneeskunde-opleiding-online/",
+    "english_title": "natural medicine training online"
+  },
+  "50-natuurlijke-huismiddeltjes-een-samengestelde-verzameling-eenvoudige-remedies-voor-iedereen": {
+    "url": "https://nl.scholistico.com/product/50-natuurlijke-huismiddeltjes-een-samengestelde-verzameling-eenvoudige-remedies-voor-iedereen/",
+    "english_title": "50 Natural Home Remedies: A Compiled Collection of Simple Remedies for Everyone"
+  },
+  "natuurgeneeskundig-practitioner-opleiding-in-twee-termijnen": {
+    "url": "https://nl.scholistico.com/product/natuurgeneeskundig-practitioner-opleiding-in-twee-termijnen/",
+    "english_title": "natural healing practitioner training in two terms"
+  },
+  "opleiding-natuurgeneeskundige-in-drie-termijnen": {
+    "url": "https://nl.scholistico.com/product/opleiding-natuurgeneeskundige-in-drie-termijnen/",
+    "english_title": "Training as a naturopath in three terms"
+  }
+}
+
+#Nutrition
+{
+  "holistische-voedingsconsulent-opleiding": {
+    "url": "https://nl.scholistico.com/product/holistische-voedingsconsulent-opleiding/",
+    "english_title": "holistic nutrition consultant training"
+  },
+  "officieel-certificaat-voor-de-certificeringscursus-holistische-voedingsconsulent": {
+    "url": "https://nl.scholistico.com/product/officieel-certificaat-voor-de-certificeringscursus-holistische-voedingsconsulent/",
+    "english_title": "Official Certificate for the Holistic Nutrition Consultant Certification Course"
+  },
+  "holistische-voedingsconsulent-opleiding-in-drie-termijnen": {
+    "url": "https://nl.scholistico.com/product/holistische-voedingsconsulent-opleiding-in-drie-termijnen/",
+    "english_title": "Holistic Nutrition Consultant Training in Three Terms"
+  },
+  "holistische-voedingsconsulent-opleiding-in-twee-termijnen": {
+    "url": "https://nl.scholistico.com/product/holistische-voedingsconsulent-opleiding-in-twee-termijnen/",
+    "english_title": "Holistic Nutrition Consultant Training in Two Terms"
+  },
+  "50-holistische-voedingsrecepten-eenvoudig-te-maken-holistische-recepten-voor-ontbijt-lunch-en-diner": {
+    "url": "https://nl.scholistico.com/product/50-holistische-voedingsrecepten-eenvoudig-te-maken-holistische-recepten-voor-ontbijt-lunch-en-diner/",
+    "english_title": "50 Holistic Nutrition Recipes: Easy-to-Make Holistic Recipes for Breakfast, Lunch, and Dinner"
+  }
+}
+
+#Holistic Health
+{
+  "holistische-gezondheidsdeskundige": {
+    "url": "https://nl.scholistico.com/product/holistische-gezondheidsdeskundige/",
+    "english_title": "holistic health expert"
+  },
+  "officieel-certificaat-voor-de-opleiding-holistische-gezondheidszorgdeskundige": {
+    "url": "https://nl.scholistico.com/product/officieel-certificaat-voor-de-opleiding-holistische-gezondheidszorgdeskundige/",
+    "english_title": "official certificate for the training holistic healthcare expert"
+  }
+}
+
+#Movement Therapy
+{
+  "officieel-certificaat-voor-de-opleiding-bewegingstherapeut": {
+    "url": "https://nl.scholistico.com/product/officieel-certificaat-voor-de-opleiding-bewegingstherapeut/",
+    "english_title": "official certificate for the training of movement therapist"
+  }
+}
+
+#Animal Wellness
+{
+  "dierencommunicatie-specialist-opleiding": {
+    "url": "https://nl.scholistico.com/product/dierencommunicatie-specialist-opleiding/",
+    "english_title": "Animal Communication Specialist Training"
+  },
+  "officieel-certificaat-voor-specialist-in-dierencommunicatie-opleiding": {
+    "url": "https://nl.scholistico.com/product/officieel-certificaat-voor-specialist-in-dierencommunicatie-opleiding/",
+    "english_title": "Official Certificate for Specialist in Animal Communication Training"
+  }
+}
+
+#Marketing
+{
+  "officieel-gedrukt-certificaat": {
+    "url": "https://nl.scholistico.com/product/officieel-gedrukt-certificaat/",
+    "english_title": "official printed certificate"
+  },
+  "laat-uw-holistische-praktijk-groeien-opleiding": {
+    "url": "https://nl.scholistico.com/product/laat-uw-holistische-praktijk-groeien-opleiding/",
+    "english_title": "grow your holistic practice training"
+  }
+}
+
+#Business
+{
+  "winkel": {
+    "url": "https://nl.scholistico.com/winkel/",
+    "english_title": "shop"
+  },
+  "van-basis-tot-succes-essentiele-boekhouding": {
+    "url": "https://nl.scholistico.com/product/van-basis-tot-succes-essentiele-boekhouding/",
+    "english_title": "From Basics to Success: Essential Accounting"
+  }
+}
+
+#Financial Wellness
+{
+  "48-euro-gift-card": {
+    "url": "https://nl.scholistico.com/product/48-euro-gift-card/",
+    "english_title": "48 euro gift card"
+  }
+}

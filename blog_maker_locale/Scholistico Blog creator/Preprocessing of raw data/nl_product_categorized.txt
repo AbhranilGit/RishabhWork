@@ -1,0 +1,41 @@
+
+#Art Therapy
+{
+  "kunstzinnige-therapie-opleiding": "https://nl.scholistico.com/product/kunstzinnige-therapie-opleiding/",
+  "50-kunstzinnige-therapie-oefeningen-voor-kinderen-volwassenen-en-senioren": "https://nl.scholistico.com/product/50-kunstzinnige-therapie-oefeningen-voor-kinderen-volwassenen-en-senioren/",
+}
+
+#Naturopathy
+{
+  "natuurgeneeskunde-opleiding-online": "https://nl.scholistico.com/product/natuurgeneeskunde-opleiding-online/",
+  "50-natuurlijke-huismiddeltjes-een-samengestelde-verzameling-eenvoudige-remedies-voor-iedereen": "https://nl.scholistico.com/product/50-natuurlijke-huismiddeltjes-een-samengestelde-verzameling-eenvoudige-remedies-voor-iedereen/",
+}
+
+#Nutrition
+{
+  "holistische-voedingsconsulent-opleiding": "https://nl.scholistico.com/product/holistische-voedingsconsulent-opleiding/",
+  "50-holistische-voedingsrecepten-eenvoudig-te-maken-holistische-recepten-voor-ontbijt-lunch-en-diner": "https://nl.scholistico.com/product/50-holistische-voedingsrecepten-eenvoudig-te-maken-holistische-recepten-voor-ontbijt-lunch-en-diner/",
+}
+
+#Holistic Health
+{
+  "holistische-gezondheidsdeskundige": "https://nl.scholistico.com/product/holistische-gezondheidsdeskundige/",
+  "officieel-certificaat-voor-de-opleiding-holistische-gezondheidszorgdeskundige": "https://nl.scholistico.com/product/officieel-certificaat-voor-de-opleiding-holistische-gezondheidszorgdeskundige/",
+}
+
+#Movement Therapy
+{
+  "officieel-certificaat-voor-de-opleiding-bewegingstherapeut": "https://nl.scholistico.com/product/officieel-certificaat-voor-de-opleiding-bewegingstherapeut/",
+}
+
+#Animal Wellness
+{
+  "dierencommunicatie-specialist-opleiding": "https://nl.scholistico.com/product/dierencommunicatie-specialist-opleiding/",
+
+}
+
+
+#Business
+{
+  "van-basis-tot-succes-essentiele-boekhouding": "https://nl.scholistico.com/product/van-basis-tot-succes-essentiele-boekhouding/",
+}

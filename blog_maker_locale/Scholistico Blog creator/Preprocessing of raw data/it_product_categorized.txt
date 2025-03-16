@@ -1,0 +1,39 @@
+
+#Art Therapy
+{
+  "corso-di-formazione-in-arteterapia": "https://it.scholistico.com/prodotto/corso-di-formazione-in-arteterapia/",
+  "oltre-50-esercizi-di-arteterapia-per-bambini-adulti-e-anziani": "https://it.scholistico.com/prodotto/oltre-50-esercizi-di-arteterapia-per-bambini-adulti-e-anziani/",
+  "guadagnare-attraverso-larte": "https://it.scholistico.com/prodotto/guadagnare-attraverso-larte/",
+}
+
+#Naturopathy
+{
+  "corso-di-formazione-per-operatori-di-naturopatia": "https://it.scholistico.com/prodotto/corso-di-formazione-per-operatori-di-naturopatia/",
+  "oltre-50-rimedi-naturali-casalinghi-una-raccolta-curata-di-rimedi-semplici-per-tutti": "https://it.scholistico.com/prodotto/oltre-50-rimedi-naturali-casalinghi-una-raccolta-curata-di-rimedi-semplici-per-tutti/",
+  "guadagnare-attraverso-la-salute-naturale": "https://it.scholistico.com/prodotto/guadagnare-attraverso-la-salute-naturale/",
+}
+
+#Nutrition
+{
+  "certificazione-in-nutrizione-olistica": "https://it.scholistico.com/prodotto/certificazione-in-nutrizione-olistica/",
+  "oltre-50-ricette-di-nutrizione-olistica-ricette-olistiche-facili-da-preparare-per-colazione-pranzo-e-cena": "https://it.scholistico.com/prodotto/oltre-50-ricette-di-nutrizione-olistica-ricette-olistiche-facili-da-preparare-per-colazione-pranzo-e-cena/",
+
+}
+
+#Holistic Health
+{
+  "certificazione-in-operatore-sanitario-olistico": "https://it.scholistico.com/prodotto/certificazione-in-operatore-sanitario-olistico/",
+}
+
+#Animal Wellness
+{
+  "corso-di-formazione-in-comunicazione-animale": "https://it.scholistico.com/prodotto/corso-di-formazione-in-comunicazione-animale/",
+}
+
+
+
+#Business
+{
+  "dalle-basi-al-successo-elementi-essenziali-di-contabilita": "https://it.scholistico.com/prodotto/dalle-basi-al-successo-elementi-essenziali-di-contabilita/",
+}
+

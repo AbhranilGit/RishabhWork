@@ -1,0 +1,9 @@
+{
+    "language": ["Italian"],
+    "topic": [
+        {
+            "course_code": "AT",
+            "title": "7 Creative Ways to Express Grief Through Art"
+        }
+    ]
+}

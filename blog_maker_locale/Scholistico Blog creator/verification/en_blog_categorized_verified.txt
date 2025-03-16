@@ -1,0 +1,404 @@
+
+#Art Therapy
+{
+  "9-art-therapy-exercises-to-reduce-anxiety": {
+    "url": "https://scholistico.com/9-art-therapy-exercises-to-reduce-anxiety/",
+    "english_title": "9 Art Therapy Exercises to Reduce Anxiety"
+  },
+  "7-ways-of-exploring-emotions-through-art-therapy": {
+    "url": "https://scholistico.com/7-ways-of-exploring-emotions-through-art-therapy/",
+    "english_title": "7 Ways of Exploring Emotions Through Art Therapy"
+  },
+  "7-easy-art-therapy-exercises-for-beginners": {
+    "url": "https://scholistico.com/7-easy-art-therapy-exercises-for-beginners/",
+    "english_title": "7 Easy Art Therapy Exercises for Beginners"
+  },
+  "5-art-therapy-exercises-for-mental-development": {
+    "url": "https://scholistico.com/5-art-therapy-exercises-for-mental-development/",
+    "english_title": "5 Art Therapy Exercises for Mental Development"
+  },
+  "7-best-art-therapy-exercises-for-relaxation": {
+    "url": "https://scholistico.com/7-best-art-therapy-exercises-for-relaxation/",
+    "english_title": "7 Best Art Therapy Exercises for Relaxation"
+  },
+  "5-best-art-therapy-exercises-for-emotional-healing": {
+    "url": "https://scholistico.com/5-best-art-therapy-exercises-for-emotional-healing/",
+    "english_title": "5 Best Art Therapy Exercises for Emotional Healing"
+  },
+  "art-therapy-for-eating-disorders": {
+    "url": "https://scholistico.com/art-therapy-for-eating-disorders/",
+    "english_title": "Art Therapy for Eating Disorders"
+  },
+  "5-art-therapy-exercises-for-family": {
+    "url": "https://scholistico.com/5-art-therapy-exercises-for-family/",
+    "english_title": "5 Art Therapy Exercises for Family"
+  },
+  "art-therapy-activities-for-couples": {
+    "url": "https://scholistico.com/art-therapy-activities-for-couples/",
+    "english_title": "Art Therapy Activities for Couples"
+  },
+  "10-art-therapy-exercises-for-trauma-recovery": {
+    "url": "https://scholistico.com/10-art-therapy-exercises-for-trauma-recovery/",
+    "english_title": "10 Art Therapy Exercises for Trauma Recovery"
+  },
+  "art-therapy-activities-stress-reducation": {
+    "url": "https://scholistico.com/art-therapy-activities-stress-reducation/",
+    "english_title": "Art Therapy Activities for Stress Reduction"
+  },
+  "art-therapy-exercises-ptsd": {
+    "url": "https://scholistico.com/art-therapy-exercises-ptsd/",
+    "english_title": "Art Therapy Exercises for PTSD"
+  },
+  "art-therapy-for-veterans": {
+    "url": "https://scholistico.com/art-therapy-for-veterans/",
+    "english_title": "Art Therapy for Veterans"
+  },
+  "art-therapy-for-addiction-recovery": {
+    "url": "https://scholistico.com/art-therapy-for-addiction-recovery/",
+    "english_title": "Art Therapy for Addiction Recovery"
+  },
+  "art-therapy-exercises-dementia": {
+    "url": "https://scholistico.com/art-therapy-exercises-dementia/",
+    "english_title": "Art Therapy Exercises for Dementia"
+  },
+  "benefits-of-art-therapy-for-adults": {
+    "url": "https://scholistico.com/benefits-of-art-therapy-for-adults/",
+    "english_title": "Benefits of Art Therapy for Adults"
+  },
+  "art-therapy-for-autism": {
+    "url": "https://scholistico.com/art-therapy-for-autism/",
+    "english_title": "Art Therapy for Autism"
+  },
+  "art-therapy-exercises-unleash-childrens-potential": {
+    "url": "https://scholistico.com/art-therapy-exercises-unleash-childrens-potential/",
+    "english_title": "Art Therapy Exercises: Unleash Children's Potential"
+  },
+  "8-best-art-therapy-exercises-for-grief-recovery": {
+    "url": "https://scholistico.com/8-best-art-therapy-exercises-for-grief-recovery/",
+    "english_title": "8 Best Art Therapy Exercises for Grief Recovery"
+  },
+  "art-therapy-for-seniors": {
+    "url": "https://scholistico.com/art-therapy-for-seniors/",
+    "english_title": "Art Therapy for Seniors"
+  },
+  "10-best-art-therapy-activities-for-teenagers": {
+    "url": "https://scholistico.com/10-best-art-therapy-activities-for-teenagers/",
+    "english_title": "10 Best Art Therapy Activities for Teenagers"
+  },
+  "what-is-art-therapy-and-how-does-it-work": {
+    "url": "https://scholistico.com/what-is-art-therapy-and-how-does-it-work/",
+    "english_title": "What Is Art Therapy and How Does It Work"
+  },
+  "6-scientific-reasons-why-you-should-use-art-therapy-to-relieve-stress": {
+    "url": "https://scholistico.com/6-scientific-reasons-why-you-should-use-art-therapy-to-relieve-stress/",
+    "english_title": "6 Scientific Reasons Why You Should Use Art Therapy to Relieve Stress"
+  },
+  "art-therapy-for-teenagers-benefits-and-techniques": {
+    "url": "https://scholistico.com/art-therapy-for-teenagers-benefits-and-techniques/",
+    "english_title": "Art Therapy for Teenagers: Benefits and Techniques"
+  },
+  "art-therapy-techniques": {
+    "url": "https://scholistico.com/art-therapy-techniques/",
+    "english_title": "art therapy techniques"
+  },
+  "art-therapy-activities-for-anxiety": {
+    "url": "https://scholistico.com/art-therapy-activities-for-anxiety/",
+    "english_title": "Art Therapy Activities for Anxiety"
+  },
+  "arts-based-therapy-power": {
+    "url": "https://scholistico.com/arts-based-therapy-power/",
+    "english_title": "Arts-Based Therapy Power"
+  },
+  "expressive-arts-education-healing-self-discovery": {
+    "url": "https://scholistico.com/expressive-arts-education-healing-self-discovery/",
+    "english_title": "expressive arts education for healing and self-discovery"
+  },
+  "art-therapy-personal-development-self-discovery": {
+    "url": "https://scholistico.com/art-therapy-personal-development-self-discovery/",
+    "english_title": "Art Therapy: Personal Development and Self-Discovery"
+  },
+  "clinical-vs-non-clinical-art-therapy-guide": {
+    "url": "https://scholistico.com/clinical-vs-non-clinical-art-therapy-guide/",
+    "english_title": "Clinical vs Non-Clinical Art Therapy Guide"
+  },
+  "how-to-price-non-clinical-art-therapy-services-for-beginners": {
+    "url": "https://scholistico.com/how-to-price-non-clinical-art-therapy-services-for-beginners/",
+    "english_title": "How to Price Non-Clinical Art Therapy Services for Beginners"
+  },
+  "art-therapy-online-course-certification-learn-art-therapy": {
+    "url": "https://scholistico.com/art-therapy-online-course-certification-learn-art-therapy/",
+    "english_title": "Art Therapy Online Course Certification: Learn Art Therapy"
+  },
+  "art-therapy-associations-guide": {
+    "url": "https://scholistico.com/art-therapy-associations-guide/",
+    "english_title": "art therapy associations guide"
+  },
+  "discover-the-power-of-art-therapy-transform-lives": {
+    "url": "https://scholistico.com/discover-the-power-of-art-therapy-transform-lives/",
+    "english_title": "Discover the Power of Art Therapy: Transform Lives"
+  },
+  "mental-health-and-art": {
+    "url": "https://scholistico.com/mental-health-and-art/",
+    "english_title": "mental health and art"
+  },
+  "therapeutic-arts-for-healing": {
+    "url": "https://scholistico.com/therapeutic-arts-for-healing/",
+    "english_title": "Therapeutic Arts for Healing"
+  },
+  "art-therapy-certification-and-licence": {
+    "url": "https://scholistico.com/art-therapy-certification-and-licence/",
+    "english_title": "art therapy certification and license"
+  },
+  "ultimate-guide-art-therapy-for-sleep": {
+    "url": "https://scholistico.com/ultimate-guide-art-therapy-for-sleep/",
+    "english_title": "Ultimate Guide: Art Therapy for Sleep"
+  },
+  "art-therapy-activities-for-depression": {
+    "url": "https://scholistico.com/art-therapy-activities-for-depression/",
+    "english_title": "Art therapy activities for depression"
+  },
+  "embracing-your-role-as-a-non-clinical-art-therapy-practitioner": {
+    "url": "https://scholistico.com/embracing-your-role-as-a-non-clinical-art-therapy-practitioner/",
+    "english_title": "Embracing Your Role as a Non-Clinical Art Therapy Practitioner"
+  },
+  "benefits-of-adult-coloring-for-stress": {
+    "url": "https://scholistico.com/benefits-of-adult-coloring-for-stress/",
+    "english_title": "Benefits of Adult Coloring for Stress"
+  },
+  "how-can-you-express-your-emotions-through-art": {
+    "url": "https://scholistico.com/how-can-you-express-your-emotions-through-art/",
+    "english_title": "How Can You Express Your Emotions Through Art"
+  },
+  "fun-and-empowerment-through-art-therapy": {
+    "url": "https://scholistico.com/fun-and-empowerment-through-art-therapy/",
+    "english_title": "Fun and Empowerment Through Art Therapy"
+  },
+  "art-therapy-getting-the-best-out-of-children": {
+    "url": "https://scholistico.com/art-therapy-getting-the-best-out-of-children/",
+    "english_title": "Art Therapy: Getting the Best Out of Children"
+  },
+  "10-creative-ways-to-use-art-therapy-with-children": {
+    "url": "https://scholistico.com/10-creative-ways-to-use-art-therapy-with-children/",
+    "english_title": "10 Creative Ways to Use Art Therapy with Children"
+  },
+  "10-creative-ways-to-use-art-therapy-with-adults": {
+    "url": "https://scholistico.com/10-creative-ways-to-use-art-therapy-with-adults/",
+    "english_title": "10 Creative Ways to Use Art Therapy with Adults"
+  }
+}
+
+#Naturopathy
+{
+  "8-herbal-remedies-for-dry-skin": {
+    "url": "https://scholistico.com/8-herbal-remedies-for-dry-skin/",
+    "english_title": "8 herbal remedies for dry skin"
+  },
+  "7-home-remedies-for-seasonal-allergies": {
+    "url": "https://scholistico.com/7-home-remedies-for-seasonal-allergies/",
+    "english_title": "7 Home Remedies for Seasonal Allergies"
+  },
+  "5-best-natural-home-remedies-for-digestive-health": {
+    "url": "https://scholistico.com/5-best-natural-home-remedies-for-digestive-health/",
+    "english_title": "5 Best Natural Home Remedies for Digestive Health"
+  },
+  "what-can-you-do-with-a-naturopathy-certification": {
+    "url": "https://scholistico.com/what-can-you-do-with-a-naturopathy-certification/",
+    "english_title": "What Can You Do with a Naturopathy Certification"
+  },
+  "7-reasons-to-become-naturopathic-practitioner": {
+    "url": "https://scholistico.com/7-reasons-to-become-naturopathic-practitioner/",
+    "english_title": "7 reasons to become a naturopathic practitioner"
+  },
+  "4-natural-home-remedies-for-cough-and-sore-throat": {
+    "url": "https://scholistico.com/4-natural-home-remedies-for-cough-and-sore-throat/",
+    "english_title": "4 Natural Home Remedies for Cough and Sore Throat"
+  },
+  "dispelling-myths-naturopathy-is-not-pseudoscience-it-is-evidence-based-healing": {
+    "url": "https://scholistico.com/dispelling-myths-naturopathy-is-not-pseudoscience-it-is-evidence-based-healing/",
+    "english_title": "Dispelling myths: Naturopathy is not pseudoscience, it is evidence-based healing"
+  },
+  "understanding-differences-between-naturopathy-practitioner-and-naturopathic-doctor": {
+    "url": "https://scholistico.com/understanding-differences-between-naturopathy-practitioner-and-naturopathic-doctor/",
+    "english_title": "Understanding Differences Between Naturopathy Practitioner and Naturopathic Doctor"
+  },
+  "integrating-naturopathy-conventional-medicine": {
+    "url": "https://scholistico.com/integrating-naturopathy-conventional-medicine/",
+    "english_title": "integrating naturopathy and conventional medicine"
+  },
+  "uncover-the-core-principles-of-naturopathy": {
+    "url": "https://scholistico.com/uncover-the-core-principles-of-naturopathy/",
+    "english_title": "Uncover the Core Principles of Naturopathy"
+  },
+  "naturopathy-vs-conventional-medicine-comparison": {
+    "url": "https://scholistico.com/naturopathy-vs-conventional-medicine-comparison/",
+    "english_title": "Naturopathy vs Conventional Medicine: A Comparison"
+  },
+  "naturopathy-principles-practices-benefits": {
+    "url": "https://scholistico.com/naturopathy-principles-practices-benefits/",
+    "english_title": "Naturopathy: Principles, Practices, and Benefits"
+  },
+  "beginners-guide-to-naturopathy": {
+    "url": "https://scholistico.com/beginners-guide-to-naturopathy/",
+    "english_title": "Beginner's Guide to Naturopathy"
+  },
+  "naturopathic-medicine-womens-health": {
+    "url": "https://scholistico.com/naturopathic-medicine-womens-health/",
+    "english_title": "naturopathic medicine women's health"
+  },
+  "getting-natural-relief-from-pain-through-naturopathy": {
+    "url": "https://scholistico.com/getting-natural-relief-from-pain-through-naturopathy/",
+    "english_title": "Getting Natural Relief from Pain Through Naturopathy"
+  },
+  "10-naturopathic-treatments-for-specific-health-conditions": {
+    "url": "https://scholistico.com/10-naturopathic-treatments-for-specific-health-conditions/",
+    "english_title": "10 Naturopathic Treatments for Specific Health Conditions"
+  }
+}
+
+#Nutrition
+{
+  "8-best-superfoods-for-your-immune-system": {
+    "url": "https://scholistico.com/8-best-superfoods-for-your-immune-system/",
+    "english_title": "8 Best Superfoods for Your Immune System"
+  },
+  "5-tips-healthy-lifestyle": {
+    "url": "https://scholistico.com/5-tips-healthy-lifestyle/",
+    "english_title": "5 Tips for a Healthy Lifestyle"
+  },
+  "top-10-natural-supplements-for-better-health": {
+    "url": "https://scholistico.com/top-10-natural-supplements-for-better-health/",
+    "english_title": "Top 10 Natural Supplements for Better Health"
+  }
+}
+
+#Holistic Health
+{
+  "8-natural-ways-to-relieve-headaches-at-home": {
+    "url": "https://scholistico.com/8-natural-ways-to-relieve-headaches-at-home/",
+    "english_title": "8 Natural Ways to Relieve Headaches at Home"
+  },
+  "8-guided-meditation-practices-for-beginners": {
+    "url": "https://scholistico.com/8-guided-meditation-practices-for-beginners/",
+    "english_title": "8 Guided Meditation Practices for Beginners"
+  },
+  "7-essential-oils-for-better-sleep": {
+    "url": "https://scholistico.com/7-essential-oils-for-better-sleep/",
+    "english_title": "7 Essential Oils for Better Sleep"
+  },
+  "6-ways-of-building-emotional-resilience": {
+    "url": "https://scholistico.com/6-ways-of-building-emotional-resilience/",
+    "english_title": "6 Ways of Building Emotional Resilience"
+  },
+  "10-daily-habits-for-holistic-well-being": {
+    "url": "https://scholistico.com/10-daily-habits-for-holistic-well-being/",
+    "english_title": "10 Daily Habits for Holistic Well-being"
+  },
+  "7-best-home-remedies-for-fatty-liver-solutions": {
+    "url": "https://scholistico.com/7-best-home-remedies-for-fatty-liver-solutions/",
+    "english_title": "7 Best Home Remedies for Fatty Liver Solutions"
+  },
+  "11-alternative-medicines-to-improve-your-health": {
+    "url": "https://scholistico.com/11-alternative-medicines-to-improve-your-health/",
+    "english_title": "11 Alternative Medicines to Improve Your Health"
+  },
+  "top-10-ways-to-reduce-stress": {
+    "url": "https://scholistico.com/top-10-ways-to-reduce-stress/",
+    "english_title": "Top 10 Ways to Reduce Stress"
+  },
+  "7-reasons-holistic-healing-certification-online": {
+    "url": "https://scholistico.com/7-reasons-holistic-healing-certification-online/",
+    "english_title": "7 Reasons for Online Holistic Healing Certification"
+  },
+  "creative-healing-techniques": {
+    "url": "https://scholistico.com/creative-healing-techniques/",
+    "english_title": "Creative Healing Techniques"
+  },
+  "color-therapy-guide": {
+    "url": "https://scholistico.com/color-therapy-guide/",
+    "english_title": "Color Therapy Guide"
+  },
+  "how-to-make-the-most-of-holistic-online-course": {
+    "url": "https://scholistico.com/how-to-make-the-most-of-holistic-online-course/",
+    "english_title": "How to Make the Most of Holistic Online Course"
+  },
+  "what-can-you-do-with-holistic-nutrition-certification": {
+    "url": "https://scholistico.com/what-can-you-do-with-holistic-nutrition-certification/",
+    "english_title": "What Can You Do with Holistic Nutrition Certification"
+  },
+  "tips-tricks-for-better-telepathy": {
+    "url": "https://scholistico.com/tips-tricks-for-better-telepathy/",
+    "english_title": "Tips and Tricks for Better Telepathy"
+  },
+  "why-choose-an-accredited-holistic-practitioner-online-course": {
+    "url": "https://scholistico.com/why-choose-an-accredited-holistic-practitioner-online-course/",
+    "english_title": "Why Choose an Accredited Holistic Practitioner Online Course"
+  },
+  "ayurveda-for-beginners-everything-you-need-to-know": {
+    "url": "https://scholistico.com/ayurveda-for-beginners-everything-you-need-to-know/",
+    "english_title": "Ayurveda for Beginners: Everything You Need to Know"
+  },
+  "benefits-of-detoxing-with-ayurveda": {
+    "url": "https://scholistico.com/benefits-of-detoxing-with-ayurveda/",
+    "english_title": "Benefits of Detoxing with Ayurveda"
+  },
+  "10-benefits-of-alternative-medicine-how-it-can-help-you": {
+    "url": "https://scholistico.com/10-benefits-of-alternative-medicine-how-it-can-help-you/",
+    "english_title": "10 Benefits of Alternative Medicine: How It Can Help You"
+  }
+}
+
+#Animal Wellness
+{
+  "7-ways-for-effective-communication-with-animals": {
+    "url": "https://scholistico.com/7-ways-for-effective-communication-with-animals/",
+    "english_title": "7 Ways for Effective Communication with Animals"
+  },
+  "how-animal-communication-can-benefit-professionally": {
+    "url": "https://scholistico.com/how-animal-communication-can-benefit-professionally/",
+    "english_title": "How Animal Communication Can Benefit Professionally"
+  },
+  "animal-communication-course-learn-to-communicate": {
+    "url": "https://scholistico.com/animal-communication-course-learn-to-communicate/",
+    "english_title": "Animal Communication Course: Learn to Communicate"
+  },
+  "what-is-an-animal-communicator": {
+    "url": "https://scholistico.com/what-is-an-animal-communicator/",
+    "english_title": "What is an animal communicator"
+  }
+}
+
+#Learning
+{
+  "gamified-learning-enhancing-your-educational-experience": {
+    "url": "https://scholistico.com/gamified-learning-enhancing-your-educational-experience/",
+    "english_title": "Gamified Learning: Enhancing Your Educational Experience"
+  },
+  "learning-hierarchy-data-into-wisdom": {
+    "url": "https://scholistico.com/learning-hierarchy-data-into-wisdom/",
+    "english_title": "Learning: Transforming Data into Wisdom Through Hierarchy"
+  }
+}
+
+#Marketing
+{
+  "affiliate-marketing-guide": {
+    "url": "https://scholistico.com/affiliate-marketing-guide/",
+    "english_title": "Affiliate Marketing Guide"
+  },
+  "10-strategies-boost-instagram-therapist": {
+    "url": "https://scholistico.com/10-strategies-boost-instagram-therapist/",
+    "english_title": "10 Strategies to Boost Instagram for Therapists"
+  },
+  "4-marketing-strategies-from-top-therapists-to-find-clients": {
+    "url": "https://scholistico.com/4-marketing-strategies-from-top-therapists-to-find-clients/",
+    "english_title": "4 Marketing Strategies from Top Therapists to Find Clients"
+  },
+  "how-to-increase-revenue-in-your-private-practice": {
+    "url": "https://scholistico.com/how-to-increase-revenue-in-your-private-practice/",
+    "english_title": "How to Increase Revenue in Your Private Practice"
+  },
+  "5-proven-strategies-for-growing-your-private-practice": {
+    "url": "https://scholistico.com/5-proven-strategies-for-growing-your-private-practice/",
+    "english_title": "5 Proven Strategies for Growing Your Private Practice"
+  }
+}

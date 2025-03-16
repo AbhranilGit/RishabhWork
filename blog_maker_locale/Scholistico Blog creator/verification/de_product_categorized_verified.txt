@@ -1,0 +1,124 @@
+
+#Art Therapy
+{
+  "ausbildung-in-kunsttherapie": {
+    "url": "https://de.scholistico.com/produkt/ausbildung-in-kunsttherapie/",
+    "english_title": "training in art therapy"
+  },
+  "offizielles-zertifikat-fuer-die-ausbildung-zur-kunsttherapiepraktikerin": {
+    "url": "https://de.scholistico.com/produkt/offizielles-zertifikat-fuer-die-ausbildung-zur-kunsttherapiepraktikerin/",
+    "english_title": "official certificate for training as an art therapy practitioner"
+  },
+  "ueber-50-kunsttherapieuebungen-fuer-kinder-erwachsene-und-senioren": {
+    "url": "https://de.scholistico.com/produkt/ueber-50-kunsttherapieuebungen-fuer-kinder-erwachsene-und-senioren/",
+    "english_title": "Over 50 Art Therapy Exercises for Children, Adults, and Seniors"
+  },
+  "ausbildung-zum-kunsttherapeuten-in-drei-teilen": {
+    "url": "https://de.scholistico.com/produkt/ausbildung-zum-kunsttherapeuten-in-drei-teilen/",
+    "english_title": "Training as an art therapist in three parts"
+  },
+  "ausbildung-zum-kunsttherapeuten-in-zwei-teilen": {
+    "url": "https://de.scholistico.com/produkt/ausbildung-zum-kunsttherapeuten-in-zwei-teilen/",
+    "english_title": "Training as an art therapist in two parts"
+  },
+  "von-der-kunst-leben": {
+    "url": "https://de.scholistico.com/produkt/von-der-kunst-leben/",
+    "english_title": "The Art of Living"
+  }
+}
+
+#Naturopathy
+{
+  "ausbildung-zum-naturheilpraktiker": {
+    "url": "https://de.scholistico.com/produkt/ausbildung-zum-naturheilpraktiker/",
+    "english_title": "Training as a naturopathic practitioner"
+  },
+  "offizielles-zertifikat-fuer-die-ausbildung-zum-naturheilpraktiker": {
+    "url": "https://de.scholistico.com/produkt/offizielles-zertifikat-fuer-die-ausbildung-zum-naturheilpraktiker/",
+    "english_title": "official certificate for training as a naturopathic practitioner"
+  },
+  "ueber-50-natuerliche-hausmittel-eine-ausgewaehlte-sammlung-von-einfachen-heilmitteln-fuer-alle": {
+    "url": "https://de.scholistico.com/produkt/ueber-50-natuerliche-hausmittel-eine-ausgewaehlte-sammlung-von-einfachen-heilmitteln-fuer-alle/",
+    "english_title": "Over 50 Natural Home Remedies: A Selected Collection of Simple Cures for All"
+  },
+  "ausbildung-zum-naturheilpraktiker-in-drei-teilen": {
+    "url": "https://de.scholistico.com/produkt/ausbildung-zum-naturheilpraktiker-in-drei-teilen/",
+    "english_title": "Training as a naturopath in three parts"
+  },
+  "ausbildung-zum-naturheilpraktiker-in-zwei-teilen": {
+    "url": "https://de.scholistico.com/produkt/ausbildung-zum-naturheilpraktiker-in-zwei-teilen/",
+    "english_title": "Training as a naturopathic practitioner in two parts"
+  }
+}
+
+#Nutrition
+{
+  "ausbildung-zum-ganzheitlichen-ernaehrungsberater": {
+    "url": "https://de.scholistico.com/produkt/ausbildung-zum-ganzheitlichen-ernaehrungsberater/",
+    "english_title": "Training as a holistic nutrition consultant"
+  },
+  "offizielles-zertifikat-zum-ganzheitlichen-ernaehrungsberater": {
+    "url": "https://de.scholistico.com/produkt/offizielles-zertifikat-zum-ganzheitlichen-ernaehrungsberater/",
+    "english_title": "official certificate for holistic nutrition consultant"
+  },
+  "ueber-50-ganzheitliche-ernaehrungsrezepte-einfach-zuzubereitende-ganzheitliche-rezepte-zum-fruehstueck-mittag-und-abendessen": {
+    "url": "https://de.scholistico.com/produkt/ueber-50-ganzheitliche-ernaehrungsrezepte-einfach-zuzubereitende-ganzheitliche-rezepte-zum-fruehstueck-mittag-und-abendessen/",
+    "english_title": "Over 50 Holistic Nutrition Recipes: Easy-to-Prepare Holistic Recipes for Breakfast, Lunch, and Dinner"
+  }
+}
+
+#Holistic Health
+{
+  "ausbildung-zum-ganzheitlichen-gesundheitspraktiker": {
+    "url": "https://de.scholistico.com/produkt/ausbildung-zum-ganzheitlichen-gesundheitspraktiker/",
+    "english_title": "Training as a holistic health practitioner"
+  },
+  "offizielles-zertifikat-fuer-ganzheitliche-gesundheitspraktiker": {
+    "url": "https://de.scholistico.com/produkt/offizielles-zertifikat-fuer-ganzheitliche-gesundheitspraktiker/",
+    "english_title": "Official Certificate for Holistic Health Practitioners"
+  },
+  "von-natuerlicher-gesundheit-leben": {
+    "url": "https://de.scholistico.com/produkt/von-natuerlicher-gesundheit-leben/",
+    "english_title": "living with natural health"
+  }
+}
+
+#Animal Wellness
+{
+  "ausbildung-zum-tierkommunikationsspezialisten": {
+    "url": "https://de.scholistico.com/produkt/ausbildung-zum-tierkommunikationsspezialisten/",
+    "english_title": "Training to become an animal communication specialist"
+  },
+  "official-certificate-specialist-in-animal-communication-training": {
+    "url": "https://de.scholistico.com/produkt/official-certificate-specialist-in-animal-communication-training/",
+    "english_title": "Official Certificate Specialist in Animal Communication Training"
+  },
+  "ausbildung-zum-tierkommunikationsspezialisten-in-drei-teilen": {
+    "url": "https://de.scholistico.com/produkt/ausbildung-zum-tierkommunikationsspezialisten-in-drei-teilen/",
+    "english_title": "Training to become an animal communication specialist in three parts"
+  },
+  "ausbildung-zum-tierkommunikationsspezialisten-in-zwei-teilen": {
+    "url": "https://de.scholistico.com/produkt/ausbildung-zum-tierkommunikationsspezialisten-in-zwei-teilen/",
+    "english_title": "Training to become an animal communication specialist in two parts"
+  }
+}
+
+#Learning
+{
+  "offizielles-gedrucktes-zertifikat": {
+    "url": "https://de.scholistico.com/produkt/offizielles-gedrucktes-zertifikat/",
+    "english_title": "official printed certificate"
+  }
+}
+
+#Financial Wellness
+{
+  "von-den-grundlagen-zum-erfolg-essenzielle-buchhaltungskenntnisse": {
+    "url": "https://de.scholistico.com/produkt/von-den-grundlagen-zum-erfolg-essenzielle-buchhaltungskenntnisse/",
+    "english_title": "From Basics to Success: Essential Accounting Skills"
+  },
+  "48-euro-gift-card": {
+    "url": "https://de.scholistico.com/produkt/48-euro-gift-card/",
+    "english_title": "48 euro gift card"
+  }
+}

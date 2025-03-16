@@ -1,0 +1,111 @@
+course_code,language,country_code,website,course_name,course_link,result_blog_dict,results_product_dict,inspiration_blog_dict,course_document_path
+AT,English,en,en.scholistico,Art Therapy,https://scholistico.com/product/art-therapy-practitioner-training-course/,"{
+  ""9-art-therapy-exercises-to-reduce-anxiety"": ""https://scholistico.com/9-art-therapy-exercises-to...","{
+  ""art-therapy-practitioner-training-course"": ""https://scholistico.com/product/art-therapy-practit...","{
+  ""9-art-therapy-exercises-to-reduce-anxiety"": ""https://scholistico.com/9-art-therapy-exercises-to...",courses/AT
+AT,Dutch,nl,nl.scholistico,Art Therapy,https://nl.scholistico.com/product/kunstzinnige-therapie-opleiding/,"{
+  ""kunstzinnige-therapie-oefeningen-voor-autisme"": ""https://nl.scholistico.com/kunstzinnige-therap...","{
+  ""kunstzinnige-therapie-opleiding"": ""https://nl.scholistico.com/product/kunstzinnige-therapie-opl...","{
+  ""kunstzinnige-therapie-oefeningen-voor-autisme"": ""https://nl.scholistico.com/kunstzinnige-therap...",courses/AT
+AT,Italian,it,it.scholistico,Art Therapy,https://it.scholistico.com/prodotto/corso-di-formazione-in-arteterapia/,"{
+  ""5-benefici-dellarteterapia-per-gli-adulti"": ""https://it.scholistico.com/5-benefici-dellartetera...","{
+  ""corso-di-formazione-in-arteterapia"": ""https://it.scholistico.com/prodotto/corso-di-formazione-i...","{
+  ""5-benefici-dellarteterapia-per-gli-adulti"": ""https://it.scholistico.com/5-benefici-dellartetera...",courses/AT
+AT,German,de,de.scholistico,Art Therapy,https://de.scholistico.com/produkt/ausbildung-in-kunsttherapie/,"{
+  ""7-kunsttherapieuebungen-fuer-menschen-mit-behinderungen"": ""https://de.scholistico.com/7-kunstth...","{
+  ""ausbildung-in-kunsttherapie"": ""https://de.scholistico.com/produkt/ausbildung-in-kunsttherapie/""...","{
+  ""7-kunsttherapieuebungen-fuer-menschen-mit-behinderungen"": ""https://de.scholistico.com/7-kunstth...",courses/AT
+AT,Spanish,es,es.scholistico,Art Therapy,https://es.scholistico.com/producto/curso-certificacion-practicante-arteterapia/,"{
+  ""actividades-arteterapia-para-ansiedad"": ""https://es.scholistico.com/actividades-arteterapia-par...","{
+  ""curso-certificacion-practicante-arteterapia"": ""https://es.scholistico.com/producto/curso-certif...","{
+  ""actividades-arteterapia-para-ansiedad"": ""https://es.scholistico.com/actividades-arteterapia-par...",courses/AT
+NAT,English,en,en.scholistico,Naturopathy,https://scholistico.com/product/naturopathy-practitioner-training-course/,"{
+  ""8-herbal-remedies-for-dry-skin"": ""https://scholistico.com/8-herbal-remedies-for-dry-skin/"",
+  ""...","{
+  ""naturopathy-practitioner-training-course"": ""https://scholistico.com/product/naturopathy-practit...","{
+  ""8-herbal-remedies-for-dry-skin"": ""https://scholistico.com/8-herbal-remedies-for-dry-skin/"",
+  ""...",courses/NAT
+NAT,Dutch,nl,nl.scholistico,Naturopathy,https://nl.scholistico.com/product/natuurgeneeskunde-opleiding-online/,"{
+  ""4-natuurlijke-huismiddeltjes"": ""https://nl.scholistico.com/4-natuurlijke-huismiddeltjes/"",
+  ""n...","{
+  ""natuurgeneeskunde-opleiding-online"": ""https://nl.scholistico.com/product/natuurgeneeskunde-ople...","{
+  ""4-natuurlijke-huismiddeltjes"": ""https://nl.scholistico.com/4-natuurlijke-huismiddeltjes/"",
+  ""n...",courses/NAT
+NAT,Italian,it,it.scholistico,Naturopathy,https://it.scholistico.com/prodotto/corso-di-formazione-per-operatori-di-naturopatia/,"{
+  ""naturopatia-principi-pratiche-e-benefici-della-guarigione-naturale"": ""https://it.scholistico.co...","{
+  ""corso-di-formazione-per-operatori-di-naturopatia"": ""https://it.scholistico.com/prodotto/corso-d...","{
+  ""naturopatia-principi-pratiche-e-benefici-della-guarigione-naturale"": ""https://it.scholistico.co...",courses/NAT
+NAT,German,de,de.scholistico,Naturopathy,https://de.scholistico.com/produkt/ausbildung-zum-naturheilpraktiker/,"{
+  ""naturheilpraktiker-7-gruende-warum-jetzt-der-perfekte-zeitpunkt-ist-um-einer-zu-werden"": ""https...","{
+  ""ausbildung-zum-naturheilpraktiker"": ""https://de.scholistico.com/produkt/ausbildung-zum-naturhei...","{
+  ""naturheilpraktiker-7-gruende-warum-jetzt-der-perfekte-zeitpunkt-ist-um-einer-zu-werden"": ""https...",courses/NAT
+NAT,Spanish,es,es.scholistico,Naturopathy,https://es.scholistico.com/producto/curso-certificacion-practicante-naturopatia/,"{
+  ""guia-naturopatia-principiantes"": ""https://es.scholistico.com/guia-naturopatia-principiantes/"",
+...","{
+  ""curso-certificacion-practicante-naturopatia"": ""https://es.scholistico.com/producto/curso-certif...","{
+  ""guia-naturopatia-principiantes"": ""https://es.scholistico.com/guia-naturopatia-principiantes/"",
+...",courses/NAT
+HNC,English,en,en.scholistico,Nutrition,https://scholistico.com/product/holistic-nutrition-consultant-training-course/,"{
+  ""8-best-superfoods-for-your-immune-system"": ""https://scholistico.com/8-best-superfoods-for-your-...","{
+  ""holistic-nutrition-consultant-training-course"": ""https://scholistico.com/product/holistic-nutri...","{
+  ""8-best-superfoods-for-your-immune-system"": ""https://scholistico.com/8-best-superfoods-for-your-...",courses/HNC
+HNC,Dutch,nl,nl.scholistico,Nutrition,https://nl.scholistico.com/product/holistische-voedingsconsulent-opleiding/,"{
+  ""holistische-voedingsconsulent-certificering"": ""https://nl.scholistico.com/holistische-voedingsc...","{
+  ""holistische-voedingsconsulent-opleiding"": ""https://nl.scholistico.com/product/holistische-voedi...","{
+  ""holistische-voedingsconsulent-certificering"": ""https://nl.scholistico.com/holistische-voedingsc...",courses/HNC
+HNC,Italian,it,it.scholistico,Nutrition,https://it.scholistico.com/prodotto/certificazione-in-nutrizione-olistica/,"{
+  ""8-migliori-super-cibi-per-il-sistema-immunitario"": ""https://it.scholistico.com/8-migliori-super...","{
+  ""certificazione-in-nutrizione-olistica"": ""https://it.scholistico.com/prodotto/certificazione-in-...","{
+  ""8-migliori-super-cibi-per-il-sistema-immunitario"": ""https://it.scholistico.com/8-migliori-super...",courses/HNC
+HNC,German,de,de.scholistico,Nutrition,https://de.scholistico.com/produkt/ausbildung-zum-ganzheitlichen-ernaehrungsberater/,"{
+  ""ganzheitlicher-ernaehrungsberater-5-dinge-die-sie-noch-nicht-wussten"": ""https://de.scholistico....","{
+  ""ausbildung-zum-ganzheitlichen-ernaehrungsberater"": ""https://de.scholistico.com/produkt/ausbildu...","{
+  ""ganzheitlicher-ernaehrungsberater-5-dinge-die-sie-noch-nicht-wussten"": ""https://de.scholistico....",courses/HNC
+HNC,Spanish,es,es.scholistico,Nutrition,https://es.scholistico.com/producto/curso-de-certificacion-consultor-en-nutricion-holistica/,{},"{
+  ""curso-de-certificacion-consultor-en-nutricion-holistica"": ""https://es.scholistico.com/producto/...",{},courses/HNC
+HHP,English,en,en.scholistico,Holistic Health,https://scholistico.com/product/holistic-health-practitioner-online-training-course/,"{
+  ""8-natural-ways-to-relieve-headaches-at-home"": ""https://scholistico.com/8-natural-ways-to-reliev...","{
+  ""holistic-health-practitioner-online-training-course"": ""https://scholistico.com/product/holistic...","{
+  ""8-natural-ways-to-relieve-headaches-at-home"": ""https://scholistico.com/8-natural-ways-to-reliev...",courses/HHP
+HHP,Dutch,nl,nl.scholistico,Holistic Health,https://nl.scholistico.com/product/holistische-gezondheidsdeskundige/,"{
+  
+  ""holistische-gezondheidscertificering"": ""https://nl.scholistico.com/holistische-gezondheidsce...","{
+  ""holistische-gezondheidsdeskundige"": ""https://nl.scholistico.com/product/holistische-gezondheids...","{
+  
+  ""holistische-gezondheidscertificering"": ""https://nl.scholistico.com/holistische-gezondheidsce...",courses/HHP
+HHP,Italian,it,it.scholistico,Holistic Health,https://it.scholistico.com/prodotto/certificazione-in-operatore-sanitario-olistico/,"{
+  ""i-7-motivi-principali-per-conseguire-una-certificazione-di-guarigione-olistica-online"": ""https:...","{
+  ""certificazione-in-operatore-sanitario-olistico"": ""https://it.scholistico.com/prodotto/certifica...","{
+  ""i-7-motivi-principali-per-conseguire-una-certificazione-di-guarigione-olistica-online"": ""https:...",courses/HHP
+HHP,German,de,de.scholistico,Holistic Health,https://de.scholistico.com/produkt/ausbildung-zum-ganzheitlichen-gesundheitspraktiker/,"{
+  ""so-nutzen-sie-ihren-online-kurs-fuer-ganzheitliche-gesundheit-optimal"": ""https://de.scholistico...","{
+  ""ausbildung-zum-ganzheitlichen-gesundheitspraktiker"": ""https://de.scholistico.com/produkt/ausbil...","{
+  ""so-nutzen-sie-ihren-online-kurs-fuer-ganzheitliche-gesundheit-optimal"": ""https://de.scholistico...",courses/HHP
+HHP,Spanish,es,es.scholistico,Holistic Health,https://es.scholistico.com/producto/curso-de-certificacion-practicante-de-salud-holistica/,"{
+  ""5-consejos-estilo-vida-saludable"": ""https://es.scholistico.com/5-consejos-estilo-vida-saludable...","{
+  ""curso-de-certificacion-practicante-de-salud-holistica"": ""https://es.scholistico.com/producto/cu...","{
+  ""5-consejos-estilo-vida-saludable"": ""https://es.scholistico.com/5-consejos-estilo-vida-saludable...",courses/HHP
+ST,English,en,en.scholistico,Sound Therapy,https://scholistico.com/product/sound-therapy-practitioner-certification-course/,{},"{
+  ""sound-therapy-practitioner-certification-course"": ""https://scholistico.com/product/sound-therap...",{},courses/ST
+MT,English,en,en.scholistico,Movement Therapy,https://scholistico.com/product/introduction-to-movement-therapy/,{},"{
+  ""introduction-to-movement-therapy"": ""https://scholistico.com/product/introduction-to-movement-th...",{},courses/MT
+MT,Dutch,nl,nl.scholistico,Movement Therapy,https://nl.scholistico.com/product/officieel-certificaat-voor-de-opleiding-bewegingstherapeut/,{},"{
+  ""officieel-certificaat-voor-de-opleiding-bewegingstherapeut"": ""https://nl.scholistico.com/produc...",{},courses/MT
+ACS,English,en,en.scholistico,Animal Wellness,https://scholistico.com/product/animal-communication-specialist-training-course/,"{
+  ""7-ways-for-effective-communication-with-animals"": ""https://scholistico.com/7-ways-for-effective...","{
+  ""animal-communication-specialist-training-course"": ""https://scholistico.com/product/animal-commu...","{
+  ""7-ways-for-effective-communication-with-animals"": ""https://scholistico.com/7-ways-for-effective...",courses/ACS
+ACS,Dutch,nl,nl.scholistico,Animal Wellness,https://nl.scholistico.com/product/dierencommunicatie-specialist-opleiding/,"{
+  ""leer-te-communiceren-met-dieren"": ""https://nl.scholistico.com/leer-te-communiceren-met-dieren/""...","{
+  ""dierencommunicatie-specialist-opleiding"": ""https://nl.scholistico.com/product/dierencommunicati...","{
+  ""leer-te-communiceren-met-dieren"": ""https://nl.scholistico.com/leer-te-communiceren-met-dieren/""...",courses/ACS
+ACS,Italian,it,it.scholistico,Animal Wellness,https://it.scholistico.com/prodotto/corso-di-formazione-in-comunicazione-animale/,"{
+  ""corso-di-comunicazione-animale-imparare-a-comunicare"": ""https://it.scholistico.com/corso-di-com...","{
+  ""corso-di-formazione-in-comunicazione-animale"": ""https://it.scholistico.com/prodotto/corso-di-fo...","{
+  ""corso-di-comunicazione-animale-imparare-a-comunicare"": ""https://it.scholistico.com/corso-di-com...",courses/ACS
+ACS,German,de,de.scholistico,Animal Wellness,https://de.scholistico.com/produkt/ausbildung-zum-tierkommunikationsspezialisten/,"{
+  ""was-ist-ein-tierkommunikator-und-wie-wird-man-einer"": ""https://de.scholistico.com/was-ist-ein-t...","{
+  ""ausbildung-zum-tierkommunikationsspezialisten"": ""https://de.scholistico.com/produkt/ausbildung-...","{
+  ""was-ist-ein-tierkommunikator-und-wie-wird-man-einer"": ""https://de.scholistico.com/was-ist-ein-t...",courses/ACS
+ACS,Spanish,es,es.scholistico,Animal Wellness,https://es.scholistico.com/producto/curso-de-certificacion-de-especialista-en-comunicacion-animal/,{},"{
+  ""curso-de-certificacion-de-especialista-en-comunicacion-animal"": ""https://es.scholistico.com/pro...",{},courses/ACS

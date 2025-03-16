@@ -1,0 +1,188 @@
+
+#Art Therapy
+{
+  "5-benefici-dellarteterapia-per-gli-adulti": {
+    "url": "https://it.scholistico.com/5-benefici-dellarteterapia-per-gli-adulti/",
+    "english_title": "5 Benefits of Art Therapy for Adults"
+  },
+  "10-attivita-di-arteterapia-per-le-coppie-per-consolidare-il-loro-rapporto": {
+    "url": "https://it.scholistico.com/10-attivita-di-arteterapia-per-le-coppie-per-consolidare-il-loro-rapporto/",
+    "english_title": "10 Art Therapy Activities for Couples to Strengthen Their Relationship"
+  },
+  "8-attivita-di-arteterapia-per-lansia": {
+    "url": "https://it.scholistico.com/8-attivita-di-arteterapia-per-lansia/",
+    "english_title": "8 Art Therapy Activities for Anxiety"
+  },
+  "7-migliori-esercizi-di-arteterapia-per-la-demenza": {
+    "url": "https://it.scholistico.com/7-migliori-esercizi-di-arteterapia-per-la-demenza/",
+    "english_title": "7 Best Art Therapy Exercises for Dementia"
+  },
+  "5-migliori-esercizi-di-arteterapia-per-il-supporto-allautismo": {
+    "url": "https://it.scholistico.com/5-migliori-esercizi-di-arteterapia-per-il-supporto-allautismo/",
+    "english_title": "5 Best Art Therapy Exercises for Autism Support"
+  },
+  "10-attivita-di-arteterapia-per-riduzione-di-stress": {
+    "url": "https://it.scholistico.com/10-attivita-di-arteterapia-per-riduzione-di-stress/",
+    "english_title": "10 art therapy activities for stress reduction"
+  },
+  "esercizi-di-arteterapia-per-recupero-del-lutto": {
+    "url": "https://it.scholistico.com/esercizi-di-arteterapia-per-recupero-del-lutto/",
+    "english_title": "Art therapy exercises for grief recovery"
+  },
+  "5-piu-efficaci-tecniche-di-arteterapia-per-i-veterani": {
+    "url": "https://it.scholistico.com/5-piu-efficaci-tecniche-di-arteterapia-per-i-veterani/",
+    "english_title": "5 Most Effective Art Therapy Techniques for Veterans"
+  },
+  "5-efficaci-esercizi-di-arteterapia-per-il-recupero-da-ptsd": {
+    "url": "https://it.scholistico.com/5-efficaci-esercizi-di-arteterapia-per-il-recupero-da-ptsd/",
+    "english_title": "5 Effective Art Therapy Exercises for PTSD Recovery"
+  },
+  "arteterapia-clinica-e-non-clinica-una-guida-completa-per-capire-le-differenze": {
+    "url": "https://it.scholistico.com/arteterapia-clinica-e-non-clinica-una-guida-completa-per-capire-le-differenze/",
+    "english_title": "Art Therapy: Clinical and Non-Clinical - A Comprehensive Guide to Understanding the Differences"
+  },
+  "10-eccellenti-attivita-di-arteterapia-per-gli-adolescenti": {
+    "url": "https://it.scholistico.com/10-eccellenti-attivita-di-arteterapia-per-gli-adolescenti/",
+    "english_title": "10 Excellent Art Therapy Activities for Adolescents"
+  },
+  "10-esercizi-di-arteterapia-piu-efficaci-per-il-recupero-dalle-dipendenze": {
+    "url": "https://it.scholistico.com/10-esercizi-di-arteterapia-piu-efficaci-per-il-recupero-dalle-dipendenze/",
+    "english_title": "10 Most Effective Art Therapy Exercises for Addiction Recovery"
+  },
+  "abbracciare-il-suo-ruolo-di-operatore-non-clinico-di-arteterapia": {
+    "url": "https://it.scholistico.com/abbracciare-il-suo-ruolo-di-operatore-non-clinico-di-arteterapia/",
+    "english_title": "Embracing their role as a non-clinical art therapy practitioner"
+  },
+  "la-guida-completa-delle-attivita-di-arteterapia-per-il-sonno-e-le-notti-riposanti": {
+    "url": "https://it.scholistico.com/la-guida-completa-delle-attivita-di-arteterapia-per-il-sonno-e-le-notti-riposanti/",
+    "english_title": "The Complete Guide to Art Therapy Activities for Sleep and Restful Nights"
+  },
+  "i-benefici-della-colorazione-per-adulti-nei-casi-di-stress": {
+    "url": "https://it.scholistico.com/i-benefici-della-colorazione-per-adulti-nei-casi-di-stress/",
+    "english_title": "The benefits of adult coloring for stress relief"
+  },
+  "il-potere-dellarteterapia-per-gli-adolescenti-benefici-e-tecniche": {
+    "url": "https://it.scholistico.com/il-potere-dellarteterapia-per-gli-adolescenti-benefici-e-tecniche/",
+    "english_title": "The power of art therapy for adolescents: benefits and techniques"
+  },
+  "arteterapia-ottenere-il-meglio-dai-bambini": {
+    "url": "https://it.scholistico.com/arteterapia-ottenere-il-meglio-dai-bambini/",
+    "english_title": "Art therapy: getting the best out of children"
+  },
+  "10-modi-creativi-per-utilizzare-larteterapia-con-i-bambini": {
+    "url": "https://it.scholistico.com/10-modi-creativi-per-utilizzare-larteterapia-con-i-bambini/",
+    "english_title": "10 Creative Ways to Use Art Therapy with Children"
+  },
+  "divertimento-e-responsabilizzazione-attraverso-larteterapia": {
+    "url": "https://it.scholistico.com/divertimento-e-responsabilizzazione-attraverso-larteterapia/",
+    "english_title": "Fun and empowerment through art therapy"
+  },
+  "cose-larteterapia-e-come-funziona": {
+    "url": "https://it.scholistico.com/cose-larteterapia-e-come-funziona/",
+    "english_title": "What art therapy is and how it works"
+  }
+}
+
+#Naturopathy
+{
+  "naturopatia-principi-pratiche-e-benefici-della-guarigione-naturale": {
+    "url": "https://it.scholistico.com/naturopatia-principi-pratiche-e-benefici-della-guarigione-naturale/",
+    "english_title": "Naturopathy: Principles, Practices, and Benefits of Natural Healing"
+  },
+  "10-trattamenti-naturopatici-per-condizioni-di-salute-specifiche": {
+    "url": "https://it.scholistico.com/10-trattamenti-naturopatici-per-condizioni-di-salute-specifiche/",
+    "english_title": "10 naturopathic treatments for specific health conditions"
+  },
+  "5-migliori-rimedi-naturali-casalinghi-per-la-salute-dellapparato-digerente": {
+    "url": "https://it.scholistico.com/5-migliori-rimedi-naturali-casalinghi-per-la-salute-dellapparato-digerente/",
+    "english_title": "5 Best Natural Home Remedies for Digestive System Health"
+  },
+  "4-rimedi-casalinghi-naturali-per-la-tosse-e-il-mal-di-gola": {
+    "url": "https://it.scholistico.com/4-rimedi-casalinghi-naturali-per-la-tosse-e-il-mal-di-gola/",
+    "english_title": "4 natural home remedies for cough and sore throat"
+  },
+  "7-motivi-convincenti-per-intraprendere-la-carriera-di-operatore-di-naturopatia-ora-stesso": {
+    "url": "https://it.scholistico.com/7-motivi-convincenti-per-intraprendere-la-carriera-di-operatore-di-naturopatia-ora-stesso/",
+    "english_title": "7 compelling reasons to start a career as a naturopathy practitioner right now"
+  },
+  "guida-per-principianti-alla-naturopatia-quello-che-deve-sapere": {
+    "url": "https://it.scholistico.com/guida-per-principianti-alla-naturopatia-quello-che-deve-sapere/",
+    "english_title": "Beginner's Guide to Naturopathy: What You Need to Know"
+  },
+  "cosa-puo-fare-con-una-certificazione-di-naturopatia": {
+    "url": "https://it.scholistico.com/cosa-puo-fare-con-una-certificazione-di-naturopatia/",
+    "english_title": "what you can do with a naturopathy certification"
+  },
+  "ottenere-un-sollievo-naturale-dal-dolore-attraverso-la-naturopatia": {
+    "url": "https://it.scholistico.com/ottenere-un-sollievo-naturale-dal-dolore-attraverso-la-naturopatia/",
+    "english_title": "Obtaining natural pain relief through naturopathy"
+  }
+}
+
+#Nutrition
+{
+  "8-migliori-super-cibi-per-il-sistema-immunitario": {
+    "url": "https://it.scholistico.com/8-migliori-super-cibi-per-il-sistema-immunitario/",
+    "english_title": "8 Best Superfoods for the Immune System"
+  },
+  "cosa-puo-fare-con-una-certificazione-di-nutrizione-olistica": {
+    "url": "https://it.scholistico.com/cosa-puo-fare-con-una-certificazione-di-nutrizione-olistica/",
+    "english_title": "what you can do with a holistic nutrition certification"
+  },
+  "10-migliori-integratori-naturali-per-una-salute-migliore": {
+    "url": "https://it.scholistico.com/10-migliori-integratori-naturali-per-una-salute-migliore/",
+    "english_title": "10 Best Natural Supplements for Better Health"
+  }
+}
+
+#Holistic Health
+{
+  "i-7-motivi-principali-per-conseguire-una-certificazione-di-guarigione-olistica-online": {
+    "url": "https://it.scholistico.com/i-7-motivi-principali-per-conseguire-una-certificazione-di-guarigione-olistica-online/",
+    "english_title": "The 7 main reasons to obtain an online holistic healing certification"
+  },
+  "10-benefici-della-medicina-alternativa-come-puo-aiutarvi": {
+    "url": "https://it.scholistico.com/10-benefici-della-medicina-alternativa-come-puo-aiutarvi/",
+    "english_title": "10 benefits of alternative medicine: how it can help you"
+  },
+  "5-consigli-per-uno-stile-di-vita-sano": {
+    "url": "https://it.scholistico.com/5-consigli-per-uno-stile-di-vita-sano/",
+    "english_title": "5 tips for a healthy lifestyle"
+  },
+  "i-10-modi-migliori-per-ridurre-lo-stress": {
+    "url": "https://it.scholistico.com/i-10-modi-migliori-per-ridurre-lo-stress/",
+    "english_title": "The 10 Best Ways to Reduce Stress"
+  },
+  "11-medicine-alternative-per-migliorare-la-vostra-salute-2": {
+    "url": "https://it.scholistico.com/11-medicine-alternative-per-migliorare-la-vostra-salute-2/",
+    "english_title": "11 Alternative Medicines to Improve Your Health"
+  },
+  "benefici-della-disintossicazione-con-layurveda": {
+    "url": "https://it.scholistico.com/benefici-della-disintossicazione-con-layurveda/",
+    "english_title": "Benefits of detoxification with Ayurveda"
+  },
+  "ayurveda-per-principianti-tutto-quello-che-ce-da-sapere": {
+    "url": "https://it.scholistico.com/ayurveda-per-principianti-tutto-quello-che-ce-da-sapere/",
+    "english_title": "Ayurveda for Beginners: Everything You Need to Know"
+  }
+}
+
+#Animal Wellness
+{
+  "corso-di-comunicazione-animale-imparare-a-comunicare": {
+    "url": "https://it.scholistico.com/corso-di-comunicazione-animale-imparare-a-comunicare/",
+    "english_title": "Animal Communication Course: Learning to Communicate"
+  },
+  "che-cose-un-comunicatore-animale-e-come-diventarlo": {
+    "url": "https://it.scholistico.com/che-cose-un-comunicatore-animale-e-come-diventarlo/",
+    "english_title": "What is an animal communicator and how to become one"
+  }
+}
+
+#Learning
+{
+  "la-gerarchia-dellapprendimento-trasformare-i-dati-in-vera-saggezza": {
+    "url": "https://it.scholistico.com/la-gerarchia-dellapprendimento-trasformare-i-dati-in-vera-saggezza/",
+    "english_title": "The Hierarchy of Learning: Transforming Data into True Wisdom"
+  }
+}

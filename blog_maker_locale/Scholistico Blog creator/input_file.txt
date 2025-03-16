@@ -1,0 +1,9 @@
+{
+    "language": ["German"],
+    "topic": [
+        {
+            "course_code": "HNC",
+            "title": "9 Protein-Rich Foods for Vegetarians"
+        }
+    ]
+}
